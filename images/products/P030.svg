@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Légumes Mélangés Surgelés 1kg">
+  <rect width="320" height="320" fill="#E1EEF7"/>
+  <g transform="translate(96,72)" color="#1F2A24" opacity="0.85"><path d="M32 8v48M10 18l44 28M54 18 10 46" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></g>
+  <text x="160" y="250" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#1F2A24">Légumes Mélangés</text>
+  <text x="160" y="270" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" fill="#1F2A24" opacity="0.75">Surgelés 1kg</text>
+</svg>

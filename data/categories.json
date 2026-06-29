@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Lait",
+    "slug": "lait",
+    "icon": "images/categories/lait.svg"
+  },
+  {
+    "name": "Fromage",
+    "slug": "fromage",
+    "icon": "images/categories/fromage.svg"
+  },
+  {
+    "name": "Beurre",
+    "slug": "beurre",
+    "icon": "images/categories/beurre.svg"
+  },
+  {
+    "name": "Yaourt",
+    "slug": "yaourt",
+    "icon": "images/categories/yaourt.svg"
+  },
+  {
+    "name": "Chocolat",
+    "slug": "chocolat",
+    "icon": "images/categories/chocolat.svg"
+  },
+  {
+    "name": "Petit-déjeuner",
+    "slug": "petit-dejeuner",
+    "icon": "images/categories/petit-dejeuner.svg"
+  },
+  {
+    "name": "Snacks",
+    "slug": "snacks",
+    "icon": "images/categories/snacks.svg"
+  },
+  {
+    "name": "Biscuits",
+    "slug": "biscuits",
+    "icon": "images/categories/biscuits.svg"
+  },
+  {
+    "name": "Confiture",
+    "slug": "confiture",
+    "icon": "images/categories/confiture.svg"
+  },
+  {
+    "name": "Miel",
+    "slug": "miel",
+    "icon": "images/categories/miel.svg"
+  },
+  {
+    "name": "Sauces",
+    "slug": "sauces",
+    "icon": "images/categories/sauces.svg"
+  },
+  {
+    "name": "Café",
+    "slug": "cafe",
+    "icon": "images/categories/cafe.svg"
+  },
+  {
+    "name": "Thé",
+    "slug": "the",
+    "icon": "images/categories/the.svg"
+  },
+  {
+    "name": "Jus",
+    "slug": "jus",
+    "icon": "images/categories/jus.svg"
+  },
+  {
+    "name": "Surgelés",
+    "slug": "surgeles",
+    "icon": "images/categories/surgeles.svg"
+  },
+  {
+    "name": "Produits ménagers",
+    "slug": "produits-menagers",
+    "icon": "images/categories/produits-menagers.svg"
+  },
+  {
+    "name": "Nettoyage",
+    "slug": "nettoyage",
+    "icon": "images/categories/nettoyage.svg"
+  },
+  {
+    "name": "Hygiène",
+    "slug": "hygiene",
+    "icon": "images/categories/hygiene.svg"
+  }
+]
