@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tous les produits — Souk Baba Ali</title>
+<meta name="description" content="Parcourez tous les produits de Souk Baba Ali : lait, fromage, épicerie, boissons, produits ménagers et plus. Recherche, filtres par catégorie et tri par prix.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://soukbabaali.example/products.html">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tous les produits — Souk Baba Ali">
+<meta property="og:description" content="Parcourez le catalogue complet et ajoutez vos produits préférés au panier.">
+<meta property="og:image" content="images/assets/og-image.png">
+<meta property="og:locale" content="fr_DZ">
+
+<link rel="icon" type="image/svg+xml" href="images/assets/favicon.svg">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Aller au contenu principal</a>
+
+<header class="site-header">
+  <div class="container header-bar">
+    <a class="brand" href="index.html">
+      <img class="brand-mark" src="images/assets/logo.svg" alt="" width="42" height="42">
+      <span class="brand-text"><strong>Souk Baba Ali</strong><span>Épicerie &amp; supermarché</span></span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="Navigation principale">
+      <a href="index.html">Accueil</a>
+      <a href="products.html" aria-current="page">Produits</a>
+      <a href="products.html#categories">Catégories</a>
+      <a href="checkout.html">Livraison</a>
+      <a href="privacy.html">Confidentialité</a>
+    </nav>
+    <div class="header-actions">
+      <form class="header-search" id="header-search-form" role="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input type="search" placeholder="Rechercher un produit…" aria-label="Rechercher un produit">
+      </form>
+      <a class="cart-btn" href="cart.html" aria-label="Voir le panier">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6h15l-1.5 9h-12L5 3H2"/><circle cx="9" cy="20" r="1.4" fill="currentColor"/><circle cx="18" cy="20" r="1.4" fill="currentColor"/></svg>
+        <span class="cart-count" id="cart-count" style="display:none">0</span>
+      </a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="main-nav">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <div class="page-head">
+    <div class="container">
+      <div class="breadcrumb"><a href="index.html">Accueil</a><span>/</span><span>Produits</span></div>
+      <h1>Tous les produits</h1>
+    </div>
+  </div>
+
+  <div class="container" id="categories">
+    <div class="toolbar" role="search" aria-label="Recherche et filtres produits">
+      <div class="search-field">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input type="search" id="search-input" placeholder="Rechercher par nom, description, catégorie…" aria-label="Rechercher un produit">
+      </div>
+      <select id="category-select" class="field-select" aria-label="Filtrer par catégorie">
+        <option value="">Toutes les catégories</option>
+      </select>
+      <select id="sort-select" class="field-select" aria-label="Trier les produits">
+        <option value="default">Tri par défaut</option>
+        <option value="price-asc">Prix croissant</option>
+        <option value="price-desc">Prix décroissant</option>
+        <option value="name-asc">Nom A → Z</option>
+        <option value="name-desc">Nom Z → A</option>
+      </select>
+    </div>
+    <div class="chip-filters" id="category-chips" aria-label="Filtres rapides par catégorie"></div>
+  </div>
+
+  <div class="container section-tight">
+    <p class="results-meta" id="results-meta">Chargement…</p>
+
+    <div class="product-grid" id="product-grid">
+      <div class="page-loader"><span class="spinner dark"></span> Chargement des produits…</div>
+    </div>
+
+    <div class="empty-state" id="empty-state" hidden>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <h3>Aucun produit trouvé</h3>
+      <p>Essayez un autre mot-clé ou une autre catégorie.</p>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="brand">
+          <img class="brand-mark" src="images/assets/logo.svg" alt="" width="42" height="42">
+          <span class="brand-text"><strong>Souk Baba Ali</strong><span>Épicerie &amp; supermarché</span></span>
+        </div>
+        <p>Votre supermarché de quartier en ligne. Produits frais et d'épicerie, livrés chez vous, payés à la livraison.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Boutique</h4>
+        <ul>
+          <li><a href="products.html">Tous les produits</a></li>
+          <li><a href="products.html#categories">Catégories</a></li>
+          <li><a href="cart.html">Mon panier</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Informations</h4>
+        <ul>
+          <li><a href="privacy.html">Politique de confidentialité</a></li>
+          <li><a href="checkout.html">Zones de livraison</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="tel:+213550000000">+213 550 00 00 00</a></li>
+          <li><a href="mailto:contact@soukbabaali.example">contact@soukbabaali.example</a></li>
+          <li>Baba Ali, Wilaya de Blida</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> Souk Baba Ali. Tous droits réservés.</span>
+      <span>Paiement à la livraison uniquement · Sans création de compte</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+<script src="js/api.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/products.js"></script>
+<script src="js/search.js"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Commande confirmée — Souk Baba Ali</title>
+<meta name="description" content="Votre commande Souk Baba Ali a bien été enregistrée. Paiement en espèces à la livraison.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/svg+xml" href="images/assets/favicon.svg">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Aller au contenu principal</a>
+
+<header class="site-header">
+  <div class="container header-bar">
+    <a class="brand" href="index.html">
+      <img class="brand-mark" src="images/assets/logo.svg" alt="" width="42" height="42">
+      <span class="brand-text"><strong>Souk Baba Ali</strong><span>Épicerie &amp; supermarché</span></span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="Navigation principale">
+      <a href="index.html">Accueil</a>
+      <a href="products.html">Produits</a>
+      <a href="products.html#categories">Catégories</a>
+      <a href="checkout.html">Livraison</a>
+      <a href="privacy.html">Confidentialité</a>
+    </nav>
+    <div class="header-actions">
+      <a class="cart-btn" href="cart.html" aria-label="Voir le panier">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6h15l-1.5 9h-12L5 3H2"/><circle cx="9" cy="20" r="1.4" fill="currentColor"/><circle cx="18" cy="20" r="1.4" fill="currentColor"/></svg>
+        <span class="cart-count" id="cart-count" style="display:none">0</span>
+      </a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="main-nav">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <div class="container section">
+
+    <div class="confirmation-card fade-in" id="confirmation-details">
+      <div class="confirmation-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 13l4 4L19 7"/></svg>
+      </div>
+      <h1>Merci, votre commande est confirmée !</h1>
+      <p class="text-muted">Nous avons bien reçu votre commande. Notre équipe vous contactera pour confirmer la livraison.</p>
+      <div class="confirmation-order-id" id="confirmation-order-id">#000000</div>
+
+      <div style="text-align:left; max-width:420px; margin:0 auto 24px;">
+        <p style="margin-bottom:4px"><strong>Client :</strong> <span id="confirmation-name"></span></p>
+        <p style="margin-bottom:18px"><strong>Adresse :</strong> <span id="confirmation-address"></span></p>
+        <div class="order-summary-list" id="confirmation-items"></div>
+        <div class="summary-row total"><span>Total</span><span id="confirmation-total">0 DZD</span></div>
+      </div>
+
+      <div class="cod-note" style="text-align:left">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 12V8H6a2 2 0 0 1-2-2c0-1.1.9-2 2-2h12v4"/><path d="M4 6v12a2 2 0 0 0 2 2h14v-4"/></svg>
+        <span>Paiement en espèces à la livraison. Conservez ce numéro de commande en cas de question.</span>
+      </div>
+
+      <a class="btn btn-primary" href="products.html" style="margin-top:24px">Continuer mes achats</a>
+    </div>
+
+    <div class="confirmation-card fade-in" id="confirmation-no-order" hidden>
+      <h1>Aucune commande récente</h1>
+      <p class="text-muted">Nous n'avons trouvé aucune commande récente sur cet appareil.</p>
+      <a class="btn btn-primary" href="products.html" style="margin-top:18px">Voir les produits</a>
+    </div>
+
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="brand">
+          <img class="brand-mark" src="images/assets/logo.svg" alt="" width="42" height="42">
+          <span class="brand-text"><strong>Souk Baba Ali</strong><span>Épicerie &amp; supermarché</span></span>
+        </div>
+        <p>Votre supermarché de quartier en ligne. Produits frais et d'épicerie, livrés chez vous, payés à la livraison.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Boutique</h4>
+        <ul>
+          <li><a href="products.html">Tous les produits</a></li>
+          <li><a href="products.html#categories">Catégories</a></li>
+          <li><a href="cart.html">Mon panier</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Informations</h4>
+        <ul>
+          <li><a href="privacy.html">Politique de confidentialité</a></li>
+          <li><a href="checkout.html">Zones de livraison</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="tel:+213550000000">+213 550 00 00 00</a></li>
+          <li><a href="mailto:contact@soukbabaali.example">contact@soukbabaali.example</a></li>
+          <li>Baba Ali, Wilaya de Blida</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> Souk Baba Ali. Tous droits réservés.</span>
+      <span>Paiement à la livraison uniquement · Sans création de compte</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+<script src="js/api.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/checkout.js"></script>
+</body>
+</html>
