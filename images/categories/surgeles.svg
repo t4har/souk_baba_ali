@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Surgelés">
+  <circle cx="32" cy="32" r="32" fill="#E1EEF7"/>
+  <g color="#1F2A24"><path d="M32 8v48M10 18l44 28M54 18 10 46" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></g>
+</svg>
