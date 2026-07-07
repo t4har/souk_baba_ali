@@ -6,20 +6,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Cairo:wght@400;500;600;700&display=swap');
 
 :root {
-  /* --- Color tokens --- */
-  --color-bg:        #FAF7F1;
-  --color-surface:   #FFFFFF;
-  --color-ink:       #1F2A24;
-  --color-ink-soft:  #51604F;
-  --color-green:     #1B5E3F;
-  --color-green-dark:#103D29;
-  --color-green-soft:#E8F2EC;
-  --color-gold:      #E8A33D;
-  --color-gold-dark: #C9842A;
-  --color-clay:      #D6643A;
-  --color-line:      #E7E0D3;
-  --color-success:   #1B5E3F;
-  --color-danger:    #B23A2E;
+  /* ===========================
+     Color tokens
+     =========================== */
+
+  --color-bg: #f8f9fa;
+  --color-surface: #ffffff;
+
+  --color-ink: #1f2937;
+  --color-ink-soft: #6b7280;
+
+  /* Primary (Rouge) */
+  --color-green: #d62828;
+  --color-green-dark: #a91f1f;
+  --color-green-soft: #fdecec;
+
+  /* Accent (Jaune) */
+  --color-gold: #f4c542;
+  --color-gold-dark: #d9a91a;
+
+  /* Secondary accent */
+  --color-clay: #f77f00;
+
+  /* Borders */
+  --color-line: #e5e7eb;
+
+  /* Status */
+  --color-success: #2e7d32;
+  --color-danger: #c62828;
 
   /* --- Type tokens --- */
   --font-display: 'Fraunces', Georgia, serif;
