@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="BOUROUROU ROCKFORT CHEVRE">
+  <rect width="320" height="320" fill="#EDE5C8"/>
+  <g transform="translate(96,64)" color="#1F2A24" opacity="0.82"><rect x="10" y="22" width="44" height="22" rx="3" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M10 22l8-8h28l8 8" fill="none" stroke="currentColor" stroke-width="2.5"/></g>
+  <text x="160" y="228" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" fill="#1F2A24" opacity="0.5">BRR0013</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#1F2A24">BOUROUROU ROCKFORT</text>
+  <text x="160" y="272" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#1F2A24" opacity="0.7">CHEVRE</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="CONFITURE JNAN DATTES ET NOIX 400 G">
+  <rect width="320" height="320" fill="#F6D9D2"/>
+  <g transform="translate(96,64)" color="#1F2A24" opacity="0.82"><path d="M22 12h20v8l4 4v22a4 4 0 0 1-4 4H22a4 4 0 0 1-4-4V24l4-4v-8z" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M22 30h20" stroke="currentColor" stroke-width="2.5"/></g>
+  <text x="160" y="228" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" fill="#1F2A24" opacity="0.5">MDL0005</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#1F2A24">CONFITURE JNAN DATTES ET</text>
+  <text x="160" y="272" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#1F2A24" opacity="0.7">NOIX 400 G</text>
+</svg>

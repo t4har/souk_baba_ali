@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="CELIA DEVELOP3 / 900Gr">
+  <rect width="320" height="320" fill="#E8EFF8"/>
+  <g transform="translate(96,64)" color="#1F2A24" opacity="0.82"><path d="M28 8h8v8l4 4v26a4 4 0 0 1-4 4H28a4 4 0 0 1-4-4V20l4-4V8z" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="32" cy="14" r="2" fill="currentColor"/></g>
+  <text x="160" y="228" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" fill="#1F2A24" opacity="0.5">CEL0004</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#1F2A24">CELIA DEVELOP3 / 900Gr</text>
+  <text x="160" y="272" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#1F2A24" opacity="0.7"></text>
+</svg>

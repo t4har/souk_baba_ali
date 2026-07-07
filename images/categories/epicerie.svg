@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Épicerie">
+  <circle cx="32" cy="32" r="32" fill="#F4DCC8"/>
+  <g color="#1F2A24"><rect x="14" y="14" width="36" height="36" rx="4" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M14 26h36M26 14v36" stroke="currentColor" stroke-width="2"/></g>
+</svg>

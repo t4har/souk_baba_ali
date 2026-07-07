@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="LE FRIAND LES MACARONS DU FRIAND GM">
+  <rect width="320" height="320" fill="#FBEAD2"/>
+  <g transform="translate(96,64)" color="#1F2A24" opacity="0.82"><path d="M16 40c0-16 8-28 16-32 8 4 16 16 16 32H16z" fill="none" stroke="currentColor" stroke-width="2.5"/></g>
+  <text x="160" y="228" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" fill="#1F2A24" opacity="0.5">FRI0018</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#1F2A24">LE FRIAND LES MACARONS</text>
+  <text x="160" y="272" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#1F2A24" opacity="0.7">DU FRIAND GM</text>
+</svg>

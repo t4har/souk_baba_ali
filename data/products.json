@@ -1,0 +1,7886 @@
+[
+  {
+    "id": "YOM0002",
+    "name": {
+      "fr": "JUS YOUMY ORANGE 1L x6",
+      "ar": "JUS YOUMY ORANGE 1L x6 — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 606.9,
+    "image": "images/products/YOM0002.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "YOM0002"
+  },
+  {
+    "id": "BLT0019",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA1.5 KG",
+      "ar": "BELLAT LUNCHEON POULET DLICIA1.5 KG — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 850.01,
+    "image": "images/products/BLT0019.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "BLT0019"
+  },
+  {
+    "id": "BRR0014",
+    "name": {
+      "fr": "BOUROUROU YAOURT DE CHEVRE",
+      "ar": "BOUROUROU YAOURT DE CHEVRE — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "image": "images/products/BRR0014.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0014"
+  },
+  {
+    "id": "OAM0001",
+    "name": {
+      "fr": "OUAMANIA CREME D AIL NOIR",
+      "ar": "OUAMANIA CREME D AIL NOIR — كريم"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 595.0,
+    "image": "images/products/OAM0001.svg",
+    "stock": 53,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "OAM0001"
+  },
+  {
+    "id": "YOM0006",
+    "name": {
+      "fr": "JUS YOUMY MANGUE 1L",
+      "ar": "JUS YOUMY MANGUE 1L — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 606.9,
+    "image": "images/products/YOM0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "YOM0006"
+  },
+  {
+    "id": "YOM0005",
+    "name": {
+      "fr": "JUS YOUMY COCKTAIL DE FRUITS 1L",
+      "ar": "JUS YOUMY COCKTAIL DE FRUITS 1L — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 606.9,
+    "image": "images/products/YOM0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "YOM0005"
+  },
+  {
+    "id": "YOM0003",
+    "name": {
+      "fr": "JUS YOUMY ANANAS 1L x6",
+      "ar": "JUS YOUMY ANANAS 1L x6 — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 606.9,
+    "image": "images/products/YOM0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "YOM0003"
+  },
+  {
+    "id": "BRR0016",
+    "name": {
+      "fr": "BOUROUROU MOZZARELLA VACHE 250Gr",
+      "ar": "BOUROUROU MOZZARELLA VACHE 250Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2000.0,
+    "image": "images/products/BRR0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0016"
+  },
+  {
+    "id": "CRP0001",
+    "name": {
+      "fr": "CREPEX GERMECH GOUT CHOCO 50Gr",
+      "ar": "CREPEX GERMECH GOUT CHOCO 50Gr — كريب"
+    },
+    "category": "crepe",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/CRP0001.svg",
+    "stock": 37,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "CRP0001"
+  },
+  {
+    "id": "GIP0006",
+    "name": {
+      "fr": "GIPLAIT Yaourt etuvé Aromatisé 100 G",
+      "ar": "GIPLAIT Yaourt etuvé Aromatisé 100 G — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 23.0,
+    "image": "images/products/GIP0006.svg",
+    "stock": 195,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0006"
+  },
+  {
+    "id": "FRI0053",
+    "name": {
+      "fr": "LE FRIAND TRIANGLE",
+      "ar": "LE FRIAND TRIANGLE"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "image": "images/products/FRI0053.svg",
+    "stock": 1,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "FRI0053"
+  },
+  {
+    "id": "BRR0019",
+    "name": {
+      "fr": "BOUROUROU BLEU DE CHEVRE",
+      "ar": "BOUROUROU BLEU DE CHEVRE"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 6000.0,
+    "image": "images/products/BRR0019.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0019"
+  },
+  {
+    "id": "BRR0018",
+    "name": {
+      "fr": "BOUROUROU PERMESAN CHEVRE",
+      "ar": "BOUROUROU PERMESAN CHEVRE"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 3999.99,
+    "image": "images/products/BRR0018.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0018"
+  },
+  {
+    "id": "BRR0021",
+    "name": {
+      "fr": "BOUROUROU CROUTA CHEVRE 120Gr",
+      "ar": "BOUROUROU CROUTA CHEVRE 120Gr"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 399.99,
+    "image": "images/products/BRR0021.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0021"
+  },
+  {
+    "id": "CRP0005",
+    "name": {
+      "fr": "CREPEX GERMECH GOUT DUBAI 50Gr",
+      "ar": "CREPEX GERMECH GOUT DUBAI 50Gr — كريب"
+    },
+    "category": "crepe",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/CRP0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CRP0005"
+  },
+  {
+    "id": "CRP0004",
+    "name": {
+      "fr": "CREPEX GERMECH GOUT BOUNTY 50Gr",
+      "ar": "CREPEX GERMECH GOUT BOUNTY 50Gr — كريب"
+    },
+    "category": "crepe",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/CRP0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CRP0004"
+  },
+  {
+    "id": "CRP0002",
+    "name": {
+      "fr": "CREPEX GERMECH GOUT PISTACHE 50Gr",
+      "ar": "CREPEX GERMECH GOUT PISTACHE 50Gr — كريب"
+    },
+    "category": "crepe",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/CRP0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CRP0002"
+  },
+  {
+    "id": "CRP0003",
+    "name": {
+      "fr": "CREPEX GERMECH GOUT BUENO 50Gr",
+      "ar": "CREPEX GERMECH GOUT BUENO 50Gr — كريب"
+    },
+    "category": "crepe",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/CRP0003.svg",
+    "stock": 2,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "CRP0003"
+  },
+  {
+    "id": "CRP0006",
+    "name": {
+      "fr": "CREPEX GERMECH GOUT LOTUS",
+      "ar": "CREPEX GERMECH GOUT LOTUS — كريب"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/CRP0006.svg",
+    "stock": 25,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "CRP0006"
+  },
+  {
+    "id": "GIP0019",
+    "name": {
+      "fr": "GIPLAIT CHERBET  ZEST CITRON BOUTEILLE 1 L",
+      "ar": "GIPLAIT CHERBET  ZEST CITRON BOUTEILLE 1 L — حليب"
+    },
+    "category": "cherbet",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 83.0,
+    "image": "images/products/GIP0019.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0019"
+  },
+  {
+    "id": "BRR0022",
+    "name": {
+      "fr": "BOUROUROU LBEN CHEVRE",
+      "ar": "BOUROUROU LBEN CHEVRE — لبن"
+    },
+    "category": "laban",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 220.0,
+    "image": "images/products/BRR0022.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0022"
+  },
+  {
+    "id": "BRR0010",
+    "name": {
+      "fr": "BOUROUROU FROMAGE BLEU DE VACHE TRANCHE",
+      "ar": "BOUROUROU FROMAGE BLEU DE VACHE TRANCHE — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 4500.0,
+    "image": "images/products/BRR0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0010"
+  },
+  {
+    "id": "SLB0005",
+    "name": {
+      "fr": "SALSABIL CHAPLEURE 1 KG SACHéS",
+      "ar": "SALSABIL CHAPLEURE 1 KG SACHéS"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "image": "images/products/SLB0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "SLB0005"
+  },
+  {
+    "id": "GIP0052",
+    "name": {
+      "fr": "GIPLAIT BEURRE AMIRA 250G",
+      "ar": "GIPLAIT BEURRE AMIRA 250G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 399.99,
+    "image": "images/products/GIP0052.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0052"
+  },
+  {
+    "id": "OFD0018",
+    "name": {
+      "fr": "HILTO Biscuit Oh'Lily Nature",
+      "ar": "HILTO Biscuit Oh'Lily Nature — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "image": "images/products/OFD0018.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0018"
+  },
+  {
+    "id": "OFD0016",
+    "name": {
+      "fr": "HILTO Biscuit Oh'Lily Chocolat Blanc",
+      "ar": "HILTO Biscuit Oh'Lily Chocolat Blanc — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "image": "images/products/OFD0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0016"
+  },
+  {
+    "id": "OFD0017",
+    "name": {
+      "fr": "HILTO Biscuit Oh'Lily Chocolat au lait",
+      "ar": "HILTO Biscuit Oh'Lily Chocolat au lait — حليب"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "image": "images/products/OFD0017.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0017"
+  },
+  {
+    "id": "BRR0011",
+    "name": {
+      "fr": "BOUROUROU LE BRIE DE CHEVRE",
+      "ar": "BOUROUROU LE BRIE DE CHEVRE — بري"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2400.0,
+    "image": "images/products/BRR0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0011"
+  },
+  {
+    "id": "BRR0024",
+    "name": {
+      "fr": "BOUROUROU CAMEMBERT CHEVRE",
+      "ar": "BOUROUROU CAMEMBERT CHEVRE — كامامبير"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2400.0,
+    "image": "images/products/BRR0024.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0024"
+  },
+  {
+    "id": "MLK0003",
+    "name": {
+      "fr": "MILKO GRAND SUISSE BICOUCHE FRUITE FRAISE 175G",
+      "ar": "MILKO GRAND SUISSE BICOUCHE FRUITE FRAISE 175G"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.01,
+    "image": "images/products/MLK0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MLK0003"
+  },
+  {
+    "id": "MLK0005",
+    "name": {
+      "fr": "MILKO GRAND SUISSE BICOUCHE FRUIT FRAMBOISE 175 G",
+      "ar": "MILKO GRAND SUISSE BICOUCHE FRUIT FRAMBOISE 175 G"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.01,
+    "image": "images/products/MLK0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MLK0005"
+  },
+  {
+    "id": "MLK0004",
+    "name": {
+      "fr": "MILKO GRAND SUISSE BICOUCHE FRUITE ABRICOT 175G",
+      "ar": "MILKO GRAND SUISSE BICOUCHE FRUITE ABRICOT 175G"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.01,
+    "image": "images/products/MLK0004.svg",
+    "stock": 1,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "MLK0004"
+  },
+  {
+    "id": "EAU0003",
+    "name": {
+      "fr": "L'EAU DE SOURCE IFRAN 5.5L",
+      "ar": "L'EAU DE SOURCE IFRAN 5.5L — ماء"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 80.0,
+    "image": "images/products/EAU0003.svg",
+    "stock": 392,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "EAU0003"
+  },
+  {
+    "id": "OAM0002",
+    "name": {
+      "fr": "OUAMANIA POUDRE D AIL NOIR",
+      "ar": "OUAMANIA POUDRE D AIL NOIR"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 500.0,
+    "image": "images/products/OAM0002.svg",
+    "stock": 17,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "OAM0002"
+  },
+  {
+    "id": "BRR0017",
+    "name": {
+      "fr": "BOUROUROU MOZZARELLA CHEVRE 250Gr",
+      "ar": "BOUROUROU MOZZARELLA CHEVRE 250Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 3000.0,
+    "image": "images/products/BRR0017.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0017"
+  },
+  {
+    "id": "FRI0046",
+    "name": {
+      "fr": "LE FRIAND LA GALETTE FRIAND 2Kg",
+      "ar": "LE FRIAND LA GALETTE FRIAND 2Kg"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1250.0,
+    "image": "images/products/FRI0046.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0046"
+  },
+  {
+    "id": "OAM0003",
+    "name": {
+      "fr": "OUAMANIA SEL DE FLEUR à L AIL NOIR",
+      "ar": "OUAMANIA SEL DE FLEUR à L AIL NOIR"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "image": "images/products/OAM0003.svg",
+    "stock": 10,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OAM0003"
+  },
+  {
+    "id": "DJA0005",
+    "name": {
+      "fr": "AL DJAOUHARA CAMEMBERT 200Gr",
+      "ar": "AL DJAOUHARA CAMEMBERT 200Gr — كامامبير"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/DJA0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "DJA0005"
+  },
+  {
+    "id": "GIP0028",
+    "name": {
+      "fr": "GIPLAIT L'BEN EN CARTON BEDJAIA",
+      "ar": "GIPLAIT L'BEN EN CARTON BEDJAIA — حليب"
+    },
+    "category": "laban",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 120.0,
+    "image": "images/products/GIP0028.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0028"
+  },
+  {
+    "id": "EAU0004",
+    "name": {
+      "fr": "L'EAU DE SOURCE AYNE ZABDA",
+      "ar": "L'EAU DE SOURCE AYNE ZABDA — ماء"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 80.0,
+    "image": "images/products/EAU0004.svg",
+    "stock": 278,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "EAU0004"
+  },
+  {
+    "id": "RIZ0001",
+    "name": {
+      "fr": "RIZ BASMATI 500Gr RIZELA",
+      "ar": "RIZ BASMATI 500Gr RIZELA — أرز"
+    },
+    "category": "riz",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/RIZ0001.svg",
+    "stock": 201,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "RIZ0001"
+  },
+  {
+    "id": "RIZ0002",
+    "name": {
+      "fr": "RIZ BASMATI 1Kg RIZELA",
+      "ar": "RIZ BASMATI 1Kg RIZELA — أرز"
+    },
+    "category": "riz",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 320.0,
+    "image": "images/products/RIZ0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "RIZ0002"
+  },
+  {
+    "id": "FRI0047",
+    "name": {
+      "fr": "LE FRIAND LA GALETTE LE ROUX 2Kg",
+      "ar": "LE FRIAND LA GALETTE LE ROUX 2Kg"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1290.0,
+    "image": "images/products/FRI0047.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0047"
+  },
+  {
+    "id": "MRJ0003",
+    "name": {
+      "fr": "EL MOUROUDJ FROMAGE MODZARELLA  TLEMCEN 500 G × 14",
+      "ar": "EL MOUROUDJ FROMAGE MODZARELLA  TLEMCEN 500 G × 14 — جبن"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 650.0,
+    "image": "images/products/MRJ0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0003"
+  },
+  {
+    "id": "FRI0009",
+    "name": {
+      "fr": "LE FRIAND CAMEMBERT 130 G",
+      "ar": "LE FRIAND CAMEMBERT 130 G — كامامبير"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/FRI0009.svg",
+    "stock": 709,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "FRI0009"
+  },
+  {
+    "id": "BRT0001",
+    "name": {
+      "fr": "BOITE NOUGAT BORA 40g ×24",
+      "ar": "BOITE NOUGAT BORA 40g ×24 — نوغا"
+    },
+    "category": "confiserie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1200.0,
+    "image": "images/products/BRT0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRT0001"
+  },
+  {
+    "id": "WLD0021",
+    "name": {
+      "fr": "Walid Préparation goût Cheddar 450g",
+      "ar": "Walid Préparation goût Cheddar 450g — شيدر"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 220.0,
+    "image": "images/products/WLD0021.svg",
+    "stock": 58,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "WLD0021"
+  },
+  {
+    "id": "FRI0016",
+    "name": {
+      "fr": "LE FRIAND LE CHEVRE DU FRIAND PM 130g (DECLASSER) x 44",
+      "ar": "LE FRIAND LE CHEVRE DU FRIAND PM 130g (DECLASSER) x 44"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 220.0,
+    "image": "images/products/FRI0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0016"
+  },
+  {
+    "id": "BRR0015",
+    "name": {
+      "fr": "BOUROUROU BEURRE DE CHEVRE 250Gr",
+      "ar": "BOUROUROU BEURRE DE CHEVRE 250Gr — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1100.0,
+    "image": "images/products/BRR0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0015"
+  },
+  {
+    "id": "GIP0065",
+    "name": {
+      "fr": "RAIB LE LITTORAL 600G",
+      "ar": "RAIB LE LITTORAL 600G — رايب"
+    },
+    "category": "raib",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "image": "images/products/GIP0065.svg",
+    "stock": 2,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0065"
+  },
+  {
+    "id": "DJA0002",
+    "name": {
+      "fr": "AL DJAOUHARA CAMEMBERT 130Gr",
+      "ar": "AL DJAOUHARA CAMEMBERT 130Gr — كامامبير"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.0,
+    "image": "images/products/DJA0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "DJA0002"
+  },
+  {
+    "id": "MRJ0006",
+    "name": {
+      "fr": "EL MOUROUDJ Fromage GOUDA TRANCHES AU KG",
+      "ar": "EL MOUROUDJ Fromage GOUDA TRANCHES AU KG — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1800.01,
+    "image": "images/products/MRJ0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0006"
+  },
+  {
+    "id": "GIP0054",
+    "name": {
+      "fr": "GIPLAIT BEURRE EN VRAC 10Kg SAIDA",
+      "ar": "GIPLAIT BEURRE EN VRAC 10Kg SAIDA — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 14000.0,
+    "image": "images/products/GIP0054.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0054"
+  },
+  {
+    "id": "GIP0051",
+    "name": {
+      "fr": "GIPLAIT BEURRE EN VRAC 10Kg MASCARA",
+      "ar": "GIPLAIT BEURRE EN VRAC 10Kg MASCARA — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 14000.0,
+    "image": "images/products/GIP0051.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0051"
+  },
+  {
+    "id": "GIP0049",
+    "name": {
+      "fr": "GIPLAIT BEURRE FERMIER MASCARA 1Kg",
+      "ar": "GIPLAIT BEURRE FERMIER MASCARA 1Kg — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "image": "images/products/GIP0049.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0049"
+  },
+  {
+    "id": "MAR0003",
+    "name": {
+      "fr": "MARCHMALLOW FRUITS DES BOIS 100Gr",
+      "ar": "MARCHMALLOW FRUITS DES BOIS 100Gr — مارشمالو"
+    },
+    "category": "confiserie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 140.0,
+    "image": "images/products/MAR0003.svg",
+    "stock": 27,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "MAR0003"
+  },
+  {
+    "id": "MAR0002",
+    "name": {
+      "fr": "MARCHMALLOW PASTEQUE ACIDE 100Gr",
+      "ar": "MARCHMALLOW PASTEQUE ACIDE 100Gr — مارشمالو"
+    },
+    "category": "confiserie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 140.0,
+    "image": "images/products/MAR0002.svg",
+    "stock": 19,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "MAR0002"
+  },
+  {
+    "id": "MAR0001",
+    "name": {
+      "fr": "MARCHMALLOW FRAISE VANILLE 100Gr",
+      "ar": "MARCHMALLOW FRAISE VANILLE 100Gr — مارشمالو"
+    },
+    "category": "confiserie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 140.0,
+    "image": "images/products/MAR0001.svg",
+    "stock": 16,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MAR0001"
+  },
+  {
+    "id": "GIP0022",
+    "name": {
+      "fr": "GIPLAIT FROMAGE FRAIS AURES 100 G",
+      "ar": "GIPLAIT FROMAGE FRAIS AURES 100 G — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 79.0,
+    "image": "images/products/GIP0022.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0022"
+  },
+  {
+    "id": "CAR0001",
+    "name": {
+      "fr": "CARUMA POUDRE DE CAROUBE 250G X 8",
+      "ar": "CARUMA POUDRE DE CAROUBE 250G X 8 — خروب"
+    },
+    "category": "caroube",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 850.0,
+    "image": "images/products/CAR0001.svg",
+    "stock": 28,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "CAR0001"
+  },
+  {
+    "id": "GIP0013",
+    "name": {
+      "fr": "GIPLAIT CREME DESSERT CHOCOLAT MASCARA 100 G",
+      "ar": "GIPLAIT CREME DESSERT CHOCOLAT MASCARA 100 G — حليب"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 26.0,
+    "image": "images/products/GIP0013.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0013"
+  },
+  {
+    "id": "DJA0004",
+    "name": {
+      "fr": "AL DJAOUHARA BRIE 400Gr",
+      "ar": "AL DJAOUHARA BRIE 400Gr — بري"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 470.0,
+    "image": "images/products/DJA0004.svg",
+    "stock": 14,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "DJA0004"
+  },
+  {
+    "id": "TRV0001",
+    "name": {
+      "fr": "CONFITURE FRAISE STAR 470 G PET",
+      "ar": "CONFITURE FRAISE STAR 470 G PET — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 170.0,
+    "image": "images/products/TRV0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0001"
+  },
+  {
+    "id": "GIP0018",
+    "name": {
+      "fr": "GIPLAIT FROMAGE AMIR 120gr TELL",
+      "ar": "GIPLAIT FROMAGE AMIR 120gr TELL — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/GIP0018.svg",
+    "stock": 184,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0018"
+  },
+  {
+    "id": "GIP0007",
+    "name": {
+      "fr": "GIPLAIT BEURRE AURES 500G",
+      "ar": "GIPLAIT BEURRE AURES 500G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 700.01,
+    "image": "images/products/GIP0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0007"
+  },
+  {
+    "id": "DJA0001",
+    "name": {
+      "fr": "AL DJAOUHARA CAMEMBERT 250Gr",
+      "ar": "AL DJAOUHARA CAMEMBERT 250Gr — كامامبير"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 320.0,
+    "image": "images/products/DJA0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "DJA0001"
+  },
+  {
+    "id": "GIP0021",
+    "name": {
+      "fr": "GIPLAIT COLAITAL RAIB 600 ML",
+      "ar": "GIPLAIT COLAITAL RAIB 600 ML — رايب"
+    },
+    "category": "raib",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 105.01,
+    "image": "images/products/GIP0021.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0021"
+  },
+  {
+    "id": "BRR0005",
+    "name": {
+      "fr": "BOUROUROU FROMAGE FRAIS VACHE CUMIN NOIR 120 G",
+      "ar": "BOUROUROU FROMAGE FRAIS VACHE CUMIN NOIR 120 G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BRR0005.svg",
+    "stock": 56,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "BRR0005"
+  },
+  {
+    "id": "BRR0004",
+    "name": {
+      "fr": "BOUROUROU FROMAGE FRAIS VACHE NATURE 120 G",
+      "ar": "BOUROUROU FROMAGE FRAIS VACHE NATURE 120 G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BRR0004.svg",
+    "stock": 9,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0004"
+  },
+  {
+    "id": "BRR0006",
+    "name": {
+      "fr": "BOUROUROU FROMAGE FRAIS VACHE AIL 120 G",
+      "ar": "BOUROUROU FROMAGE FRAIS VACHE AIL 120 G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BRR0006.svg",
+    "stock": 1,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0006"
+  },
+  {
+    "id": "BAR0002",
+    "name": {
+      "fr": "FROMAGE LE BARON BARRE 380Gr",
+      "ar": "FROMAGE LE BARON BARRE 380Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 315.0,
+    "image": "images/products/BAR0002.svg",
+    "stock": 277,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "BAR0002"
+  },
+  {
+    "id": "BRR0003",
+    "name": {
+      "fr": "BOUROUROU FROMAGE FRAIS CHEVRE AIL 120 G",
+      "ar": "BOUROUROU FROMAGE FRAIS CHEVRE AIL 120 G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 205.0,
+    "image": "images/products/BRR0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0003"
+  },
+  {
+    "id": "BRR0001",
+    "name": {
+      "fr": "BOUROUROU FROMAGE FRAIS CHEVRE NATURE 120 G",
+      "ar": "BOUROUROU FROMAGE FRAIS CHEVRE NATURE 120 G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 205.0,
+    "image": "images/products/BRR0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0001"
+  },
+  {
+    "id": "BRR0002",
+    "name": {
+      "fr": "BOUROUROU FROMAGE FRAIS CHEVRE CUMIN NOIR 120 G",
+      "ar": "BOUROUROU FROMAGE FRAIS CHEVRE CUMIN NOIR 120 G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 205.0,
+    "image": "images/products/BRR0002.svg",
+    "stock": 23,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0002"
+  },
+  {
+    "id": "BAR0004",
+    "name": {
+      "fr": "FROMAGE LE BARON BARQUETTE 200Gr",
+      "ar": "FROMAGE LE BARON BARQUETTE 200Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 179.0,
+    "image": "images/products/BAR0004.svg",
+    "stock": 376,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "BAR0004"
+  },
+  {
+    "id": "BAR0001",
+    "name": {
+      "fr": "FROMAGE LE BARON BARRE 200Gr",
+      "ar": "FROMAGE LE BARON BARRE 200Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 179.0,
+    "image": "images/products/BAR0001.svg",
+    "stock": 203,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0001"
+  },
+  {
+    "id": "GIP0025",
+    "name": {
+      "fr": "GIPLAIT YAOURT GIPLAIT AURES PECHE 100 G",
+      "ar": "GIPLAIT YAOURT GIPLAIT AURES PECHE 100 G — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 21.5,
+    "image": "images/products/GIP0025.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0025"
+  },
+  {
+    "id": "GIP0023",
+    "name": {
+      "fr": "GIPLAIT YAOURT GIPLAIT AURES BANANE 100 G",
+      "ar": "GIPLAIT YAOURT GIPLAIT AURES BANANE 100 G — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 21.5,
+    "image": "images/products/GIP0023.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0023"
+  },
+  {
+    "id": "GIP0024",
+    "name": {
+      "fr": "GIPLAIT YAOURT GIPLAIT AURES FRAISE 100 G",
+      "ar": "GIPLAIT YAOURT GIPLAIT AURES FRAISE 100 G — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 21.5,
+    "image": "images/products/GIP0024.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0024"
+  },
+  {
+    "id": "GIP0043",
+    "name": {
+      "fr": "GIPLAIT FROMAGE BARQUETTE NUMIDIA 500Gr",
+      "ar": "GIPLAIT FROMAGE BARQUETTE NUMIDIA 500Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 295.0,
+    "image": "images/products/GIP0043.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0043"
+  },
+  {
+    "id": "CHB0010",
+    "name": {
+      "fr": "MADELEINE CHAIB",
+      "ar": "MADELEINE CHAIB — مادلين"
+    },
+    "category": "madeleine",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 89.0,
+    "image": "images/products/CHB0010.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "CHB0010"
+  },
+  {
+    "id": "DJA0006",
+    "name": {
+      "fr": "AL DJAOUHARA GOUDA BARRE",
+      "ar": "AL DJAOUHARA GOUDA BARRE — غودا"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1640.0,
+    "image": "images/products/DJA0006.svg",
+    "stock": 55,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "DJA0006"
+  },
+  {
+    "id": "DJA0007",
+    "name": {
+      "fr": "AL DJAOUHARA  EDAM BARRE",
+      "ar": "AL DJAOUHARA  EDAM BARRE — إيدام"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1640.0,
+    "image": "images/products/DJA0007.svg",
+    "stock": 76,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "DJA0007"
+  },
+  {
+    "id": "DJA0003",
+    "name": {
+      "fr": "AL DJAOUHARA BRIE 1Kg",
+      "ar": "AL DJAOUHARA BRIE 1Kg — بري"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1165.0,
+    "image": "images/products/DJA0003.svg",
+    "stock": 2,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "DJA0003"
+  },
+  {
+    "id": "GIP0010",
+    "name": {
+      "fr": "GIPLAIT BEURRE DE BOUDOUAOU",
+      "ar": "GIPLAIT BEURRE DE BOUDOUAOU — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 600.0,
+    "image": "images/products/GIP0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0010"
+  },
+  {
+    "id": "GIP0067",
+    "name": {
+      "fr": "GIPLAIT YAOURT ETUVE 160G TLEMCEN",
+      "ar": "GIPLAIT YAOURT ETUVE 160G TLEMCEN — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 45.0,
+    "image": "images/products/GIP0067.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0067"
+  },
+  {
+    "id": "FRI0049",
+    "name": {
+      "fr": "LE ROUX 250Gr PROMOTION RAMADHAN",
+      "ar": "LE ROUX 250Gr PROMOTION RAMADHAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/FRI0049.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0049"
+  },
+  {
+    "id": "BRR0012",
+    "name": {
+      "fr": "CAMEMBERT CHEVRE BOURUROU PM",
+      "ar": "CAMEMBERT CHEVRE BOURUROU PM — كامامبير"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/BRR0012.svg",
+    "stock": 16,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0012"
+  },
+  {
+    "id": "OAM0004",
+    "name": {
+      "fr": "OUAMANIA AIL NOIR à L''HUILE D''OLIVE",
+      "ar": "OUAMANIA AIL NOIR à L''HUILE D''OLIVE"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 720.0,
+    "image": "images/products/OAM0004.svg",
+    "stock": 105,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OAM0004"
+  },
+  {
+    "id": "MRJ0005",
+    "name": {
+      "fr": "EL MOUROUDJ MOZZARELLA  250 G",
+      "ar": "EL MOUROUDJ MOZZARELLA  250 G — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 360.0,
+    "image": "images/products/MRJ0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0005"
+  },
+  {
+    "id": "GIP0063",
+    "name": {
+      "fr": "GIPLAIT CAMEMBERT EDOUGH ANNABA 250Gr",
+      "ar": "GIPLAIT CAMEMBERT EDOUGH ANNABA 250Gr — حليب"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 360.0,
+    "image": "images/products/GIP0063.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0063"
+  },
+  {
+    "id": "GIP0055",
+    "name": {
+      "fr": "CREME FRAICHE 500Gr EPAISSE",
+      "ar": "CREME FRAICHE 500Gr EPAISSE — كريم"
+    },
+    "category": "creme-fraiche",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 240.0,
+    "image": "images/products/GIP0055.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0055"
+  },
+  {
+    "id": "GIP0040",
+    "name": {
+      "fr": "CREME FRICHE COLAITAL 300",
+      "ar": "CREME FRICHE COLAITAL 300 — حليب"
+    },
+    "category": "creme-fraiche",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 240.0,
+    "image": "images/products/GIP0040.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0040"
+  },
+  {
+    "id": "GIP0031",
+    "name": {
+      "fr": "GIPLAIT BEURRE 250 GR COLAITAL",
+      "ar": "GIPLAIT BEURRE 250 GR COLAITAL — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 375.0,
+    "image": "images/products/GIP0031.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0031"
+  },
+  {
+    "id": "FRI0020",
+    "name": {
+      "fr": "LE FRIAND EDAM TRANCHE",
+      "ar": "LE FRIAND EDAM TRANCHE — إيدام"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2100.0,
+    "image": "images/products/FRI0020.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0020"
+  },
+  {
+    "id": "BAR0010",
+    "name": {
+      "fr": "PREPARATION LE BARON 3,5Kg",
+      "ar": "PREPARATION LE BARON 3,5Kg — مستحضر"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1350.0,
+    "image": "images/products/BAR0010.svg",
+    "stock": 25,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "BAR0010"
+  },
+  {
+    "id": "GIP0034",
+    "name": {
+      "fr": "GIPLAIT SMEN 300Gr",
+      "ar": "GIPLAIT SMEN 300Gr — حليب"
+    },
+    "category": "smen",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 600.0,
+    "image": "images/products/GIP0034.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0034"
+  },
+  {
+    "id": "MDL0006",
+    "name": {
+      "fr": "CONFITURE JNAN FRAISE 400 G",
+      "ar": "CONFITURE JNAN FRAISE 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 420.0,
+    "image": "images/products/MDL0006.svg",
+    "stock": 60,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "MDL0006"
+  },
+  {
+    "id": "MDL0022",
+    "name": {
+      "fr": "CONFITURE JNAN POIRE AMANDE VANILLE",
+      "ar": "CONFITURE JNAN POIRE AMANDE VANILLE — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 420.0,
+    "image": "images/products/MDL0022.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "MDL0022"
+  },
+  {
+    "id": "MDL0023",
+    "name": {
+      "fr": "CONFITURE JNANE CEDRAT ET AMANDES",
+      "ar": "CONFITURE JNANE CEDRAT ET AMANDES — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 240.0,
+    "image": "images/products/MDL0023.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0023"
+  },
+  {
+    "id": "WLD0018",
+    "name": {
+      "fr": "WALID FROMAGE LOUMJATI 80g",
+      "ar": "WALID FROMAGE LOUMJATI 80g — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 60.0,
+    "image": "images/products/WLD0018.svg",
+    "stock": 3186,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "WLD0018"
+  },
+  {
+    "id": "BAR0008",
+    "name": {
+      "fr": "PREPARATION LE BARON 900 Gr",
+      "ar": "PREPARATION LE BARON 900 Gr — مستحضر"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 420.0,
+    "image": "images/products/BAR0008.svg",
+    "stock": 252,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0008"
+  },
+  {
+    "id": "GIP0032",
+    "name": {
+      "fr": "GIPLAIT LBEN BOUTEILLE 1L",
+      "ar": "GIPLAIT LBEN BOUTEILLE 1L — لبن"
+    },
+    "category": "laban",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 135.0,
+    "image": "images/products/GIP0032.svg",
+    "stock": 24,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0032"
+  },
+  {
+    "id": "FRI0011",
+    "name": {
+      "fr": "LE FRIAND LA GALETTE LE ROUX 1KG",
+      "ar": "LE FRIAND LA GALETTE LE ROUX 1KG"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1290.0,
+    "image": "images/products/FRI0011.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0011"
+  },
+  {
+    "id": "FRI0051",
+    "name": {
+      "fr": "LE FRIAND SENATEUR 130Gr",
+      "ar": "LE FRIAND SENATEUR 130Gr"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 185.0,
+    "image": "images/products/FRI0051.svg",
+    "stock": 2,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0051"
+  },
+  {
+    "id": "BAR0003",
+    "name": {
+      "fr": "FROMAGE LE BARON BARRE 600Gr",
+      "ar": "FROMAGE LE BARON BARRE 600Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 470.0,
+    "image": "images/products/BAR0003.svg",
+    "stock": 141,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0003"
+  },
+  {
+    "id": "GIP0042",
+    "name": {
+      "fr": "GIPLAIT FOMAGE GOUDA AU KG",
+      "ar": "GIPLAIT FOMAGE GOUDA AU KG — حليب"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1649.99,
+    "image": "images/products/GIP0042.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0042"
+  },
+  {
+    "id": "GIP0041",
+    "name": {
+      "fr": "GIPLAIT FOMAGE EDAM AU KG",
+      "ar": "GIPLAIT FOMAGE EDAM AU KG — حليب"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1649.99,
+    "image": "images/products/GIP0041.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0041"
+  },
+  {
+    "id": "FRI0004",
+    "name": {
+      "fr": "LE FRIAND GALETTE LE FRIAND 1 KG",
+      "ar": "LE FRIAND GALETTE LE FRIAND 1 KG"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1250.0,
+    "image": "images/products/FRI0004.svg",
+    "stock": 67,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0004"
+  },
+  {
+    "id": "GIP0064",
+    "name": {
+      "fr": "GIPLAIT FROMAGE FONDU AIL & FINES HERBES",
+      "ar": "GIPLAIT FROMAGE FONDU AIL & FINES HERBES — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "image": "images/products/GIP0064.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0064"
+  },
+  {
+    "id": "GIP0015",
+    "name": {
+      "fr": "GIPLAIT Fromage Regime  Arib 180g",
+      "ar": "GIPLAIT Fromage Regime  Arib 180g — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 85.0,
+    "image": "images/products/GIP0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0015"
+  },
+  {
+    "id": "GIP0066",
+    "name": {
+      "fr": "GIPLAIT CREME FRAICHE 180GRS TELL SETIF",
+      "ar": "GIPLAIT CREME FRAICHE 180GRS TELL SETIF — حليب"
+    },
+    "category": "creme-fraiche",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "image": "images/products/GIP0066.svg",
+    "stock": 24,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0066"
+  },
+  {
+    "id": "BAR0005",
+    "name": {
+      "fr": "FROMAGE LE BARON BARQUETTE 450Gr",
+      "ar": "FROMAGE LE BARON BARQUETTE 450Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 375.0,
+    "image": "images/products/BAR0005.svg",
+    "stock": 65,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0005"
+  },
+  {
+    "id": "EAU0002",
+    "name": {
+      "fr": "L EAU DE SOURCE NESTLE PURE LIFE 1.5 PROMO",
+      "ar": "L EAU DE SOURCE NESTLE PURE LIFE 1.5 PROMO — ماء"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "image": "images/products/EAU0002.svg",
+    "stock": 196,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "EAU0002"
+  },
+  {
+    "id": "GIP0027",
+    "name": {
+      "fr": "GIPLAIT CREME DESSERT LACTE DE CAROUBE 90CC ARIBS",
+      "ar": "GIPLAIT CREME DESSERT LACTE DE CAROUBE 90CC ARIBS — حليب"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 22.61,
+    "image": "images/products/GIP0027.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0027"
+  },
+  {
+    "id": "SLB0001",
+    "name": {
+      "fr": "SALSABIL BISCOTTES SANS BLé EN CARTON",
+      "ar": "SALSABIL BISCOTTES SANS BLé EN CARTON — خبز جاف"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 113.0,
+    "image": "images/products/SLB0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "SLB0001"
+  },
+  {
+    "id": "LEM0003",
+    "name": {
+      "fr": "LLEMMA MARGARINE VRAC 10KG",
+      "ar": "LLEMMA MARGARINE VRAC 10KG — مارغرين"
+    },
+    "category": "margarine",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 220.0,
+    "image": "images/products/LEM0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "LEM0003"
+  },
+  {
+    "id": "BAR0007",
+    "name": {
+      "fr": "PREPARATION LE BARON 450Gr",
+      "ar": "PREPARATION LE BARON 450Gr — مستحضر"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/BAR0007.svg",
+    "stock": 288,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0007"
+  },
+  {
+    "id": "GIP0011",
+    "name": {
+      "fr": "GIPLAIT BEURRE EN VRAC 1 KG",
+      "ar": "GIPLAIT BEURRE EN VRAC 1 KG — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1450.0,
+    "image": "images/products/GIP0011.svg",
+    "stock": 33,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0011"
+  },
+  {
+    "id": "BAR0006",
+    "name": {
+      "fr": "FROMAGE LE BARON BARQUETTE 800Gr",
+      "ar": "FROMAGE LE BARON BARQUETTE 800Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 615.0,
+    "image": "images/products/BAR0006.svg",
+    "stock": 194,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0006"
+  },
+  {
+    "id": "MDL0004",
+    "name": {
+      "fr": "CONFITURE JNAN COINGS 400 G",
+      "ar": "CONFITURE JNAN COINGS 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 380.0,
+    "image": "images/products/MDL0004.svg",
+    "stock": 61,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0004"
+  },
+  {
+    "id": "SLB0004",
+    "name": {
+      "fr": "SALSABIL BISCOTTES SANS SEL SACHéS",
+      "ar": "SALSABIL BISCOTTES SANS SEL SACHéS — خبز جاف"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/SLB0004.svg",
+    "stock": 5,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "SLB0004"
+  },
+  {
+    "id": "SLB0003",
+    "name": {
+      "fr": "SALSABIL BISCOTTES SANS SEL EN CARTON",
+      "ar": "SALSABIL BISCOTTES SANS SEL EN CARTON — خبز جاف"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/SLB0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "SLB0003"
+  },
+  {
+    "id": "GIP0017",
+    "name": {
+      "fr": "GIPLAIT BEURRE  BOUDOUAOU 500G",
+      "ar": "GIPLAIT BEURRE  BOUDOUAOU 500G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 700.01,
+    "image": "images/products/GIP0017.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0017"
+  },
+  {
+    "id": "OFD0019",
+    "name": {
+      "fr": "HILTO BISCUIT COMPLET FRUITE MELON",
+      "ar": "HILTO BISCUIT COMPLET FRUITE MELON — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0019.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0019"
+  },
+  {
+    "id": "MRJ0009",
+    "name": {
+      "fr": "EL MOUROUDJ CHEDDAR BARRE  1.6 KG",
+      "ar": "EL MOUROUDJ CHEDDAR BARRE  1.6 KG — شيدر"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1600.0,
+    "image": "images/products/MRJ0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0009"
+  },
+  {
+    "id": "OFD0005",
+    "name": {
+      "fr": "HILTO Biscuit Compolet Fruite´ Banane",
+      "ar": "HILTO Biscuit Compolet Fruite´ Banane — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0005"
+  },
+  {
+    "id": "OFD0015",
+    "name": {
+      "fr": "HILTO Biscuit Crackers Sale´ Tomate - Origan - Huile d''''''''''''''''olive",
+      "ar": "HILTO Biscuit Crackers Sale´ Tomate - Origan - Huile d''''''''''''''''olive — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0015"
+  },
+  {
+    "id": "OFD0002",
+    "name": {
+      "fr": "HILTO Biscuit Complet Gingembre et Cannelle",
+      "ar": "HILTO Biscuit Complet Gingembre et Cannelle — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0002"
+  },
+  {
+    "id": "OFD0011",
+    "name": {
+      "fr": "HILTO Biscuit Compolet Fruite´ Pomme",
+      "ar": "HILTO Biscuit Compolet Fruite´ Pomme — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0011"
+  },
+  {
+    "id": "OFD0006",
+    "name": {
+      "fr": "HILTO Biscuit Compolet Fruite´ Citron",
+      "ar": "HILTO Biscuit Compolet Fruite´ Citron — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0006"
+  },
+  {
+    "id": "OFD0008",
+    "name": {
+      "fr": "HILTO BISCUIT COMPLET FRUITE FRAMBOISE",
+      "ar": "HILTO BISCUIT COMPLET FRUITE FRAMBOISE — بسكويت"
+    },
+    "category": "raib",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD00008"
+  },
+  {
+    "id": "OFD0010",
+    "name": {
+      "fr": "HILTO Biscuit Compolet Fruite´ Figues",
+      "ar": "HILTO Biscuit Compolet Fruite´ Figues — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0010"
+  },
+  {
+    "id": "OFD0009",
+    "name": {
+      "fr": "HILTO Biscuit Complet extra Cacao",
+      "ar": "HILTO Biscuit Complet extra Cacao — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0009"
+  },
+  {
+    "id": "OFD0001",
+    "name": {
+      "fr": "HILTO Biscuit Complet Nature",
+      "ar": "HILTO Biscuit Complet Nature — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0001"
+  },
+  {
+    "id": "OFD0003",
+    "name": {
+      "fr": "HILTO Biscuit Complet Cacao Orange",
+      "ar": "HILTO Biscuit Complet Cacao Orange — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0003"
+  },
+  {
+    "id": "OFD0004",
+    "name": {
+      "fr": "HILTO Biscuit Complet Cacao Menthe",
+      "ar": "HILTO Biscuit Complet Cacao Menthe — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0004"
+  },
+  {
+    "id": "OFD0007",
+    "name": {
+      "fr": "HILTO Biscuit Compolet Fruite´ Fraise",
+      "ar": "HILTO Biscuit Compolet Fruite´ Fraise — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0007"
+  },
+  {
+    "id": "OFD0013",
+    "name": {
+      "fr": "HILTO Biscuit Crackers Sale´ Oignon - Huile d'olive",
+      "ar": "HILTO Biscuit Crackers Sale´ Oignon - Huile d'olive — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0013"
+  },
+  {
+    "id": "OFD0014",
+    "name": {
+      "fr": "HILTO Biscuit Crackers Sale´ Se´same - Huile d'olive",
+      "ar": "HILTO Biscuit Crackers Sale´ Se´same - Huile d'olive — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0014.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0014"
+  },
+  {
+    "id": "OFD0012",
+    "name": {
+      "fr": "HILTO Biscuit Crackers Sale´ Ail - Persil - Huile d'olive",
+      "ar": "HILTO Biscuit Crackers Sale´ Ail - Persil - Huile d'olive — بسكويت"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/OFD0012.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0012"
+  },
+  {
+    "id": "CHB0011",
+    "name": {
+      "fr": "PAIN DE MIE CHAIB FESTIF 500G",
+      "ar": "PAIN DE MIE CHAIB FESTIF 500G — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "image": "images/products/CHB0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0011"
+  },
+  {
+    "id": "GIP0036",
+    "name": {
+      "fr": "GIPLAIT FROMAGE FONDU 450Gr *30",
+      "ar": "GIPLAIT FROMAGE FONDU 450Gr *30 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 429.99,
+    "image": "images/products/GIP0036.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0036"
+  },
+  {
+    "id": "FRI0031",
+    "name": {
+      "fr": "LE FRIAND LA BARQUETTE DE BRIE GM 300G LE FRIAND",
+      "ar": "LE FRIAND LA BARQUETTE DE BRIE GM 300G LE FRIAND — بري"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "image": "images/products/FRI0031.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0031"
+  },
+  {
+    "id": "FRI0006",
+    "name": {
+      "fr": "LE FRIAND Point De Brie Friand PM 65g x12",
+      "ar": "LE FRIAND Point De Brie Friand PM 65g x12 — بري"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1490.0,
+    "image": "images/products/FRI0006.svg",
+    "stock": 6,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0006"
+  },
+  {
+    "id": "MRJ0002",
+    "name": {
+      "fr": "EL MOUROUDJ FROMAGE MODZARELLA TLEMCEN RECTANGLE 900 G ×7",
+      "ar": "EL MOUROUDJ FROMAGE MODZARELLA TLEMCEN RECTANGLE 900 G ×7 — جبن"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1300.0,
+    "image": "images/products/MRJ0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0002"
+  },
+  {
+    "id": "MRJ0004",
+    "name": {
+      "fr": "EL MOUROUDJ FROMAGE MODZARELLA TLEMCEN CARRE 900 G ×8",
+      "ar": "EL MOUROUDJ FROMAGE MODZARELLA TLEMCEN CARRE 900 G ×8 — جبن"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1300.0,
+    "image": "images/products/MRJ0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0004"
+  },
+  {
+    "id": "GIP0005",
+    "name": {
+      "fr": "GIPLAIT BEURRE AMIRA 500 G",
+      "ar": "GIPLAIT BEURRE AMIRA 500 G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 650.0,
+    "image": "images/products/GIP0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0005"
+  },
+  {
+    "id": "FRI0050",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE 220Gr PROMOTION RAMADHAN",
+      "ar": "LE FRIAND BARQUETTE 220Gr PROMOTION RAMADHAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 260.0,
+    "image": "images/products/FRI0050.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0050"
+  },
+  {
+    "id": "MDL0012",
+    "name": {
+      "fr": "CONFITURE JNAN CAROTTES ET ZESTES ORANGE",
+      "ar": "CONFITURE JNAN CAROTTES ET ZESTES ORANGE — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 260.0,
+    "image": "images/products/MDL0012.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0012"
+  },
+  {
+    "id": "GIP0035",
+    "name": {
+      "fr": "RAIB BOUTEILLE 1L BIRKHADEM",
+      "ar": "RAIB BOUTEILLE 1L BIRKHADEM — رايب"
+    },
+    "category": "raib",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "image": "images/products/GIP0035.svg",
+    "stock": 18,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0035"
+  },
+  {
+    "id": "GIP0012",
+    "name": {
+      "fr": "GIPLAIT CHERBET ZEMAN BOUTEILLE 1 L",
+      "ar": "GIPLAIT CHERBET ZEMAN BOUTEILLE 1 L — حليب"
+    },
+    "category": "cherbet",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 85.0,
+    "image": "images/products/GIP0012.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0012"
+  },
+  {
+    "id": "BAR0009",
+    "name": {
+      "fr": "PREPARATION LE BARON 1,7Kg",
+      "ar": "PREPARATION LE BARON 1,7Kg — مستحضر"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 680.0,
+    "image": "images/products/BAR0009.svg",
+    "stock": 100,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BAR0009"
+  },
+  {
+    "id": "COM0005",
+    "name": {
+      "fr": "CAMPANELLA STRACCIATELLA 180 G",
+      "ar": "CAMPANELLA STRACCIATELLA 180 G — ستراشاتيلا"
+    },
+    "category": "stracciatella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 425.0,
+    "image": "images/products/COM0005.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "COM0005"
+  },
+  {
+    "id": "FRI0008",
+    "name": {
+      "fr": "LE FRIAND LA GALETTE DECLASSER(PROMOTION) 500g",
+      "ar": "LE FRIAND LA GALETTE DECLASSER(PROMOTION) 500g"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 590.0,
+    "image": "images/products/FRI0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0008"
+  },
+  {
+    "id": "MDL0010",
+    "name": {
+      "fr": "CONFITURE JNAN POMME DE CANELLE 400 G",
+      "ar": "CONFITURE JNAN POMME DE CANELLE 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 295.0,
+    "image": "images/products/MDL0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0010"
+  },
+  {
+    "id": "MDL0013",
+    "name": {
+      "fr": "CONFITURE JNAN RAISINS ET LAVANDE 400G",
+      "ar": "CONFITURE JNAN RAISINS ET LAVANDE 400G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 295.0,
+    "image": "images/products/MDL0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0013"
+  },
+  {
+    "id": "MDL0021",
+    "name": {
+      "fr": "CONFITURE JNAN POMME ET VANILLE 400G",
+      "ar": "CONFITURE JNAN POMME ET VANILLE 400G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/MDL0021.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0021"
+  },
+  {
+    "id": "MDL0008",
+    "name": {
+      "fr": "CONFITURE JNAN PATATE DOUCE ET 04 EPICES 400 G",
+      "ar": "CONFITURE JNAN PATATE DOUCE ET 04 EPICES 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/MDL0008.svg",
+    "stock": 87,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0008"
+  },
+  {
+    "id": "MDL0007",
+    "name": {
+      "fr": "CONFITURE JNAN MELON",
+      "ar": "CONFITURE JNAN MELON — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/MDL0007.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0007"
+  },
+  {
+    "id": "GIP0026",
+    "name": {
+      "fr": "GIPLAIT FROMAGE BOITE METALIQUE  BOUDOUAOU 200 G",
+      "ar": "GIPLAIT FROMAGE BOITE METALIQUE  BOUDOUAOU 200 G — جبن"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 265.0,
+    "image": "images/products/GIP0026.svg",
+    "stock": 763,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0026"
+  },
+  {
+    "id": "WLD0030",
+    "name": {
+      "fr": "Walid Préparation Seau 1.7Kg x 6",
+      "ar": "Walid Préparation Seau 1.7Kg x 6 — ماء"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 730.0,
+    "image": "images/products/WLD0030.svg",
+    "stock": 68,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0030"
+  },
+  {
+    "id": "GP0038",
+    "name": {
+      "fr": "GIPLAIT BEURRE IDOUGH ANNABA 500G",
+      "ar": "GIPLAIT BEURRE IDOUGH ANNABA 500G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 730.0,
+    "image": "images/products/GP0038.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0038"
+  },
+  {
+    "id": "GIP0020",
+    "name": {
+      "fr": "GIPLAIT FROMAGE AMIR 60GR",
+      "ar": "GIPLAIT FROMAGE AMIR 60GR — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 60.0,
+    "image": "images/products/GIP0020.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0020"
+  },
+  {
+    "id": "FCH0019",
+    "name": {
+      "fr": "FAMILY CHEESE BARRE MAASDAM (KG)",
+      "ar": "FAMILY CHEESE BARRE MAASDAM (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2000.0,
+    "image": "images/products/FCH0019.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0019"
+  },
+  {
+    "id": "GIP0016",
+    "name": {
+      "fr": "GIPLAIT PETIT SUISSE 180 G",
+      "ar": "GIPLAIT PETIT SUISSE 180 G — حليب"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 84.0,
+    "image": "images/products/GIP0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0016"
+  },
+  {
+    "id": "SLB0002",
+    "name": {
+      "fr": "SALSABIL BISCOTTES SANS CHOLISTEROL EN CARTON",
+      "ar": "SALSABIL BISCOTTES SANS CHOLISTEROL EN CARTON — خبز جاف"
+    },
+    "category": "biscuit",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "image": "images/products/SLB0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "SLB0002"
+  },
+  {
+    "id": "WLD0029",
+    "name": {
+      "fr": "WALID SPECIAL PIZZA 200Gr",
+      "ar": "WALID SPECIAL PIZZA 200Gr — بيتزا"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "image": "images/products/WLD0029.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0029"
+  },
+  {
+    "id": "COM0004",
+    "name": {
+      "fr": "CAMPANELLA RICOTTA 180 G",
+      "ar": "CAMPANELLA RICOTTA 180 G — ريكوتا"
+    },
+    "category": "ricotta",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "image": "images/products/COM0004.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "COM0004"
+  },
+  {
+    "id": "COM0002",
+    "name": {
+      "fr": "CAMPANELLA MOZZARELLA CERISE 170Gr",
+      "ar": "CAMPANELLA MOZZARELLA CERISE 170Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 400.0,
+    "image": "images/products/COM0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "COM0002"
+  },
+  {
+    "id": "COM0006",
+    "name": {
+      "fr": "CAMPANELLA MASCARPONE 180 G",
+      "ar": "CAMPANELLA MASCARPONE 180 G — ماسكاربوني"
+    },
+    "category": "mascarpone",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 235.0,
+    "image": "images/products/COM0006.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "COM0006"
+  },
+  {
+    "id": "COM0001",
+    "name": {
+      "fr": "CAMPANELLA MOZZARELLA 250Gr",
+      "ar": "CAMPANELLA MOZZARELLA 250Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 370.0,
+    "image": "images/products/COM0001.svg",
+    "stock": 707,
+    "featured": true,
+    "bestSeller": true,
+    "barcode": "COM0001"
+  },
+  {
+    "id": "OFD0021",
+    "name": {
+      "fr": "TISANE HILTHO RELAXANTE ORANGE",
+      "ar": "TISANE HILTHO RELAXANTE ORANGE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 270.0,
+    "image": "images/products/OFD0021.svg",
+    "stock": 30,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "OFD0021"
+  },
+  {
+    "id": "OFD0020",
+    "name": {
+      "fr": "TISANE HILTHO RELAXANTE JAUNE",
+      "ar": "TISANE HILTHO RELAXANTE JAUNE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 270.0,
+    "image": "images/products/OFD0020.svg",
+    "stock": 79,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "OFD0020"
+  },
+  {
+    "id": "OFD0022",
+    "name": {
+      "fr": "TISANE HILTHO RELAXANTE MAUVE",
+      "ar": "TISANE HILTHO RELAXANTE MAUVE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 270.0,
+    "image": "images/products/OFD0022.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OFD0022"
+  },
+  {
+    "id": "EAU0001",
+    "name": {
+      "fr": "L'EAU MINERALE NATURELLE SAIDA 7+1 (1.5)",
+      "ar": "L'EAU MINERALE NATURELLE SAIDA 7+1 (1.5) — ماء"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "image": "images/products/EAU0001.svg",
+    "stock": 131,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "EAU0001"
+  },
+  {
+    "id": "BRT0002",
+    "name": {
+      "fr": "BOITE BORA CEREALE 17g ×60",
+      "ar": "BOITE BORA CEREALE 17g ×60 — حبوب"
+    },
+    "category": "confiserie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 600.0,
+    "image": "images/products/BRT0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRT0002"
+  },
+  {
+    "id": "GOY0003",
+    "name": {
+      "fr": "GOYA Fromage EDAM Boule 1,5 KG",
+      "ar": "GOYA Fromage EDAM Boule 1,5 KG — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1700.0,
+    "image": "images/products/GOY0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GOY0003"
+  },
+  {
+    "id": "FRI0019",
+    "name": {
+      "fr": "LE FRIAND POINT DE BRIE CHEVRE ×12",
+      "ar": "LE FRIAND POINT DE BRIE CHEVRE ×12 — بري"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1700.0,
+    "image": "images/products/FRI0019.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0019"
+  },
+  {
+    "id": "MRJ0008",
+    "name": {
+      "fr": "EL MOUROUDJ EDAM TRANCHE",
+      "ar": "EL MOUROUDJ EDAM TRANCHE — إيدام"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1700.0,
+    "image": "images/products/MRJ0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0008"
+  },
+  {
+    "id": "GIP0029",
+    "name": {
+      "fr": "GIPLAIT BEURRE 250Gr ANNABA",
+      "ar": "GIPLAIT BEURRE 250Gr ANNABA — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 375.0,
+    "image": "images/products/GIP0029.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0029"
+  },
+  {
+    "id": "MRJ0013",
+    "name": {
+      "fr": "EL MOUROUDJ MOZZARELLA AU CHEDDAR 250Gr",
+      "ar": "EL MOUROUDJ MOZZARELLA AU CHEDDAR 250Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 410.0,
+    "image": "images/products/MRJ0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0013"
+  },
+  {
+    "id": "BRR0008",
+    "name": {
+      "fr": "BOUROUROU BEURRE DE VACHE 200 G",
+      "ar": "BOUROUROU BEURRE DE VACHE 200 G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 410.0,
+    "image": "images/products/BRR0008.svg",
+    "stock": 13,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "BRR0008"
+  },
+  {
+    "id": "COM0003",
+    "name": {
+      "fr": "CAMPANELLA BURRATA 120Gr",
+      "ar": "CAMPANELLA BURRATA 120Gr — بوراتا"
+    },
+    "category": "burrata",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 410.0,
+    "image": "images/products/COM0003.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "COM0003"
+  },
+  {
+    "id": "SMO0002",
+    "name": {
+      "fr": "SMOKY DINDE FUME AU KG",
+      "ar": "SMOKY DINDE FUME AU KG — ديك رومي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1990.0,
+    "image": "images/products/SMO0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "SMO0002"
+  },
+  {
+    "id": "CHB0006",
+    "name": {
+      "fr": "PAIN DE MIE CHAIB  FLOCON D'AVOINE 370G",
+      "ar": "PAIN DE MIE CHAIB  FLOCON D'AVOINE 370G — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 135.01,
+    "image": "images/products/CHB0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0006"
+  },
+  {
+    "id": "GIP0062",
+    "name": {
+      "fr": "GIPLAIT LAIT UHT",
+      "ar": "GIPLAIT LAIT UHT — حليب"
+    },
+    "category": "lait",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 125.0,
+    "image": "images/products/GIP0062.svg",
+    "stock": 14,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "GIP0062"
+  },
+  {
+    "id": "GIP0048",
+    "name": {
+      "fr": "GIPLAIT BEURRE EN VRAC 1Kg BATNA",
+      "ar": "GIPLAIT BEURRE EN VRAC 1Kg BATNA — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "image": "images/products/GIP0048.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0048"
+  },
+  {
+    "id": "MDL0018",
+    "name": {
+      "fr": "CONFITURE JNAN PAMPLEMOUSSE VANILLE 400Gr",
+      "ar": "CONFITURE JNAN PAMPLEMOUSSE VANILLE 400Gr — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/MDL0018.svg",
+    "stock": 3,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0018"
+  },
+  {
+    "id": "MDL0015",
+    "name": {
+      "fr": "CONFITURE JNAN CLEMENTINE ET FLEUR DE JASMIN",
+      "ar": "CONFITURE JNAN CLEMENTINE ET FLEUR DE JASMIN — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/MDL0015.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0015"
+  },
+  {
+    "id": "FRI0001",
+    "name": {
+      "fr": "LE FRIAND GM 240g (Doré) x 35",
+      "ar": "LE FRIAND GM 240g (Doré) x 35"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/FRI0001.svg",
+    "stock": 140,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0001"
+  },
+  {
+    "id": "MDL0009",
+    "name": {
+      "fr": "CONFITURE JNAN PECHES BLANCHES 400 G",
+      "ar": "CONFITURE JNAN PECHES BLANCHES 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/MDL0009.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0009"
+  },
+  {
+    "id": "MRJ0011",
+    "name": {
+      "fr": "EL MOUROUDJ MOZZARELLA AU CHEDDAR 900Gr",
+      "ar": "EL MOUROUDJ MOZZARELLA AU CHEDDAR 900Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "image": "images/products/MRJ0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0011"
+  },
+  {
+    "id": "MDL0002",
+    "name": {
+      "fr": "CONFITURE JNAN BSIBSI CITROUILLE",
+      "ar": "CONFITURE JNAN BSIBSI CITROUILLE — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/MDL0002.svg",
+    "stock": 48,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0002"
+  },
+  {
+    "id": "MDL0001",
+    "name": {
+      "fr": "CONFITURE JNAN ABRICOT 400 G",
+      "ar": "CONFITURE JNAN ABRICOT 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/MDL0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0001"
+  },
+  {
+    "id": "MDL0003",
+    "name": {
+      "fr": "CONFITURE JNAN CITRON ENTIER 400G",
+      "ar": "CONFITURE JNAN CITRON ENTIER 400G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/MDL0003.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0003"
+  },
+  {
+    "id": "BLT0029",
+    "name": {
+      "fr": "BELLAT HOT DOG KETCHUP 6 SAUCISS",
+      "ar": "BELLAT HOT DOG KETCHUP 6 SAUCISS — كاتشب"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BLT0029.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0029"
+  },
+  {
+    "id": "SMO0001",
+    "name": {
+      "fr": "SMOKY TRANCHE DE DINDE FUMEE",
+      "ar": "SMOKY TRANCHE DE DINDE FUMEE — ديك رومي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 315.0,
+    "image": "images/products/SMO0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "SMO0001"
+  },
+  {
+    "id": "FCH0002",
+    "name": {
+      "fr": "FAMILY CHEESE  DEMI MEULE FROMAGE EDAM (KG)",
+      "ar": "FAMILY CHEESE  DEMI MEULE FROMAGE EDAM (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1750.0,
+    "image": "images/products/FCH0002.svg",
+    "stock": 10,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0002"
+  },
+  {
+    "id": "FCH0001",
+    "name": {
+      "fr": "FAMILY CHEESE BARRE DE FROMAGE GOUDA  (KG)",
+      "ar": "FAMILY CHEESE BARRE DE FROMAGE GOUDA  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1750.0,
+    "image": "images/products/FCH0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0001"
+  },
+  {
+    "id": "CHB0009",
+    "name": {
+      "fr": "PAIN DE MIE CHAIB  A L'HUILE D'OLIVE 370 G x 9",
+      "ar": "PAIN DE MIE CHAIB  A L'HUILE D'OLIVE 370 G x 9 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 140.0,
+    "image": "images/products/CHB0009.svg",
+    "stock": 7,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "CHB0009"
+  },
+  {
+    "id": "WLD0041",
+    "name": {
+      "fr": "WALID SPECIAL PIZZA 800G",
+      "ar": "WALID SPECIAL PIZZA 800G — بيتزا"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 280.0,
+    "image": "images/products/WLD0041.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0041"
+  },
+  {
+    "id": "TRV0007",
+    "name": {
+      "fr": "VINAIGRE STAR 500 ML POMME (8)",
+      "ar": "VINAIGRE STAR 500 ML POMME (8) — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "image": "images/products/TRV0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0007"
+  },
+  {
+    "id": "TRV0006",
+    "name": {
+      "fr": "VINAIGRE STAR 500 ML AUTHENTIQUE (8)",
+      "ar": "VINAIGRE STAR 500 ML AUTHENTIQUE (8) — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "image": "images/products/TRV0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0006"
+  },
+  {
+    "id": "GIP0050",
+    "name": {
+      "fr": "GIPLAIT BEURRE EN VRAC 10Kg BATNA",
+      "ar": "GIPLAIT BEURRE EN VRAC 10Kg BATNA — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 14000.0,
+    "image": "images/products/GIP0050.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0050"
+  },
+  {
+    "id": "FCH0013",
+    "name": {
+      "fr": "FAMILLY CHEESE QUART DE MEULE FROMAGE MAASDAM  (KG)",
+      "ar": "FAMILLY CHEESE QUART DE MEULE FROMAGE MAASDAM  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1750.0,
+    "image": "images/products/FCH0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0013"
+  },
+  {
+    "id": "GIP0030",
+    "name": {
+      "fr": "GIPLAIT CAMEMBERT 125 G NUMIDIA",
+      "ar": "GIPLAIT CAMEMBERT 125 G NUMIDIA — حليب"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 210.0,
+    "image": "images/products/GIP0030.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0030"
+  },
+  {
+    "id": "MRJ0010",
+    "name": {
+      "fr": "EL MOUROUDJ CREME FRAICHE 180G",
+      "ar": "EL MOUROUDJ CREME FRAICHE 180G — كريم"
+    },
+    "category": "creme-fraiche",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 140.0,
+    "image": "images/products/MRJ0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0010"
+  },
+  {
+    "id": "BRR0007",
+    "name": {
+      "fr": "BOUROUROU FROMAGE DE VACHE LA TOMME DE FLEURE  TRANCHE",
+      "ar": "BOUROUROU FROMAGE DE VACHE LA TOMME DE FLEURE  TRANCHE — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2499.0,
+    "image": "images/products/BRR0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0007"
+  },
+  {
+    "id": "FCH0004",
+    "name": {
+      "fr": "FAMILY CHEESE BARRE FROMAGE CHEDDAR  (KG)",
+      "ar": "FAMILY CHEESE BARRE FROMAGE CHEDDAR  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1750.0,
+    "image": "images/products/FCH0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0004"
+  },
+  {
+    "id": "FCH0015",
+    "name": {
+      "fr": "FAMILY CHEESE QUART DE MEULE FROMAGE EDAM (KG)",
+      "ar": "FAMILY CHEESE QUART DE MEULE FROMAGE EDAM (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1750.0,
+    "image": "images/products/FCH0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0015"
+  },
+  {
+    "id": "WLD0040",
+    "name": {
+      "fr": "WALID SPECIAL PIZZA 400G",
+      "ar": "WALID SPECIAL PIZZA 400G — بيتزا"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 155.0,
+    "image": "images/products/WLD0040.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0040"
+  },
+  {
+    "id": "GIP0014",
+    "name": {
+      "fr": "GIPLAIT FROMAGE Boite Métalique 100 G",
+      "ar": "GIPLAIT FROMAGE Boite Métalique 100 G — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 135.01,
+    "image": "images/products/GIP0014.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0014"
+  },
+  {
+    "id": "MZR0001",
+    "name": {
+      "fr": "CREME DE RIZ  MEZHARA 120 G",
+      "ar": "CREME DE RIZ  MEZHARA 120 G — أرز"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 65.0,
+    "image": "images/products/MZR0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MZR0001"
+  },
+  {
+    "id": "GIP0004",
+    "name": {
+      "fr": "GIPLAIT BEURRE 500 G NUMIDIA",
+      "ar": "GIPLAIT BEURRE 500 G NUMIDIA — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 720.0,
+    "image": "images/products/GIP0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0004"
+  },
+  {
+    "id": "WLD0010",
+    "name": {
+      "fr": "Walid Fromage Suprême Maasdam 400g x12",
+      "ar": "Walid Fromage Suprême Maasdam 400g x12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 325.0,
+    "image": "images/products/WLD0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0010"
+  },
+  {
+    "id": "GIP0044",
+    "name": {
+      "fr": "FROMAGE FONDU TELL 400Gr",
+      "ar": "FROMAGE FONDU TELL 400Gr — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 395.0,
+    "image": "images/products/GIP0044.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0044"
+  },
+  {
+    "id": "MDL0016",
+    "name": {
+      "fr": "CONFITURE JNAN ORANGE & CANNELLE 400Gr",
+      "ar": "CONFITURE JNAN ORANGE & CANNELLE 400Gr — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 290.0,
+    "image": "images/products/MDL0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0016"
+  },
+  {
+    "id": "OAM0005",
+    "name": {
+      "fr": "VINAIGRE DE DATTE à L''''AIL NOIR",
+      "ar": "VINAIGRE DE DATTE à L''''AIL NOIR — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 290.0,
+    "image": "images/products/OAM0005.svg",
+    "stock": 2,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "OAM0005"
+  },
+  {
+    "id": "FRI0023",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE LES 03 PORTIONS DU FRIAND",
+      "ar": "LE FRIAND BARQUETTE LES 03 PORTIONS DU FRIAND"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 145.0,
+    "image": "images/products/FRI0023.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0023"
+  },
+  {
+    "id": "FCH0018",
+    "name": {
+      "fr": "FAMILLY CHEESE FROMAGE FRAIS AIL ET  FINE HERB 130G",
+      "ar": "FAMILLY CHEESE FROMAGE FRAIS AIL ET  FINE HERB 130G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 290.0,
+    "image": "images/products/FCH0018.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0018"
+  },
+  {
+    "id": "CHB0008",
+    "name": {
+      "fr": "PAIN DE MIE NATURE SANS SUCRES AJOUTES CHAIB 370 G x 09",
+      "ar": "PAIN DE MIE NATURE SANS SUCRES AJOUTES CHAIB 370 G x 09 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 98.0,
+    "image": "images/products/CHB0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0008"
+  },
+  {
+    "id": "OAS0002",
+    "name": {
+      "fr": "DIOULE OUM ASSIL 10x10",
+      "ar": "DIOULE OUM ASSIL 10x10 — ديول"
+    },
+    "category": "dioul",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 730.01,
+    "image": "images/products/OAS0002.svg",
+    "stock": 785,
+    "featured": true,
+    "bestSeller": true,
+    "barcode": "OAS0002"
+  },
+  {
+    "id": "FRI0032",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE LES 04 PORTIONS GM",
+      "ar": "LE FRIAND BARQUETTE LES 04 PORTIONS GM"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 255.0,
+    "image": "images/products/FRI0032.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0032"
+  },
+  {
+    "id": "GIP0069",
+    "name": {
+      "fr": "GIPLAIT YAOURT AROMATISE 80 TIARET",
+      "ar": "GIPLAIT YAOURT AROMATISE 80 TIARET — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 16.0,
+    "image": "images/products/GIP0069.svg",
+    "stock": 144,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0069"
+  },
+  {
+    "id": "MLK0001",
+    "name": {
+      "fr": "MILKO BRASSE FRUITE ABRICOT 300G",
+      "ar": "MILKO BRASSE FRUITE ABRICOT 300G"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/MLK0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MLK0001"
+  },
+  {
+    "id": "MLK0007",
+    "name": {
+      "fr": "MILKO BRASSE FRUITE DES BOIS 300G",
+      "ar": "MILKO BRASSE FRUITE DES BOIS 300G"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/MLK0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MLK0007"
+  },
+  {
+    "id": "MLK0002",
+    "name": {
+      "fr": "MILKO BRASSE FRUITE FRAISE 300G",
+      "ar": "MILKO BRASSE FRUITE FRAISE 300G"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/MLK0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MLK0002"
+  },
+  {
+    "id": "LEM0001",
+    "name": {
+      "fr": "LLEMMA margarine 250g x32",
+      "ar": "LLEMMA margarine 250g x32 — مارغرين"
+    },
+    "category": "margarine",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 69.5,
+    "image": "images/products/LEM0001.svg",
+    "stock": 395,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "LEM0001"
+  },
+  {
+    "id": "FRI0003",
+    "name": {
+      "fr": "LE FRIAND PM 160g (Doré) x 28",
+      "ar": "LE FRIAND PM 160g (Doré) x 28"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 220.0,
+    "image": "images/products/FRI0003.svg",
+    "stock": 157,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0003"
+  },
+  {
+    "id": "FRI0017",
+    "name": {
+      "fr": "LE FRIAND LE SENATEUR 160G PM",
+      "ar": "LE FRIAND LE SENATEUR 160G PM"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 220.0,
+    "image": "images/products/FRI0017.svg",
+    "stock": 56,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0017"
+  },
+  {
+    "id": "FRI0024",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE DEMI LUNE FRIAND 300 G GM",
+      "ar": "LE FRIAND BARQUETTE DEMI LUNE FRIAND 300 G GM"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 440.0,
+    "image": "images/products/FRI0024.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0024"
+  },
+  {
+    "id": "MDL0005",
+    "name": {
+      "fr": "CONFITURE JNAN DATTES ET NOIX 400 G",
+      "ar": "CONFITURE JNAN DATTES ET NOIX 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 440.0,
+    "image": "images/products/MDL0005.svg",
+    "stock": 1,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0005"
+  },
+  {
+    "id": "BLT0021",
+    "name": {
+      "fr": "BELLAT PATE THON CHAPLET 180 G",
+      "ar": "BELLAT PATE THON CHAPLET 180 G — معجون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.01,
+    "image": "images/products/BLT0021.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0021"
+  },
+  {
+    "id": "GIP0033",
+    "name": {
+      "fr": "GIPLAIT FROMAGE NUMIDIA 1 KG",
+      "ar": "GIPLAIT FROMAGE NUMIDIA 1 KG — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 775.0,
+    "image": "images/products/GIP0033.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0033"
+  },
+  {
+    "id": "MRJ0012",
+    "name": {
+      "fr": "EL MOUROUDJ MOZZARELLA AU CHEDDAR 500Gr",
+      "ar": "EL MOUROUDJ MOZZARELLA AU CHEDDAR 500Gr — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 775.0,
+    "image": "images/products/MRJ0012.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0012"
+  },
+  {
+    "id": "FRI0027",
+    "name": {
+      "fr": "LE ROUX PM 130Gr",
+      "ar": "LE ROUX PM 130Gr"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 185.0,
+    "image": "images/products/FRI0027.svg",
+    "stock": 68,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0027"
+  },
+  {
+    "id": "WLD0004",
+    "name": {
+      "fr": "Walid Fromage Suprême Cheddar plus 400g x12",
+      "ar": "Walid Fromage Suprême Cheddar plus 400g x12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 370.01,
+    "image": "images/products/WLD0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0004"
+  },
+  {
+    "id": "WLD0002",
+    "name": {
+      "fr": "Walid Fromage Suprême 3 fromages 400g x12",
+      "ar": "Walid Fromage Suprême 3 fromages 400g x12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 370.01,
+    "image": "images/products/WLD0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0002"
+  },
+  {
+    "id": "WLD0007",
+    "name": {
+      "fr": "Walid Fromage Suprême à l'EDAM 600 G",
+      "ar": "Walid Fromage Suprême à l'EDAM 600 G — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 555.0,
+    "image": "images/products/WLD0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0007"
+  },
+  {
+    "id": "WLD0001",
+    "name": {
+      "fr": "Walid Fromage Suprême 3 fromages 600g x10",
+      "ar": "Walid Fromage Suprême 3 fromages 600g x10 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 555.0,
+    "image": "images/products/WLD0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0001"
+  },
+  {
+    "id": "WLD0003",
+    "name": {
+      "fr": "Walid Fromage Suprême Cheddar plus 600g x10",
+      "ar": "Walid Fromage Suprême Cheddar plus 600g x10 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 555.0,
+    "image": "images/products/WLD0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0003"
+  },
+  {
+    "id": "WLD0005",
+    "name": {
+      "fr": "Walid Fromage Suprême Gouda 600g x10",
+      "ar": "Walid Fromage Suprême Gouda 600g x10 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 555.0,
+    "image": "images/products/WLD0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0005"
+  },
+  {
+    "id": "WLD0009",
+    "name": {
+      "fr": "Walid Fromage Suprême  Maasdam 600g x10",
+      "ar": "Walid Fromage Suprême  Maasdam 600g x10 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 555.0,
+    "image": "images/products/WLD0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0009"
+  },
+  {
+    "id": "WLD0006",
+    "name": {
+      "fr": "Walid Fromage Suprême Gouda 400g x12",
+      "ar": "Walid Fromage Suprême Gouda 400g x12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 370.0,
+    "image": "images/products/WLD0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0006"
+  },
+  {
+    "id": "WLD0022",
+    "name": {
+      "fr": "Walid Préparation goût Cheddar 800g x 8",
+      "ar": "Walid Préparation goût Cheddar 800g x 8 — شيدر"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 370.0,
+    "image": "images/products/WLD0022.svg",
+    "stock": 27,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0022"
+  },
+  {
+    "id": "WLD0008",
+    "name": {
+      "fr": "Walid Fromage Suprême à l''EDAM 400g x12",
+      "ar": "Walid Fromage Suprême à l''EDAM 400g x12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 369.99,
+    "image": "images/products/WLD0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0008"
+  },
+  {
+    "id": "OAS0001",
+    "name": {
+      "fr": "DIOULE OUM ASSIL 12x10",
+      "ar": "DIOULE OUM ASSIL 12x10 — ديول"
+    },
+    "category": "dioul",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 740.0,
+    "image": "images/products/OAS0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "OAS0001"
+  },
+  {
+    "id": "CHB0002",
+    "name": {
+      "fr": "PAIN DE MIE COMPLET CHAIB 500 G x 09",
+      "ar": "PAIN DE MIE COMPLET CHAIB 500 G x 09 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 122.0,
+    "image": "images/products/CHB0002.svg",
+    "stock": 23,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "CHB0002"
+  },
+  {
+    "id": "GIP0002",
+    "name": {
+      "fr": "GIPLAIT BOUDOUAOU PORTION 24P 330g",
+      "ar": "GIPLAIT BOUDOUAOU PORTION 24P 330g — حليب"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 327.0,
+    "image": "images/products/GIP0002.svg",
+    "stock": 1156,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0002"
+  },
+  {
+    "id": "GIP0009",
+    "name": {
+      "fr": "GIPLAIT BEURRE AMIZOUR 500G",
+      "ar": "GIPLAIT BEURRE AMIZOUR 500G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 785.0,
+    "image": "images/products/GIP0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0009"
+  },
+  {
+    "id": "GIP0039",
+    "name": {
+      "fr": "GIPLAIT CHERBET MOKHITO 1 LITRE",
+      "ar": "GIPLAIT CHERBET MOKHITO 1 LITRE — حليب"
+    },
+    "category": "cherbet",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.01,
+    "image": "images/products/GIP0039.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0039"
+  },
+  {
+    "id": "CHB0007",
+    "name": {
+      "fr": "PAIN BURGER GEANT CHAIB 360 G x 08",
+      "ar": "PAIN BURGER GEANT CHAIB 360 G x 08 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 92.0,
+    "image": "images/products/CHB0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0007"
+  },
+  {
+    "id": "GIP0056",
+    "name": {
+      "fr": "GIPLAIT BARQUETTE NUMIDIA 250Gr",
+      "ar": "GIPLAIT BARQUETTE NUMIDIA 250Gr — حليب"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "image": "images/products/GIP0056.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0056"
+  },
+  {
+    "id": "WLD0011",
+    "name": {
+      "fr": "Walid Fromage Barre 250g x 16",
+      "ar": "Walid Fromage Barre 250g x 16 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 225.01,
+    "image": "images/products/WLD0011.svg",
+    "stock": 602,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "WLD0011"
+  },
+  {
+    "id": "WLD0013",
+    "name": {
+      "fr": "Walid Fromage Barre 700g x 5",
+      "ar": "Walid Fromage Barre 700g x 5 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 630.0,
+    "image": "images/products/WLD0013.svg",
+    "stock": 128,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0013"
+  },
+  {
+    "id": "WLD0012",
+    "name": {
+      "fr": "Walid Fromage Barre 500g x 12",
+      "ar": "Walid Fromage Barre 500g x 12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "image": "images/products/WLD0012.svg",
+    "stock": 360,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0012"
+  },
+  {
+    "id": "WLD0020",
+    "name": {
+      "fr": "Walid Préparation Seau 1.8Kg x 6",
+      "ar": "Walid Préparation Seau 1.8Kg x 6 — ماء"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 750.0,
+    "image": "images/products/WLD0020.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0020"
+  },
+  {
+    "id": "FRI0013",
+    "name": {
+      "fr": "LE FRIAND-ROUX GM 240g (Maron) x 35",
+      "ar": "LE FRIAND-ROUX GM 240g (Maron) x 35"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 375.0,
+    "image": "images/products/FRI0013.svg",
+    "stock": 469,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "FRI0013"
+  },
+  {
+    "id": "MRJ0007",
+    "name": {
+      "fr": "EL MOUROUDJ BEURRE 500G",
+      "ar": "EL MOUROUDJ BEURRE 500G — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 750.0,
+    "image": "images/products/MRJ0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0007"
+  },
+  {
+    "id": "BRR0020",
+    "name": {
+      "fr": "BOUROUROU TAKMARIT",
+      "ar": "BOUROUROU TAKMARIT"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1500.0,
+    "image": "images/products/BRR0020.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0020"
+  },
+  {
+    "id": "FRI0010",
+    "name": {
+      "fr": "LE FRIAND Pointe De Brie Le Senateure Roux 200g",
+      "ar": "LE FRIAND Pointe De Brie Le Senateure Roux 200g — بري"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 265.0,
+    "image": "images/products/FRI0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0010"
+  },
+  {
+    "id": "CHB0005",
+    "name": {
+      "fr": "PAIN DE MIE MULTI CEREALS NOIR CHAIB 370 G  x 09",
+      "ar": "PAIN DE MIE MULTI CEREALS NOIR CHAIB 370 G  x 09 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 132.99,
+    "image": "images/products/CHB0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0005"
+  },
+  {
+    "id": "CHB0004",
+    "name": {
+      "fr": "PAIN DE MIE CHAIB FESTIF CHAIB 370 G x 09",
+      "ar": "PAIN DE MIE CHAIB FESTIF CHAIB 370 G x 09 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 132.99,
+    "image": "images/products/CHB0004.svg",
+    "stock": 8,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0004"
+  },
+  {
+    "id": "GIP0037",
+    "name": {
+      "fr": "GIPLAIT FROMAGE FONDU 900Gr * 15",
+      "ar": "GIPLAIT FROMAGE FONDU 900Gr * 15 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 850.0,
+    "image": "images/products/GIP0037.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0037"
+  },
+  {
+    "id": "FRI0022",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE LES 04 PORTIONS PM",
+      "ar": "LE FRIAND BARQUETTE LES 04 PORTIONS PM"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/FRI0022.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0022"
+  },
+  {
+    "id": "FRI0007",
+    "name": {
+      "fr": "LE FRIAND GRUYER STICK",
+      "ar": "LE FRIAND GRUYER STICK"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2360.0,
+    "image": "images/products/FRI0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0007"
+  },
+  {
+    "id": "CHB0003",
+    "name": {
+      "fr": "PAIN DE MIE NATURE CHAIB 500 G x 09",
+      "ar": "PAIN DE MIE NATURE CHAIB 500 G x 09 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "image": "images/products/CHB0003.svg",
+    "stock": 7,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0003"
+  },
+  {
+    "id": "FRI0012",
+    "name": {
+      "fr": "LE FRIAND LE ROUX FAMILIAL GM 350g (Maron) x 25",
+      "ar": "LE FRIAND LE ROUX FAMILIAL GM 350g (Maron) x 25"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 495.0,
+    "image": "images/products/FRI0012.svg",
+    "stock": 97,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0012"
+  },
+  {
+    "id": "FRI0015",
+    "name": {
+      "fr": "LE FRIAND Point De Brie ROUX PM 65g(Maron) x12",
+      "ar": "LE FRIAND Point De Brie ROUX PM 65g(Maron) x12 — بري"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1450.25,
+    "image": "images/products/FRI0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0015"
+  },
+  {
+    "id": "WLD0023",
+    "name": {
+      "fr": "Walid Préparation Seau 3.8Kg x 1",
+      "ar": "Walid Préparation Seau 3.8Kg x 1 — ماء"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1450.0,
+    "image": "images/products/WLD0023.svg",
+    "stock": 45,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0023"
+  },
+  {
+    "id": "FRi0025",
+    "name": {
+      "fr": "LE FRIAND Pointe de Brie Le Senateure 200G",
+      "ar": "LE FRIAND Pointe de Brie Le Senateure 200G — بري"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 253.17,
+    "image": "images/products/FRi0025.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0025"
+  },
+  {
+    "id": "FRI0021",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE LES 06 PORTIONS DU FRIAND",
+      "ar": "LE FRIAND BARQUETTE LES 06 PORTIONS DU FRIAND"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 368.2,
+    "image": "images/products/FRI0021.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0021"
+  },
+  {
+    "id": "FRI0036",
+    "name": {
+      "fr": "LE FRIAND LE MINI BRIE SIDOU 90Gr",
+      "ar": "LE FRIAND LE MINI BRIE SIDOU 90Gr — بري"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1560.0,
+    "image": "images/products/FRI0036.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0036"
+  },
+  {
+    "id": "GIP0008",
+    "name": {
+      "fr": "GIPLAIT FROMAGE AURES 500G",
+      "ar": "GIPLAIT FROMAGE AURES 500G — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 397.0,
+    "image": "images/products/GIP0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0008"
+  },
+  {
+    "id": "GIP0060",
+    "name": {
+      "fr": "GIPLAIT FROMAGE FONDU ROSTOMIA TIARET 600G",
+      "ar": "GIPLAIT FROMAGE FONDU ROSTOMIA TIARET 600G — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 561.25,
+    "image": "images/products/GIP0060.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0060"
+  },
+  {
+    "id": "GIP0001",
+    "name": {
+      "fr": "GIPLAIT BOUDOUAOU PORTION 16P 220g",
+      "ar": "GIPLAIT BOUDOUAOU PORTION 16P 220g — حليب"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 245.0,
+    "image": "images/products/GIP0001.svg",
+    "stock": 1261,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0001"
+  },
+  {
+    "id": "FRI0040",
+    "name": {
+      "fr": "LE SENATEUR 350Gr DU FRIAND",
+      "ar": "LE SENATEUR 350Gr DU FRIAND"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 460.0,
+    "image": "images/products/FRI0040.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0040"
+  },
+  {
+    "id": "FRI0039",
+    "name": {
+      "fr": "LE SENATEUR 250Gr DU FRIAND",
+      "ar": "LE SENATEUR 250Gr DU FRIAND"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 345.0,
+    "image": "images/products/FRI0039.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0039"
+  },
+  {
+    "id": "WLD0019",
+    "name": {
+      "fr": "WALID SPECIAL PIZZA 2 KG PAR UN",
+      "ar": "WALID SPECIAL PIZZA 2 KG PAR UN — بيتزا"
+    },
+    "category": "special-pizza",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 690.0,
+    "image": "images/products/WLD0019.svg",
+    "stock": 0,
+    "featured": true,
+    "bestSeller": false,
+    "barcode": "WLD0019"
+  },
+  {
+    "id": "FR0026",
+    "name": {
+      "fr": "LE FRIAND GRUYERE TRANCHE",
+      "ar": "LE FRIAND GRUYERE TRANCHE — غرويير"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 2300.0,
+    "image": "images/products/FR0026.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0026"
+  },
+  {
+    "id": "FCH0003",
+    "name": {
+      "fr": "FAMILY CHEESE  GRUYERE TRANCHE FROMAGE (KG)",
+      "ar": "FAMILY CHEESE  GRUYERE TRANCHE FROMAGE (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1955.0,
+    "image": "images/products/FCH0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0003"
+  },
+  {
+    "id": "FCH0007",
+    "name": {
+      "fr": "FAMILY CHEESE REBLECHON TRANCHE FROMAGE (KG)",
+      "ar": "FAMILY CHEESE REBLECHON TRANCHE FROMAGE (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1955.0,
+    "image": "images/products/FCH0007.svg",
+    "stock": 1,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0007"
+  },
+  {
+    "id": "FCH0012",
+    "name": {
+      "fr": "FAMILLY CHEESE CHEDDAR TRANCHE FROMAGE (KG)",
+      "ar": "FAMILLY CHEESE CHEDDAR TRANCHE FROMAGE (KG) — جبن"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1840.0,
+    "image": "images/products/FCH0012.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0012"
+  },
+  {
+    "id": "FCH0017",
+    "name": {
+      "fr": "FAMILLY CHEESE LA RACLETTE TRANCHE  (KG)",
+      "ar": "FAMILLY CHEESE LA RACLETTE TRANCHE  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1955.0,
+    "image": "images/products/FCH0017.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0017"
+  },
+  {
+    "id": "BRR0009",
+    "name": {
+      "fr": "BOUROUROU FROMAGE DE CHEVRE LA TOMME DE FLEURE TRANCHE",
+      "ar": "BOUROUROU FROMAGE DE CHEVRE LA TOMME DE FLEURE TRANCHE — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 3694.95,
+    "image": "images/products/BRR0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0009"
+  },
+  {
+    "id": "FCH0005",
+    "name": {
+      "fr": "FAMILY CHEESE GOUDA TRANCHE FROMAGE (KG)",
+      "ar": "FAMILY CHEESE GOUDA TRANCHE FROMAGE (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1840.0,
+    "image": "images/products/FCH0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0005"
+  },
+  {
+    "id": "FCH0006",
+    "name": {
+      "fr": "FAMILY CHEESE EDAM TRANCHE FROMAGE  (KG)",
+      "ar": "FAMILY CHEESE EDAM TRANCHE FROMAGE  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1840.0,
+    "image": "images/products/FCH0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0006"
+  },
+  {
+    "id": "FRI0002",
+    "name": {
+      "fr": "LE FRIAND FAMILIAL GM 350g (Doré) x 25",
+      "ar": "LE FRIAND FAMILIAL GM 350g (Doré) x 25"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 459.99,
+    "image": "images/products/FRI0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0002"
+  },
+  {
+    "id": "GIP0061",
+    "name": {
+      "fr": "GIPLAIT BARRE SAIDA 600G",
+      "ar": "GIPLAIT BARRE SAIDA 600G — حليب"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 551.5,
+    "image": "images/products/GIP0061.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0061"
+  },
+  {
+    "id": "MDL0017",
+    "name": {
+      "fr": "SAUCE JNAN TOMATES BASILIC 340Gr",
+      "ar": "SAUCE JNAN TOMATES BASILIC 340Gr — صلصة"
+    },
+    "category": "sauce-tomate",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/MDL0017.svg",
+    "stock": 1,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0017"
+  },
+  {
+    "id": "WLD0016",
+    "name": {
+      "fr": "Walid Fromage Barquette 250g x12",
+      "ar": "Walid Fromage Barquette 250g x12 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/WLD0016.svg",
+    "stock": 213,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0016"
+  },
+  {
+    "id": "FRI0029",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE 3 MACARONS 200G",
+      "ar": "LE FRIAND BARQUETTE 3 MACARONS 200G"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/FRI0029.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0029"
+  },
+  {
+    "id": "FRI0014",
+    "name": {
+      "fr": "LE FRIAND-ROUX PM 160g (Maron) x 28",
+      "ar": "LE FRIAND-ROUX PM 160g (Maron) x 28"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/FRI0014.svg",
+    "stock": 224,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0014"
+  },
+  {
+    "id": "MDL0014",
+    "name": {
+      "fr": "SAUCE JNAN TOMATES THYME 340 G",
+      "ar": "SAUCE JNAN TOMATES THYME 340 G — صلصة"
+    },
+    "category": "sauce-tomate",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 230.0,
+    "image": "images/products/MDL0014.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "MDL0014"
+  },
+  {
+    "id": "WLD0017",
+    "name": {
+      "fr": "Walid Fromage Barquette 500g x8",
+      "ar": "Walid Fromage Barquette 500g x8 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 459.99,
+    "image": "images/products/WLD0017.svg",
+    "stock": 35,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0017"
+  },
+  {
+    "id": "CHB0001",
+    "name": {
+      "fr": "PAIN BURGER CHAIB 360 G x 10",
+      "ar": "PAIN BURGER CHAIB 360 G x 10 — خبز"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 92.0,
+    "image": "images/products/CHB0001.svg",
+    "stock": 7,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CHB0001"
+  },
+  {
+    "id": "FRI0030",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE DEMI LUNE FRIAND 200 G PM",
+      "ar": "LE FRIAND BARQUETTE DEMI LUNE FRIAND 200 G PM"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 310.0,
+    "image": "images/products/FRI0030.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0030"
+  },
+  {
+    "id": "GIP0047",
+    "name": {
+      "fr": "GIPLAIT RAIB 800 ANNABA",
+      "ar": "GIPLAIT RAIB 800 ANNABA — رايب"
+    },
+    "category": "raib",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 135.01,
+    "image": "images/products/GIP0047.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0047"
+  },
+  {
+    "id": "GIP0053",
+    "name": {
+      "fr": "GIPLAIT CHERBET GOUT ANIS",
+      "ar": "GIPLAIT CHERBET GOUT ANIS — حليب"
+    },
+    "category": "cherbet",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.0,
+    "image": "images/products/GIP0053.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0053"
+  },
+  {
+    "id": "WLD0027",
+    "name": {
+      "fr": "Walid Fromage Barqutte CHEZZO 180G CHEDDAR",
+      "ar": "Walid Fromage Barqutte CHEZZO 180G CHEDDAR — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/WLD0027.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0027"
+  },
+  {
+    "id": "WLD0025",
+    "name": {
+      "fr": "Walid Fromage Barqutte CHEZZO 180G GOUDA",
+      "ar": "Walid Fromage Barqutte CHEZZO 180G GOUDA — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/WLD0025.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0025"
+  },
+  {
+    "id": "WLD0026",
+    "name": {
+      "fr": "Walid Fromage Barqutte CHEZZO 180G 3 FROMAGES",
+      "ar": "Walid Fromage Barqutte CHEZZO 180G 3 FROMAGES — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/WLD0026.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0026"
+  },
+  {
+    "id": "WLD0028",
+    "name": {
+      "fr": "Walid Fromage Barqutte CHEZZO 180G MAASDAM",
+      "ar": "Walid Fromage Barqutte CHEZZO 180G MAASDAM — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/WLD0028.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0028"
+  },
+  {
+    "id": "WLD0024",
+    "name": {
+      "fr": "Walid Fromage Barqutte CHEZZO 180G EDAM",
+      "ar": "Walid Fromage Barqutte CHEZZO 180G EDAM — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/WLD0024.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0024"
+  },
+  {
+    "id": "WLD0015",
+    "name": {
+      "fr": "Walid Fromage Barquette 180g x 24",
+      "ar": "Walid Fromage Barquette 180g x 24 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/WLD0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0015"
+  },
+  {
+    "id": "MDL0020",
+    "name": {
+      "fr": "CONFITURE JNAN PAPAYE D''''ALGERIE 400Gr",
+      "ar": "CONFITURE JNAN PAPAYE D''''ALGERIE 400Gr — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 550.0,
+    "image": "images/products/MDL0020.svg",
+    "stock": 60,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0020"
+  },
+  {
+    "id": "MLK0006",
+    "name": {
+      "fr": "MILKO FROMAGE FRAIS NATURE 120G",
+      "ar": "MILKO FROMAGE FRAIS NATURE 120G — جبن"
+    },
+    "category": "fromage-frais",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 55.0,
+    "image": "images/products/MLK0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MLK0006"
+  },
+  {
+    "id": "FRI0041",
+    "name": {
+      "fr": "NOUVELLE BARQUETTE LE FRIAND 250Gr",
+      "ar": "NOUVELLE BARQUETTE LE FRIAND 250Gr"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 320.0,
+    "image": "images/products/FRI0041.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0041"
+  },
+  {
+    "id": "COM0008",
+    "name": {
+      "fr": "CAMPANELLA  PACK PROMO (3+1) MOZZARELLA 250GR",
+      "ar": "CAMPANELLA  PACK PROMO (3+1) MOZZARELLA 250GR — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1080.0,
+    "image": "images/products/COM0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "COM0008"
+  },
+  {
+    "id": "FRI0052",
+    "name": {
+      "fr": "LE FRIAND GALETTE 01Kg DECLASSEE",
+      "ar": "LE FRIAND GALETTE 01Kg DECLASSEE"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 800.0,
+    "image": "images/products/FRI0052.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0052"
+  },
+  {
+    "id": "COM0007",
+    "name": {
+      "fr": "PROMOTION MOZZARELLA CAMPANELLA 250Gr (GRATUITE)",
+      "ar": "PROMOTION MOZZARELLA CAMPANELLA 250Gr (GRATUITE) — موزاريلا"
+    },
+    "category": "mozzarella",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 360.0,
+    "image": "images/products/COM0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "COM0007"
+  },
+  {
+    "id": "GIP0059",
+    "name": {
+      "fr": "GIPLAIT YAOURT YOUPI 1L",
+      "ar": "GIPLAIT YAOURT YOUPI 1L — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 140.0,
+    "image": "images/products/GIP0059.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0059"
+  },
+  {
+    "id": "TTA0008",
+    "name": {
+      "fr": "ICE TEA PINA COLADA 1L*6",
+      "ar": "ICE TEA PINA COLADA 1L*6 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 126.0,
+    "image": "images/products/TTA0008.svg",
+    "stock": 6,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0008"
+  },
+  {
+    "id": "TTA0006",
+    "name": {
+      "fr": "ICE TEA PASTEQUE 1L*6",
+      "ar": "ICE TEA PASTEQUE 1L*6 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 126.0,
+    "image": "images/products/TTA0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0006"
+  },
+  {
+    "id": "TTA0003",
+    "name": {
+      "fr": "ICE TEA PECHE 1L*6",
+      "ar": "ICE TEA PECHE 1L*6 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 126.0,
+    "image": "images/products/TTA0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0003"
+  },
+  {
+    "id": "TTA0007",
+    "name": {
+      "fr": "ICE TEA FRUITS ROUGES 1L*6",
+      "ar": "ICE TEA FRUITS ROUGES 1L*6 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 126.0,
+    "image": "images/products/TTA0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0007"
+  },
+  {
+    "id": "FRI0048",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE DEMI LUNE PROMOTION RAMADHAN",
+      "ar": "LE FRIAND BARQUETTE DEMI LUNE PROMOTION RAMADHAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/FRI0048.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0048"
+  },
+  {
+    "id": "MDL0019",
+    "name": {
+      "fr": "CONFITURE JNAN TOMAYES ET FEUILLES DE ROMARIN 400 G",
+      "ar": "CONFITURE JNAN TOMAYES ET FEUILLES DE ROMARIN 400 G — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "image": "images/products/MDL0019.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0019"
+  },
+  {
+    "id": "WLD0014",
+    "name": {
+      "fr": "Walid Fromage Barre 1.3Kg x 4",
+      "ar": "Walid Fromage Barre 1.3Kg x 4 — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1150.0,
+    "image": "images/products/WLD0014.svg",
+    "stock": 3,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "WLD0014"
+  },
+  {
+    "id": "BLT0034",
+    "name": {
+      "fr": "BELLAT JAMBON POULET  BELLAT 1 KG PAR UNITE",
+      "ar": "BELLAT JAMBON POULET  BELLAT 1 KG PAR UNITE — جمبون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 850.01,
+    "image": "images/products/BLT0034.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0034"
+  },
+  {
+    "id": "BRR0023",
+    "name": {
+      "fr": "BOUROUROU LBEN VACHE",
+      "ar": "BOUROUROU LBEN VACHE — لبن"
+    },
+    "category": "laban",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 170.0,
+    "image": "images/products/BRR0023.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0023"
+  },
+  {
+    "id": "BLT0025",
+    "name": {
+      "fr": "BELLAT JAMBON DE POULET 1 KG CUBIQUE  BELLAT PAR UNITE",
+      "ar": "BELLAT JAMBON DE POULET 1 KG CUBIQUE  BELLAT PAR UNITE — جمبون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 850.01,
+    "image": "images/products/BLT0025.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0025"
+  },
+  {
+    "id": "FRI0018",
+    "name": {
+      "fr": "LE FRIAND LES MACARONS DU FRIAND GM",
+      "ar": "LE FRIAND LES MACARONS DU FRIAND GM"
+    },
+    "category": "madeleine",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 429.99,
+    "image": "images/products/FRI0018.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "FRI0018"
+  },
+  {
+    "id": "FRI0034",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE CAMEMEBERT LE FRIAND 220G",
+      "ar": "LE FRIAND BARQUETTE CAMEMEBERT LE FRIAND 220G"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 260.0,
+    "image": "images/products/FRI0034.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0034"
+  },
+  {
+    "id": "MRJ0001",
+    "name": {
+      "fr": "EL MOUROUDJ LABAN BOUTEILLE 1L × 6",
+      "ar": "EL MOUROUDJ LABAN BOUTEILLE 1L × 6"
+    },
+    "category": "laban",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 130.0,
+    "image": "images/products/MRJ0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MRJ0001"
+  },
+  {
+    "id": "BLT0047",
+    "name": {
+      "fr": "BELLAT BON BOEUF 180 G PUBLIC",
+      "ar": "BELLAT BON BOEUF 180 G PUBLIC"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 260.0,
+    "image": "images/products/BLT0047.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0047"
+  },
+  {
+    "id": "BLT0038",
+    "name": {
+      "fr": "BELLAT DELICE DE POULET SALAMI  BELLAT 1 KG PAR UNITE",
+      "ar": "BELLAT DELICE DE POULET SALAMI  BELLAT 1 KG PAR UNITE — سلامي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 790.01,
+    "image": "images/products/BLT0038.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0038"
+  },
+  {
+    "id": "GIP0046",
+    "name": {
+      "fr": "GIPLAIT FLAN CARAMEL 200Gr",
+      "ar": "GIPLAIT FLAN CARAMEL 200Gr — حليب"
+    },
+    "category": "flan",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 55.0,
+    "image": "images/products/GIP0046.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0046"
+  },
+  {
+    "id": "GIP0045",
+    "name": {
+      "fr": "GIPLAIT FLAN CHOCOLAT 200Gr",
+      "ar": "GIPLAIT FLAN CHOCOLAT 200Gr — حليب"
+    },
+    "category": "flan",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 55.0,
+    "image": "images/products/GIP0045.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "GIP0045"
+  },
+  {
+    "id": "GIP0058",
+    "name": {
+      "fr": "GIPLAIT YAOURT FRUIT 100G",
+      "ar": "GIPLAIT YAOURT FRUIT 100G — ياغورت"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "image": "images/products/GIP0058.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0058"
+  },
+  {
+    "id": "BLT0017",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA OLIVE 800 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET DLICIA OLIVE 800 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "image": "images/products/BLT0017.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0017"
+  },
+  {
+    "id": "BLT0015",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA PIQUANT 800 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET DLICIA PIQUANT 800 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "image": "images/products/BLT0015.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0015"
+  },
+  {
+    "id": "BLT0013",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA BELLAT 800 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET DLICIA BELLAT 800 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "image": "images/products/BLT0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0013"
+  },
+  {
+    "id": "BLT0033",
+    "name": {
+      "fr": "BELLAT SALAMI TRADITIONNEL 500 G  PAR UNITE",
+      "ar": "BELLAT SALAMI TRADITIONNEL 500 G  PAR UNITE — سلامي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "image": "images/products/BLT0033.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0033"
+  },
+  {
+    "id": "FCH0008",
+    "name": {
+      "fr": "FAMILY CHEESE DEMI MEULE FROMAGE GRUYERE (KG)",
+      "ar": "FAMILY CHEESE DEMI MEULE FROMAGE GRUYERE (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1800.01,
+    "image": "images/products/FCH0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0008"
+  },
+  {
+    "id": "FCH0011",
+    "name": {
+      "fr": "FAMILY CHEESE QUART DE MEULE REBLOCHON  (KG)",
+      "ar": "FAMILY CHEESE QUART DE MEULE REBLOCHON  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1800.01,
+    "image": "images/products/FCH0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0011"
+  },
+  {
+    "id": "FCH0010",
+    "name": {
+      "fr": "FAMILY CHEESE QUART DE MEULE FROMAGE GRUYERE (KG)",
+      "ar": "FAMILY CHEESE QUART DE MEULE FROMAGE GRUYERE (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1800.01,
+    "image": "images/products/FCH0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0010"
+  },
+  {
+    "id": "FCH0009",
+    "name": {
+      "fr": "FAMILY CHEESE DEMI MEULE FROMAGE REBLOCHON  (KG)",
+      "ar": "FAMILY CHEESE DEMI MEULE FROMAGE REBLOCHON  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1800.01,
+    "image": "images/products/FCH0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0009"
+  },
+  {
+    "id": "FRI0035",
+    "name": {
+      "fr": "BARQUETTE CAMEMEBERT ROUX 220G",
+      "ar": "BARQUETTE CAMEMEBERT ROUX 220G"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 270.0,
+    "image": "images/products/FRI0035.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0035"
+  },
+  {
+    "id": "BRR0013",
+    "name": {
+      "fr": "BOUROUROU ROCKFORT CHEVRE",
+      "ar": "BOUROUROU ROCKFORT CHEVRE"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 4500.0,
+    "image": "images/products/BRR0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BRR0013"
+  },
+  {
+    "id": "FCH0014",
+    "name": {
+      "fr": "FAMILLY CHEESE MAASDAM TRANCHE  (KG)",
+      "ar": "FAMILLY CHEESE MAASDAM TRANCHE  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1800.0,
+    "image": "images/products/FCH0014.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0014"
+  },
+  {
+    "id": "FRI0005",
+    "name": {
+      "fr": "LE FRIAND GALETTE LE ROUX DECLASSE 500G",
+      "ar": "LE FRIAND GALETTE LE ROUX DECLASSE 500G"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 900.0,
+    "image": "images/products/FRI0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0005"
+  },
+  {
+    "id": "BLT0004",
+    "name": {
+      "fr": "BELLAT CACHIR BELLAT 1 KG PAR UNITE",
+      "ar": "BELLAT CACHIR BELLAT 1 KG PAR UNITE — قشير"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 360.0,
+    "image": "images/products/BLT0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0004"
+  },
+  {
+    "id": "TTA0002",
+    "name": {
+      "fr": "ICE TEA PINA COLADA 25CL*16",
+      "ar": "ICE TEA PINA COLADA 25CL*16 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 50.0,
+    "image": "images/products/TTA0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0002"
+  },
+  {
+    "id": "TTA0005",
+    "name": {
+      "fr": "ICE TEA PASTEQUE 25CL*15",
+      "ar": "ICE TEA PASTEQUE 25CL*15 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 50.0,
+    "image": "images/products/TTA0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0005"
+  },
+  {
+    "id": "TTA0004",
+    "name": {
+      "fr": "ICE TEA FRUITS ROUGES 25CL*15",
+      "ar": "ICE TEA FRUITS ROUGES 25CL*15 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 50.0,
+    "image": "images/products/TTA0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0004"
+  },
+  {
+    "id": "TTA0001",
+    "name": {
+      "fr": "ICE TEA PECHE 25CL*15",
+      "ar": "ICE TEA PECHE 25CL*15 — شاي مثلج"
+    },
+    "category": "ice-tea",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 50.0,
+    "image": "images/products/TTA0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TTA0001"
+  },
+  {
+    "id": "BLT0016",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA PIQUANT 480 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET DLICIA PIQUANT 480 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 275.0,
+    "image": "images/products/BLT0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0016"
+  },
+  {
+    "id": "LEM0002",
+    "name": {
+      "fr": "LLEMMA margarine 500g x24",
+      "ar": "LLEMMA margarine 500g x24 — مارغرين"
+    },
+    "category": "margarine",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 129.0,
+    "image": "images/products/LEM0002.svg",
+    "stock": 1241,
+    "featured": false,
+    "bestSeller": true,
+    "barcode": "LEM0002"
+  },
+  {
+    "id": "BLT0048",
+    "name": {
+      "fr": "BELLAT MORTADELLE BELLAT 1KG CUBIQUE PAR UNITE",
+      "ar": "BELLAT MORTADELLE BELLAT 1KG CUBIQUE PAR UNITE — مرتديلا"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 440.3,
+    "image": "images/products/BLT0048.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0048"
+  },
+  {
+    "id": "BLT0040",
+    "name": {
+      "fr": "BELLAT DELICE DE POULET LE GOURMET  BELLAT 1 KG PAR UNITE",
+      "ar": "BELLAT DELICE DE POULET LE GOURMET  BELLAT 1 KG PAR UNITE"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 650.0,
+    "image": "images/products/BLT0040.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0040"
+  },
+  {
+    "id": "BLT0041",
+    "name": {
+      "fr": "BELLAT DELICE DE POULET LES EPICES  BELLAT 01 KG PAR UNITE",
+      "ar": "BELLAT DELICE DE POULET LES EPICES  BELLAT 01 KG PAR UNITE"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 650.0,
+    "image": "images/products/BLT0041.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0041"
+  },
+  {
+    "id": "BLT0039",
+    "name": {
+      "fr": "BELLAT GALANTINE 1 KG CUBIQUE PAR UNITE",
+      "ar": "BELLAT GALANTINE 1 KG CUBIQUE PAR UNITE — جالنتين"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 750.0,
+    "image": "images/products/BLT0039.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0039"
+  },
+  {
+    "id": "BLT0045",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET 340G",
+      "ar": "BELLAT LUNCHEON POULET 340G — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 380.0,
+    "image": "images/products/BLT0045.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0045"
+  },
+  {
+    "id": "BLT0010",
+    "name": {
+      "fr": "BELLAT PATE PIZZA  BELLAT 500 G PAR UNITE",
+      "ar": "BELLAT PATE PIZZA  BELLAT 500 G PAR UNITE — معجون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/BLT0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0010"
+  },
+  {
+    "id": "BLT0024",
+    "name": {
+      "fr": "BELLAT MORTADELLE BELLAT 500 G PAR UNITE",
+      "ar": "BELLAT MORTADELLE BELLAT 500 G PAR UNITE — مرتديلا"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/BLT0024.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0024"
+  },
+  {
+    "id": "BLT0020",
+    "name": {
+      "fr": "BELLAT PATE DINDE BELLAT 500 G PAR UNITE",
+      "ar": "BELLAT PATE DINDE BELLAT 500 G PAR UNITE — ديك رومي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/BLT0020.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0020"
+  },
+  {
+    "id": "BLT0022",
+    "name": {
+      "fr": "BELLAT PATE THON BELLAT 500 G PAR UNITE",
+      "ar": "BELLAT PATE THON BELLAT 500 G PAR UNITE — معجون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/BLT0022.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0022"
+  },
+  {
+    "id": "BLT0002",
+    "name": {
+      "fr": "BELLAT CACHIR  BELLAT 500 G PAR UNITE",
+      "ar": "BELLAT CACHIR  BELLAT 500 G PAR UNITE — قشير"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/BLT0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0002"
+  },
+  {
+    "id": "BLT0006",
+    "name": {
+      "fr": "BELLAT PATE FROMAGE BELLAT 500 G PAR UNITE",
+      "ar": "BELLAT PATE FROMAGE BELLAT 500 G PAR UNITE — جبن"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "image": "images/products/BLT0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0006"
+  },
+  {
+    "id": "FRI0033",
+    "name": {
+      "fr": "LE FRIAND 300G DECLASSE",
+      "ar": "LE FRIAND 300G DECLASSE"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 390.0,
+    "image": "images/products/FRI0033.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0033"
+  },
+  {
+    "id": "BLT0037",
+    "name": {
+      "fr": "BELLAT CHAWARMA POULET  BELLAT 1,5 KG PAR UNITE",
+      "ar": "BELLAT CHAWARMA POULET  BELLAT 1,5 KG PAR UNITE — شاورما"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1220.0,
+    "image": "images/products/BLT0037.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0037"
+  },
+  {
+    "id": "BLT0043",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET PIQUANT  825 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET PIQUANT  825 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 890.0,
+    "image": "images/products/BLT0043.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0043"
+  },
+  {
+    "id": "BLT0042",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET BELLAT 825 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET BELLAT 825 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 890.0,
+    "image": "images/products/BLT0042.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0042"
+  },
+  {
+    "id": "BLT0044",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET OLIVE 825 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET OLIVE 825 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 890.0,
+    "image": "images/products/BLT0044.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0044"
+  },
+  {
+    "id": "BLT0036",
+    "name": {
+      "fr": "BELLAT SALAMI POULET FUME  340 G PAR UNITE",
+      "ar": "BELLAT SALAMI POULET FUME  340 G PAR UNITE — سلامي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 325.0,
+    "image": "images/products/BLT0036.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0036"
+  },
+  {
+    "id": "BLT0005",
+    "name": {
+      "fr": "BELLAT PATE AU FROMAGE CHAPLET 180 G",
+      "ar": "BELLAT PATE AU FROMAGE CHAPLET 180 G — جبن"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "image": "images/products/BLT0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0005"
+  },
+  {
+    "id": "BLT0009",
+    "name": {
+      "fr": "BELLAT PATE PIZZA CHAPLET",
+      "ar": "BELLAT PATE PIZZA CHAPLET — معجون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "image": "images/products/BLT0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0009"
+  },
+  {
+    "id": "BLT0023",
+    "name": {
+      "fr": "BELLAT MORTADELLE CHAPLET 180 G PAR UNITE",
+      "ar": "BELLAT MORTADELLE CHAPLET 180 G PAR UNITE — مرتديلا"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "image": "images/products/BLT0023.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0023"
+  },
+  {
+    "id": "BLT0001",
+    "name": {
+      "fr": "BELLAT CACHIR CHAPLET BELLAT 180 G PAR UNITE",
+      "ar": "BELLAT CACHIR CHAPLET BELLAT 180 G PAR UNITE — قشير"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "image": "images/products/BLT0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0001"
+  },
+  {
+    "id": "FRI0037",
+    "name": {
+      "fr": "LE FRIAND BARQUETTE LE FRIAND PM",
+      "ar": "LE FRIAND BARQUETTE LE FRIAND PM"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/FRI0037.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0037"
+  },
+  {
+    "id": "BLT0032",
+    "name": {
+      "fr": "BELLAT SALAMI VIANDE 1.5 KG  PAR UNITE",
+      "ar": "BELLAT SALAMI VIANDE 1.5 KG  PAR UNITE — سلامي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1250.0,
+    "image": "images/products/BLT0032.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0032"
+  },
+  {
+    "id": "BLT0018",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA OLIVE 480 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET DLICIA OLIVE 480 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 266.66,
+    "image": "images/products/BLT0018.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0018"
+  },
+  {
+    "id": "GIP0003",
+    "name": {
+      "fr": "GIPLAIT BEURRE 1 KG TLEMCEN",
+      "ar": "GIPLAIT BEURRE 1 KG TLEMCEN — زبدة"
+    },
+    "category": "beurre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "image": "images/products/GIP0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0003"
+  },
+  {
+    "id": "AZR0008",
+    "name": {
+      "fr": "AZRA Sauce cheese 200 ML",
+      "ar": "AZRA Sauce cheese 200 ML — جبن"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 112.0,
+    "image": "images/products/AZR0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0008"
+  },
+  {
+    "id": "FRI0042",
+    "name": {
+      "fr": "LE FRIAND GM 240g PROMOTION RAMADAN",
+      "ar": "LE FRIAND GM 240g PROMOTION RAMADAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 310.0,
+    "image": "images/products/FRI0042.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0042"
+  },
+  {
+    "id": "FRI0044",
+    "name": {
+      "fr": "LE SENATEUR 250G PROMOTION RAMADAN",
+      "ar": "LE SENATEUR 250G PROMOTION RAMADAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 310.0,
+    "image": "images/products/FRI0044.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0044"
+  },
+  {
+    "id": "FRI0045",
+    "name": {
+      "fr": "LE SENATEUR 350Gr PROMOTION RAMADAN",
+      "ar": "LE SENATEUR 350Gr PROMOTION RAMADAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 425.0,
+    "image": "images/products/FRI0045.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0045"
+  },
+  {
+    "id": "FRI0038",
+    "name": {
+      "fr": "LE FRIAND 350Gr PROMOTION RAMADAN",
+      "ar": "LE FRIAND 350Gr PROMOTION RAMADAN"
+    },
+    "category": "camembert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 425.0,
+    "image": "images/products/FRI0038.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0038"
+  },
+  {
+    "id": "BLT0030",
+    "name": {
+      "fr": "BELLAT SAUCISSON SALAMI VIANDE 1 KG  PAR UNITE",
+      "ar": "BELLAT SAUCISSON SALAMI VIANDE 1 KG  PAR UNITE — سلامي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 950.0,
+    "image": "images/products/BLT0030.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0030"
+  },
+  {
+    "id": "BLT0014",
+    "name": {
+      "fr": "BELLAT LUNCHEON POULET DLICIA BELLAT 480 G PAR UNITE",
+      "ar": "BELLAT LUNCHEON POULET DLICIA BELLAT 480 G PAR UNITE — لانشون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 265.01,
+    "image": "images/products/BLT0014.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0014"
+  },
+  {
+    "id": "AZR0001",
+    "name": {
+      "fr": "AZRA Sauce 3poivres 900 ML",
+      "ar": "AZRA Sauce 3poivres 900 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 336.0,
+    "image": "images/products/AZR0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0001"
+  },
+  {
+    "id": "AZR0006",
+    "name": {
+      "fr": "AZRA Sauce Mayo snack 900 ML",
+      "ar": "AZRA Sauce Mayo snack 900 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 231.0,
+    "image": "images/products/AZR0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0006"
+  },
+  {
+    "id": "AZR0007",
+    "name": {
+      "fr": "AZRA Sauce Samourai 900 ML",
+      "ar": "AZRA Sauce Samourai 900 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 369.99,
+    "image": "images/products/AZR0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0007"
+  },
+  {
+    "id": "AZR0003",
+    "name": {
+      "fr": "AZRA Sauce CHEESE 900 ML",
+      "ar": "AZRA Sauce CHEESE 900 ML — جبن"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 320.0,
+    "image": "images/products/AZR0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0003"
+  },
+  {
+    "id": "AZR0004",
+    "name": {
+      "fr": "AZRA Sauce Curry 900 ML",
+      "ar": "AZRA Sauce Curry 900 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 375.0,
+    "image": "images/products/AZR0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0004"
+  },
+  {
+    "id": "AZR0002",
+    "name": {
+      "fr": "AZRA Sauce Biggy Burger 900 ML",
+      "ar": "AZRA Sauce Biggy Burger 900 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 375.0,
+    "image": "images/products/AZR0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0002"
+  },
+  {
+    "id": "AZR0009",
+    "name": {
+      "fr": "AZRA Sauce samourai¨ 200 ML",
+      "ar": "AZRA Sauce samourai¨ 200 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 118.0,
+    "image": "images/products/AZR0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0009"
+  },
+  {
+    "id": "PRE0002",
+    "name": {
+      "fr": "PRESIDENT PORTION 24P 330Gr",
+      "ar": "PRESIDENT PORTION 24P 330Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/PRE0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "PRE0002"
+  },
+  {
+    "id": "FRI0028",
+    "name": {
+      "fr": "LE FRIAND BIDON DE 2Kg 03 FROMAGES",
+      "ar": "LE FRIAND BIDON DE 2Kg 03 FROMAGES — جبن"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 760.01,
+    "image": "images/products/FRI0028.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FRI0028"
+  },
+  {
+    "id": "AZR0005",
+    "name": {
+      "fr": "AZRA Sauce Kebab 900 ML",
+      "ar": "AZRA Sauce Kebab 900 ML — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 341.99,
+    "image": "images/products/AZR0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0005"
+  },
+  {
+    "id": "AZR0011",
+    "name": {
+      "fr": "AZRA VINIGRETTE DU CHEF",
+      "ar": "AZRA VINIGRETTE DU CHEF"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 192.49,
+    "image": "images/products/AZR0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0011"
+  },
+  {
+    "id": "AZR0012",
+    "name": {
+      "fr": "AZRA Vinaigrette Poivre 500ML",
+      "ar": "AZRA Vinaigrette Poivre 500ML — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 182.0,
+    "image": "images/products/AZR0012.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0012"
+  },
+  {
+    "id": "AZR0013",
+    "name": {
+      "fr": "AZRA Vinaigrette ciboulette 500ML",
+      "ar": "AZRA Vinaigrette ciboulette 500ML — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 182.0,
+    "image": "images/products/AZR0013.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0013"
+  },
+  {
+    "id": "AZR0010",
+    "name": {
+      "fr": "AZRA VINIGRETTE CESAR",
+      "ar": "AZRA VINIGRETTE CESAR"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 182.0,
+    "image": "images/products/AZR0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "AZR0010"
+  },
+  {
+    "id": "BLT0031",
+    "name": {
+      "fr": "BELLAT SALAMI VIANDE 200 G  PAR UNITE",
+      "ar": "BELLAT SALAMI VIANDE 200 G  PAR UNITE — سلامي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 165.01,
+    "image": "images/products/BLT0031.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0031"
+  },
+  {
+    "id": "TRV0005",
+    "name": {
+      "fr": "SAUCE PIZZA STAR 250Gr VERRE",
+      "ar": "SAUCE PIZZA STAR 250Gr VERRE — صلصة"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "image": "images/products/TRV0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0005"
+  },
+  {
+    "id": "MDL0011",
+    "name": {
+      "fr": "CONFITURE JNAN PRUNE /MIRABELLE",
+      "ar": "CONFITURE JNAN PRUNE /MIRABELLE — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/MDL0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "MDL0011"
+  },
+  {
+    "id": "BLT0046",
+    "name": {
+      "fr": "BELLAT CORNED BOEUF BELLAT 180 G PUBLIC PAR UNITE",
+      "ar": "BELLAT CORNED BOEUF BELLAT 180 G PUBLIC PAR UNITE — كورند"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 330.0,
+    "image": "images/products/BLT0046.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0046"
+  },
+  {
+    "id": "PRE0005",
+    "name": {
+      "fr": "PRESIDENT PORTION 24 330Gr",
+      "ar": "PRESIDENT PORTION 24 330Gr"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 222.99,
+    "image": "images/products/PRE0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "PRE0005"
+  },
+  {
+    "id": "PRE0001",
+    "name": {
+      "fr": "PRESIDENT PORTION 32P 440Gr",
+      "ar": "PRESIDENT PORTION 32P 440Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 420.0,
+    "image": "images/products/PRE0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "PRE0001"
+  },
+  {
+    "id": "BLT0008",
+    "name": {
+      "fr": "BELLAT PATE FROMAGE   BELLAT 2 KG PAR UNITE",
+      "ar": "BELLAT PATE FROMAGE   BELLAT 2 KG PAR UNITE — جبن"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 700.01,
+    "image": "images/products/BLT0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0008"
+  },
+  {
+    "id": "BLT0012",
+    "name": {
+      "fr": "BELLAT PATE PIZZA  BELLAT 2 KG PAR UNITE",
+      "ar": "BELLAT PATE PIZZA  BELLAT 2 KG PAR UNITE — معجون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 700.01,
+    "image": "images/products/BLT0012.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0012"
+  },
+  {
+    "id": "BLT0003",
+    "name": {
+      "fr": "BELLAT CACHIR  BELLAT  2 KG PAR UNITE",
+      "ar": "BELLAT CACHIR  BELLAT  2 KG PAR UNITE — قشير"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 700.01,
+    "image": "images/products/BLT0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0003"
+  },
+  {
+    "id": "BLT0007",
+    "name": {
+      "fr": "BELLAT PATE FROMAGE  BELLAT 1 KG PAR UNITE",
+      "ar": "BELLAT PATE FROMAGE  BELLAT 1 KG PAR UNITE — جبن"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 350.0,
+    "image": "images/products/BLT0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0007"
+  },
+  {
+    "id": "TRV0002",
+    "name": {
+      "fr": "CONFITURE ABRICOT VERRE 315Gr",
+      "ar": "CONFITURE ABRICOT VERRE 315Gr — مربى"
+    },
+    "category": "confiture",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 120.0,
+    "image": "images/products/TRV0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0002"
+  },
+  {
+    "id": "BLT0035",
+    "name": {
+      "fr": "BELLAT ROTI POULET  BELLAT 1.2 KG",
+      "ar": "BELLAT ROTI POULET  BELLAT 1.2 KG — روتي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 929.0,
+    "image": "images/products/BLT0035.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0035"
+  },
+  {
+    "id": "TRV0004",
+    "name": {
+      "fr": "MISTER KETCHUP JUNIOR 290Gr",
+      "ar": "MISTER KETCHUP JUNIOR 290Gr — كاتشب"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 86.0,
+    "image": "images/products/TRV0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0004"
+  },
+  {
+    "id": "GIP0057",
+    "name": {
+      "fr": "GIPLAIT PREPARATION FROMAGERE 1.8Kg",
+      "ar": "GIPLAIT PREPARATION FROMAGERE 1.8Kg — جبن"
+    },
+    "category": "preparation",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 750.0,
+    "image": "images/products/GIP0057.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GIP0057"
+  },
+  {
+    "id": "TRV0011",
+    "name": {
+      "fr": "VINAIGRE STAR 700ML CITRON",
+      "ar": "VINAIGRE STAR 700ML CITRON — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/TRV0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0011"
+  },
+  {
+    "id": "TRV0008",
+    "name": {
+      "fr": "VINAIGRE STAR 700 ML POMME (9)",
+      "ar": "VINAIGRE STAR 700 ML POMME (9) — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/TRV0008.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0008"
+  },
+  {
+    "id": "TRV0009",
+    "name": {
+      "fr": "VINAIGRE STAR 700 ML RAISIN (9)",
+      "ar": "VINAIGRE STAR 700 ML RAISIN (9) — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/TRV0009.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0009"
+  },
+  {
+    "id": "TRV0010",
+    "name": {
+      "fr": "VINAIGRE STAR 700ML AUTHENTIQUE",
+      "ar": "VINAIGRE STAR 700ML AUTHENTIQUE — خل"
+    },
+    "category": "vinaigre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 95.0,
+    "image": "images/products/TRV0010.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0010"
+  },
+  {
+    "id": "ELE0005",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE MENTHE",
+      "ar": "ELEPHANTO 55 TISANE MENTHE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "image": "images/products/ELE0005.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0005"
+  },
+  {
+    "id": "ELE0002",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE AROMATISE CARAMEL",
+      "ar": "ELEPHANTO 55 TISANE AROMATISE CARAMEL — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "image": "images/products/ELE0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0002"
+  },
+  {
+    "id": "BLT0011",
+    "name": {
+      "fr": "BELLAT PATE PIZZA  BELLAT  1 KG",
+      "ar": "BELLAT PATE PIZZA  BELLAT  1 KG — معجون"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 339.99,
+    "image": "images/products/BLT0011.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0011"
+  },
+  {
+    "id": "FCH0016",
+    "name": {
+      "fr": "FAMILLY CHEESE  QUART DE MEULE LA RACLETTE  (KG)",
+      "ar": "FAMILLY CHEESE  QUART DE MEULE LA RACLETTE  (KG) — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1840.0,
+    "image": "images/products/FCH0016.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "FCH0016"
+  },
+  {
+    "id": "ELE0007",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE GRAINE DE FENOUIL",
+      "ar": "ELEPHANTO 55 TISANE GRAINE DE FENOUIL — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/ELE0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0007"
+  },
+  {
+    "id": "ELE0006",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE GRIPPE",
+      "ar": "ELEPHANTO 55 TISANE GRIPPE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/ELE0006.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0006"
+  },
+  {
+    "id": "ELE0001",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE THYM",
+      "ar": "ELEPHANTO 55 TISANE THYM — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/ELE0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0001"
+  },
+  {
+    "id": "ELE0003",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE CAMOMILLE",
+      "ar": "ELEPHANTO 55 TISANE CAMOMILLE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/ELE0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0003"
+  },
+  {
+    "id": "TRV0003",
+    "name": {
+      "fr": "KETCHUP STAR 970Gr  PROFESSIONNELLE",
+      "ar": "KETCHUP STAR 970Gr  PROFESSIONNELLE — كاتشب"
+    },
+    "category": "sauce",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 210.0,
+    "image": "images/products/TRV0003.svg",
+    "stock": 110,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "TRV0003"
+  },
+  {
+    "id": "YOM0007",
+    "name": {
+      "fr": "JUS YOUMY ORANGE 33CL",
+      "ar": "JUS YOUMY ORANGE 33CL — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 27.0,
+    "image": "images/products/YOM0007.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "YOM0007"
+  },
+  {
+    "id": "GOY0002",
+    "name": {
+      "fr": "GOYA FROMAGE GOYA EDAM BARRE 2.6 kg",
+      "ar": "GOYA FROMAGE GOYA EDAM BARRE 2.6 kg — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "image": "images/products/GOY0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GOY0002"
+  },
+  {
+    "id": "GOY0001",
+    "name": {
+      "fr": "GOYA FROMAGE EDAM TRANCHE",
+      "ar": "GOYA FROMAGE EDAM TRANCHE — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "image": "images/products/GOY0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "GOY0001"
+  },
+  {
+    "id": "PRE0004",
+    "name": {
+      "fr": "PRESIDENT METIDJA PORTION 08 110Gr",
+      "ar": "PRESIDENT METIDJA PORTION 08 110Gr"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 75.01,
+    "image": "images/products/PRE0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "PRE0004"
+  },
+  {
+    "id": "PRE0003",
+    "name": {
+      "fr": "PRESIDENT METIDJA PORTION 16 220Gr",
+      "ar": "PRESIDENT METIDJA PORTION 16 220Gr"
+    },
+    "category": "preparation-fromagere",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 130.0,
+    "image": "images/products/PRE0003.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "PRE0003"
+  },
+  {
+    "id": "ELE0004",
+    "name": {
+      "fr": "ELEPHANTO 55 TISANE VERVEINE",
+      "ar": "ELEPHANTO 55 TISANE VERVEINE — أعشاب"
+    },
+    "category": "tisane",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "image": "images/products/ELE0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "ELE0004"
+  },
+  {
+    "id": "YOM0004",
+    "name": {
+      "fr": "JUS YOUMY COCKTAIL 25CL",
+      "ar": "JUS YOUMY COCKTAIL 25CL — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "image": "images/products/YOM0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "YOM0004"
+  },
+  {
+    "id": "YOM0001",
+    "name": {
+      "fr": "JUS YOUMI ORANGE 25 CL",
+      "ar": "JUS YOUMI ORANGE 25 CL — عصير"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "image": "images/products/YOM0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "YOM0001"
+  },
+  {
+    "id": "CEL0002",
+    "name": {
+      "fr": "CELIA EXPERT2 / 400Gr",
+      "ar": "CELIA EXPERT2 / 400Gr"
+    },
+    "category": "lait-infantile",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 476.0,
+    "image": "images/products/CEL0002.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CEL0002"
+  },
+  {
+    "id": "CEL0004",
+    "name": {
+      "fr": "CELIA DEVELOP3 / 900Gr",
+      "ar": "CELIA DEVELOP3 / 900Gr"
+    },
+    "category": "lait-infantile",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 833.0,
+    "image": "images/products/CEL0004.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CEL0004"
+  },
+  {
+    "id": "CEL0003",
+    "name": {
+      "fr": "CELIA DEVELOP2 / 900Gr",
+      "ar": "CELIA DEVELOP2 / 900Gr"
+    },
+    "category": "lait-infantile",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 833.0,
+    "image": "images/products/CEL0003.svg",
+    "stock": 76,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CEL0003"
+  },
+  {
+    "id": "CEL0001",
+    "name": {
+      "fr": "CELIA LAT EN POUDRE 2Kg",
+      "ar": "CELIA LAT EN POUDRE 2Kg"
+    },
+    "category": "lait-en-poudre",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 800.0,
+    "image": "images/products/CEL0001.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "CEL0001"
+  },
+  {
+    "id": "BLT0026",
+    "name": {
+      "fr": "BELLAT HOT DOG POULET 6 SAUCISS",
+      "ar": "BELLAT HOT DOG POULET 6 SAUCISS — نقانق"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BLT0026.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0026"
+  },
+  {
+    "id": "BLT0028",
+    "name": {
+      "fr": "BELLAT HOT DOG MERGUE 6 SAUCISS",
+      "ar": "BELLAT HOT DOG MERGUE 6 SAUCISS — نقانق"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BLT0028.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0028"
+  },
+  {
+    "id": "BLT0027",
+    "name": {
+      "fr": "BELLAT HOT DOG POULET PIQUANT 6 SAUCISS",
+      "ar": "BELLAT HOT DOG POULET PIQUANT 6 SAUCISS — نقانق"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 175.0,
+    "image": "images/products/BLT0027.svg",
+    "stock": 0,
+    "featured": false,
+    "bestSeller": false,
+    "barcode": "BLT0027"
+  }
+]

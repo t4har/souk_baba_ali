@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="EL MOUROUDJ CREME FRAICHE 180G">
+  <rect width="320" height="320" fill="#EFF7F0"/>
+  <g transform="translate(96,64)" color="#1F2A24" opacity="0.82"><circle cx="32" cy="30" r="16" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M24 48h16" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></g>
+  <text x="160" y="228" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" fill="#1F2A24" opacity="0.5">MRJ0010</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#1F2A24">EL MOUROUDJ CREME</text>
+  <text x="160" y="272" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#1F2A24" opacity="0.7">FRAICHE 180G</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Panier de courses">
+  <!-- basket -->
+  <path d="M40 95h120l-12 75a8 8 0 0 1-8 7H60a8 8 0 0 1-8-7L40 95z" fill="#FAF7F1" opacity="0.96"/>
+  <path d="M40 95h120" stroke="#103D29" stroke-width="3" opacity="0.5"/>
+  <path d="M55 95c0-22 15-40 45-40s45 18 45 40" fill="none" stroke="#E8A33D" stroke-width="7" stroke-linecap="round"/>
+  <!-- produce -->
+  <circle cx="78" cy="80" r="20" fill="#D6643A"/>
+  <circle cx="112" cy="72" r="24" fill="#E8A33D"/>
+  <circle cx="138" cy="86" r="16" fill="#1B5E3F" stroke="#FAF7F1" stroke-width="2"/>
+  <rect x="60" y="115" width="22" height="34" rx="4" fill="#103D29"/>
+  <rect x="92" y="120" width="18" height="29" rx="4" fill="#D6643A"/>
+  <rect x="120" y="112" width="20" height="37" rx="4" fill="#FAF7F1"/>
+  <circle cx="130" cy="124" r="5" fill="#1B5E3F"/>
+</svg>

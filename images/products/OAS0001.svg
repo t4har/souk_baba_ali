@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="DIOULE OUM ASSIL 12x10">
+  <rect width="320" height="320" fill="#FCE8B5"/>
+  <g transform="translate(96,64)" color="#1F2A24" opacity="0.82"><path d="M20 12h24v8l6 8v16a4 4 0 0 1-4 4H18a4 4 0 0 1-4-4V28l6-8V12z" fill="none" stroke="currentColor" stroke-width="2.5"/></g>
+  <text x="160" y="228" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" fill="#1F2A24" opacity="0.5">OAS0001</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#1F2A24">DIOULE OUM ASSIL 12x10</text>
+  <text x="160" y="272" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#1F2A24" opacity="0.7"></text>
+</svg>
