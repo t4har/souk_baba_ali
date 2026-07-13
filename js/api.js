@@ -14,7 +14,7 @@ window.SBA = window.SBA || {};
 (function (SBA) {
   "use strict";
 
-  var SCRIPT_URL = "https://script.google.com/macros/s/REPLACE_WITH_YOUR_DEPLOYMENT_ID/exec";
+  var SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxM7eUGAGhdoTGuQZb7Lc0comMRNs7YAkjEl6lBMxW_L529Hso9AYYV9b1943nHuzpY/exec";
 
   SBA.api = {
     /**
@@ -25,7 +25,7 @@ window.SBA = window.SBA || {};
      * the raw body and JSON.parse()s it itself (see Code.gs).
      */
     submitOrder: function (orderPayload) {
-      if (!SCRIPT_URL || SCRIPT_URL.indexOf("REPLACE_WITH_YOUR_DEPLOYMENT_ID") !== -1) {
+      if (!SCRIPT_URL || SCRIPT_URL.indexOf("AKfycbxM7eUGAGhdoTGuQZb7Lc0comMRNs7YAkjEl6lBMxW_L529Hso9AYYV9b1943nHuzpY") !== -1) {
         return Promise.reject(new Error("CONFIG_MISSING"));
       }
 
