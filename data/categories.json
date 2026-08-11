@@ -1,0 +1,298 @@
+[
+  {
+    "slug": "beurre",
+    "name": {
+      "fr": "Beurre",
+      "ar": "زبدة"
+    },
+    "icon": "images/categories/beurre.svg"
+  },
+  {
+    "slug": "biscuit",
+    "name": {
+      "fr": "Biscuits",
+      "ar": "بسكويت"
+    },
+    "icon": "images/categories/biscuit.svg"
+  },
+  {
+    "slug": "burrata",
+    "name": {
+      "fr": "Burrata",
+      "ar": "بوراتا"
+    },
+    "icon": "images/categories/burrata.svg"
+  },
+  {
+    "slug": "camembert",
+    "name": {
+      "fr": "Camembert",
+      "ar": "جبن كامامبير"
+    },
+    "icon": "images/categories/camembert.svg"
+  },
+  {
+    "slug": "caroube",
+    "name": {
+      "fr": "Caroube",
+      "ar": "خروب"
+    },
+    "icon": "images/categories/caroube.svg"
+  },
+  {
+    "slug": "charcuterie",
+    "name": {
+      "fr": "Charcuterie",
+      "ar": "لحوم مصنعة"
+    },
+    "icon": "images/categories/charcuterie.svg"
+  },
+  {
+    "slug": "cherbet",
+    "name": {
+      "fr": "Cherbet",
+      "ar": "شربات"
+    },
+    "icon": "images/categories/cherbet.svg"
+  },
+  {
+    "slug": "confiserie",
+    "name": {
+      "fr": "Confiserie",
+      "ar": "حلوى"
+    },
+    "icon": "images/categories/confiserie.svg"
+  },
+  {
+    "slug": "confiture",
+    "name": {
+      "fr": "Confitures",
+      "ar": "مربى"
+    },
+    "icon": "images/categories/confiture.svg"
+  },
+  {
+    "slug": "creme-fraiche",
+    "name": {
+      "fr": "Crème Fraîche",
+      "ar": "كريمة طازجة"
+    },
+    "icon": "images/categories/creme-fraiche.svg"
+  },
+  {
+    "slug": "crepe",
+    "name": {
+      "fr": "Crêpes",
+      "ar": "كريب"
+    },
+    "icon": "images/categories/crepe.svg"
+  },
+  {
+    "slug": "dessert",
+    "name": {
+      "fr": "Desserts",
+      "ar": "حلويات"
+    },
+    "icon": "images/categories/dessert.svg"
+  },
+  {
+    "slug": "dioul",
+    "name": {
+      "fr": "Dioule",
+      "ar": "ديول"
+    },
+    "icon": "images/categories/dioul.svg"
+  },
+  {
+    "slug": "eau",
+    "name": {
+      "fr": "Eau",
+      "ar": "ماء"
+    },
+    "icon": "images/categories/eau.svg"
+  },
+  {
+    "slug": "epicerie",
+    "name": {
+      "fr": "Épicerie",
+      "ar": "بقالة"
+    },
+    "icon": "images/categories/epicerie.svg"
+  },
+  {
+    "slug": "fromage-fondu",
+    "name": {
+      "fr": "Fromage Fondu",
+      "ar": "جبن مطاطي"
+    },
+    "icon": "images/categories/fromage-fondu.svg"
+  },
+  {
+    "slug": "fromage-frais",
+    "name": {
+      "fr": "Fromage Frais",
+      "ar": "جبن طازج"
+    },
+    "icon": "images/categories/fromage-frais.svg"
+  },
+  {
+    "slug": "jus",
+    "name": {
+      "fr": "Jus",
+      "ar": "عصير"
+    },
+    "icon": "images/categories/jus.svg"
+  },
+  {
+    "slug": "laban",
+    "name": {
+      "fr": "Laban",
+      "ar": "لبن"
+    },
+    "icon": "images/categories/laban.svg"
+  },
+  {
+    "slug": "lait",
+    "name": {
+      "fr": "Lait",
+      "ar": "حليب"
+    },
+    "icon": "images/categories/lait.svg"
+  },
+  {
+    "slug": "madeleine",
+    "name": {
+      "fr": "Madeleines & Gâteaux",
+      "ar": "مادلين وكعك"
+    },
+    "icon": "images/categories/madeleine.svg"
+  },
+  {
+    "slug": "margarine",
+    "name": {
+      "fr": "Margarine",
+      "ar": "مارغرين"
+    },
+    "icon": "images/categories/margarine.svg"
+  },
+  {
+    "slug": "mascarpone",
+    "name": {
+      "fr": "Mascarpone",
+      "ar": "ماسكاربوني"
+    },
+    "icon": "images/categories/mascarpone.svg"
+  },
+  {
+    "slug": "mozzarella",
+    "name": {
+      "fr": "Mozzarella",
+      "ar": "موزاريلا"
+    },
+    "icon": "images/categories/mozzarella.svg"
+  },
+  {
+    "slug": "nettoyage",
+    "name": {
+      "fr": "Nettoyage & Entretien",
+      "ar": "تنظيف وصيانة"
+    },
+    "icon": "images/categories/nettoyage.svg"
+  },
+  {
+    "slug": "pain",
+    "name": {
+      "fr": "Pains",
+      "ar": "خبز"
+    },
+    "icon": "images/categories/pain.svg"
+  },
+  {
+    "slug": "pate-dure",
+    "name": {
+      "fr": "Pâte Dure",
+      "ar": "جبن صلب"
+    },
+    "icon": "images/categories/pate-dure.svg"
+  },
+  {
+    "slug": "preparation-fromagere",
+    "name": {
+      "fr": "Préparation Fromagère",
+      "ar": "مستحضر جبني"
+    },
+    "icon": "images/categories/preparation-fromagere.svg"
+  },
+  {
+    "slug": "raib",
+    "name": {
+      "fr": "Raïb",
+      "ar": "رايب"
+    },
+    "icon": "images/categories/raib.svg"
+  },
+  {
+    "slug": "ricotta",
+    "name": {
+      "fr": "Ricotta",
+      "ar": "ريكوتا"
+    },
+    "icon": "images/categories/ricotta.svg"
+  },
+  {
+    "slug": "riz",
+    "name": {
+      "fr": "Riz",
+      "ar": "أرز"
+    },
+    "icon": "images/categories/riz.svg"
+  },
+  {
+    "slug": "sauce",
+    "name": {
+      "fr": "Sauces",
+      "ar": "صلصات"
+    },
+    "icon": "images/categories/sauce.svg"
+  },
+  {
+    "slug": "sauce-tomate",
+    "name": {
+      "fr": "Sauce Tomate",
+      "ar": "صلصة طماطم"
+    },
+    "icon": "images/categories/sauce-tomate.svg"
+  },
+  {
+    "slug": "smen",
+    "name": {
+      "fr": "Smen",
+      "ar": "سمن"
+    },
+    "icon": "images/categories/smen.svg"
+  },
+  {
+    "slug": "stracciatella",
+    "name": {
+      "fr": "Stracciatella",
+      "ar": "ستراشاتيلا"
+    },
+    "icon": "images/categories/stracciatella.svg"
+  },
+  {
+    "slug": "tisane",
+    "name": {
+      "fr": "Tisanes",
+      "ar": "أعشاب"
+    },
+    "icon": "images/categories/tisane.svg"
+  },
+  {
+    "slug": "yaourt",
+    "name": {
+      "fr": "Yaourt",
+      "ar": "ياغورت"
+    },
+    "icon": "images/categories/yaourt.svg"
+  }
+]

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dioule">
+  <circle cx="32" cy="32" r="32" fill="#FCE8B5"/>
+  <g color="#1F2A24"><path d="M20 12h24v8l6 8v16a4 4 0 0 1-4 4H18a4 4 0 0 1-4-4V28l6-8V12z" fill="none" stroke="currentColor" stroke-width="2.5"/></g>
+</svg>

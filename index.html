@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Souk Baba Ali — Supermarché en ligne | Livraison à Baba Ali et environs</title>
+<meta name="description" content="Faites vos courses en ligne avec Souk Baba Ali : produits frais et d'épicerie, paiement à la livraison, livraison rapide à Baba Ali, Draria, Birkhadem et 9 autres communes.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://soukbabaali.example/index.html">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Souk Baba Ali — Supermarché en ligne">
+<meta property="og:description" content="Produits frais et d'épicerie livrés chez vous. Paiement à la livraison, sans création de compte.">
+<meta property="og:image" content="images/assets/og-image.png">
+<meta property="og:locale" content="fr_DZ">
+
+<link rel="icon" type="image/svg+xml" href="images/assets/favicon.svg">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Aller au contenu principal</a>
+
+<!-- ===================== HEADER ===================== -->
+<header class="site-header">
+  <div class="container header-bar">
+    <a class="brand" href="index.html">
+      <img class="brand-mark" src="images/assets/logo.svg" alt="" width="42" height="42">
+      <span class="brand-text"><strong>Souk Baba Ali</strong><span data-i18n="nav.tagline">Épicerie &amp; supermarché</span></span>
+    </a>
+
+    <nav class="main-nav" id="main-nav" aria-label="Navigation principale">
+      <a href="index.html" aria-current="page" data-i18n="nav.home">Accueil</a>
+      <a href="products.html" data-i18n="nav.products">Produits</a>
+      <a href="products.html#categories" data-i18n="nav.categories">Catégories</a>
+      <a href="checkout.html" data-i18n="nav.delivery">Livraison</a>
+      <a href="privacy.html" data-i18n="nav.privacy">Confidentialité</a>
+    </nav>
+
+    <div class="header-actions">
+      <form class="header-search" id="header-search-form" role="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input type="search" data-i18n-placeholder="nav.searchPlaceholder" placeholder="Rechercher un produit…" data-i18n-aria="nav.searchPlaceholder" aria-label="Rechercher un produit">
+      </form>
+      <button type="button" class="icon-btn lang-toggle" data-i18n-aria="nav.langToggleAria" aria-label="Changer de langue">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20z"/></svg>
+        <span data-i18n="nav.langToggleLabel">العربية</span>
+      </button>
+      <a class="cart-btn" href="cart.html" data-i18n-aria="nav.cartAria" aria-label="Voir le panier">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6h15l-1.5 9h-12L5 3H2"/><circle cx="9" cy="20" r="1.4" fill="currentColor"/><circle cx="18" cy="20" r="1.4" fill="currentColor"/></svg>
+        <span class="cart-count" id="cart-count" style="display:none">0</span>
+      </a>
+      <button class="nav-toggle" id="nav-toggle" data-i18n-aria="nav.openMenuAria" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="main-nav">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="fade-in">
+        <span class="hero-eyebrow" data-i18n="hero.eyebrow">Livraison à Baba Ali &amp; 11 communes voisines</span>
+        <h1 data-i18n-html="hero.titleHtml">Vos courses, <em>livrées chez vous</em>, payées à la réception.</h1>
+        <p class="lead" data-i18n="hero.lead">Lait, fromage, épicerie, produits ménagers et plus encore — commandez en ligne, sans création de compte, et payez en espèces à la livraison.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="products.html" data-i18n="hero.ctaProducts">Voir les produits</a>
+          <a class="btn btn-outline" href="#why-us" data-i18n="hero.ctaHow">Comment ça marche</a>
+        </div>
+        <div class="hero-stats">
+          <div class="hero-stat"><strong>36+</strong><span data-i18n="hero.stat1">produits disponibles</span></div>
+          <div class="hero-stat"><strong>12</strong><span data-i18n="hero.stat2">communes livrées</span></div>
+          <div class="hero-stat"><strong>0 DA</strong><span data-i18n="hero.stat3">de frais d'inscription</span></div>
+        </div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <img src="images/assets/hero-illustration.svg" alt="" width="280" height="280">
+        <div class="stamp">
+          <strong data-i18n="hero.stampTop">Paiement</strong>
+          <span data-i18n="hero.stampBottom">à la livraison</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROMO BANNER ===================== -->
+  <section class="section-tight">
+    <div class="container">
+      <div class="promo-banner fade-in">
+        <div>
+          <h2 data-i18n="promo.title">Livraison gratuite dès 3000 DA d'achat</h2>
+          <p data-i18n="promo.desc">Profitez de la livraison offerte sur toutes les commandes de plus de 3000 DA dans les 12 communes desservies.</p>
+        </div>
+        <a class="btn btn-gold" href="products.html" data-i18n="promo.cta">Commander maintenant</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CATEGORIES ===================== -->
+  <section class="section" id="categories">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow" data-i18n="categories.eyebrow">Rayons</span>
+          <h2 data-i18n="categories.title">Parcourir par catégorie</h2>
+          <p data-i18n="categories.desc">18 rayons d'épicerie et de produits du quotidien, des produits laitiers aux produits d'hygiène.</p>
+        </div>
+        <a class="btn btn-outline btn-sm" href="products.html" data-i18n="categories.seeAll">Tout voir</a>
+      </div>
+      <div class="category-grid" id="category-grid">
+        <div class="page-loader"><span class="spinner dark"></span> <span data-i18n="categories.loading">Chargement des catégories…</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== FEATURED PRODUCTS ===================== -->
+  <section class="section" style="background:var(--color-surface)">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow" data-i18n="featured.eyebrow">Sélection</span>
+          <h2 data-i18n="featured.title">Produits vedettes</h2>
+          <p data-i18n="featured.desc">Une sélection de produits incontournables, choisis pour vous chaque semaine.</p>
+        </div>
+        <a class="btn btn-outline btn-sm" href="products.html" data-i18n="featured.seeAll">Tous les produits</a>
+      </div>
+      <div class="product-grid" id="featured-grid">
+        <div class="page-loader"><span class="spinner dark"></span> <span data-i18n="loading.products">Chargement des produits…</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== BEST SELLERS ===================== -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow" data-i18n="bestsellers.eyebrow">Tendance</span>
+          <h2 data-i18n="bestsellers.title">Meilleures ventes</h2>
+          <p data-i18n="bestsellers.desc">Les produits préférés de nos clients à Baba Ali et dans les communes voisines.</p>
+        </div>
+      </div>
+      <div class="product-grid" id="bestseller-grid">
+        <div class="page-loader"><span class="spinner dark"></span> <span data-i18n="loading.products">Chargement des produits…</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY CHOOSE US ===================== -->
+  <section class="section" id="why-us" style="background:var(--color-surface)">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow" data-i18n="why.eyebrow">Pourquoi nous choisir</span>
+          <h2 data-i18n="why.title">Une épicerie de quartier, en ligne</h2>
+        </div>
+      </div>
+      <div class="feature-grid">
+        <div class="feature-card fade-in">
+          <div class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 12V8H6a2 2 0 0 1-2-2c0-1.1.9-2 2-2h12v4"/><path d="M4 6v12a2 2 0 0 0 2 2h14v-4"/><path d="M18 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/></svg></div>
+          <h3 data-i18n="why.cod.title">Paiement à la livraison</h3>
+          <p data-i18n="why.cod.desc">Réglez en espèces directement au livreur. Aucune carte bancaire, aucun compte requis.</p>
+        </div>
+        <div class="feature-card fade-in">
+          <div class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></div>
+          <h3 data-i18n="why.fast.title">Livraison rapide</h3>
+          <p data-i18n="why.fast.desc">Commandes préparées et livrées le jour même dans les 12 communes desservies.</p>
+        </div>
+        <div class="feature-card fade-in">
+          <div class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2 4 6v6c0 5 3.5 8.5 8 10 4.5-1.5 8-5 8-10V6l-8-4z"/></svg></div>
+          <h3 data-i18n="why.quality.title">Qualité garantie</h3>
+          <p data-i18n="why.quality.desc">Des produits frais et de marques reconnues, sélectionnés avec le même soin qu'en magasin.</p>
+        </div>
+        <div class="feature-card fade-in">
+          <div class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11l18-5-5 18-3-7-7-3z"/></svg></div>
+          <h3 data-i18n="why.noAccount.title">Sans inscription</h3>
+          <p data-i18n="why.noAccount.desc">Commandez en quelques clics, sans créer de compte ni partager plus d'informations que nécessaire.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== DELIVERY INFO ===================== -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="eyebrow" data-i18n="zones.eyebrow">Zone de livraison</span>
+          <h2 data-i18n="zones.title">Nous livrons dans 12 communes</h2>
+          <p data-i18n="zones.desc">Votre commune n'apparaît pas ? Contactez-nous, nous étendons régulièrement notre zone de livraison.</p>
+        </div>
+      </div>
+      <ul class="zone-list" id="zone-list" aria-label="Communes desservies"></ul>
+    </div>
+  </section>
+
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="brand">
+          <img class="brand-mark" src="images/assets/logo.svg" alt="" width="42" height="42">
+          <span class="brand-text"><strong>Souk Baba Ali</strong><span data-i18n="nav.tagline">Épicerie &amp; supermarché</span></span>
+        </div>
+        <p data-i18n="footer.tagline">Votre supermarché de quartier en ligne. Produits frais et d'épicerie, livrés chez vous, payés à la livraison.</p>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.shop">Boutique</h4>
+        <ul>
+          <li><a href="products.html" data-i18n="footer.allProducts">Tous les produits</a></li>
+          <li><a href="products.html#categories" data-i18n="nav.categories">Catégories</a></li>
+          <li><a href="cart.html" data-i18n="footer.cart">Mon panier</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.info">Informations</h4>
+        <ul>
+          <li><a href="privacy.html" data-i18n="footer.privacy">Politique de confidentialité</a></li>
+          <li><a href="checkout.html" data-i18n="footer.zones">Zones de livraison</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 data-i18n="footer.contact">Contact</h4>
+        <ul>
+          <li><a href="tel:+213550000000">+213 550 00 00 00</a></li>
+          <li><a href="mailto:contact@soukbabaali.example">contact@soukbabaali.example</a></li>
+          <li data-i18n="footer.address">Baba Ali, Wilaya de Blida</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> Souk Baba Ali. <span data-i18n="footer.rights">Tous droits réservés.</span></span>
+      <span data-i18n="footer.codOnly">Paiement à la livraison uniquement · Sans création de compte</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/language.js"></script>
+<script src="js/app.js"></script>
+<script src="js/api.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/products.js"></script>
+<script src="js/checkout.js"></script>
+</body>
+</html>

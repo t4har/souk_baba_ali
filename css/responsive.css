@@ -1,0 +1,95 @@
+/* ==========================================================================
+   SOUK BABA ALI — Responsive rules
+   Breakpoints: Desktop (default) > 1024px tablet > 768px mobile > 480px small
+   ========================================================================== */
+
+/* ---------- Tablet (<= 1024px) ---------- */
+@media (max-width: 1024px) {
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-art { max-width: 420px; margin: 0 auto; }
+
+  .footer-grid { grid-template-columns: 1.3fr 1fr 1fr; }
+
+  .cart-layout,
+  .checkout-layout { grid-template-columns: 1fr; }
+
+  .summary-card { position: static; }
+
+  .header-search { display: none !important; }
+}
+
+/* ---------- Mobile nav collapse (<= 880px) ---------- */
+@media (max-width: 880px) {
+  .main-nav {
+    position: fixed;
+    top: var(--header-h);
+    left: 0;
+    right: 0;
+    background: var(--color-bg);
+    flex-direction: column;
+    align-items: stretch;
+    padding: 12px 20px 20px;
+    border-bottom: 1px solid var(--color-line);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-12px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .main-nav.open {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .main-nav a { padding: 12px 14px; border-radius: var(--radius-sm); }
+
+  .nav-toggle { display: flex; }
+}
+
+/* ---------- Mobile (<= 768px) ---------- */
+@media (max-width: 768px) {
+  .container { padding: 0 18px; }
+
+  .hero { padding: 40px 0 56px; }
+  .hero h1 { max-width: 100%; }
+  .hero .stamp { width: 100px; height: 100px; top: -10px; right: 0; }
+  html[dir="rtl"] .hero .stamp { right: auto; left: 0; }
+  .hero-actions .btn { flex: 1; }
+
+  .section { padding: 44px 0; }
+
+  .footer-grid { grid-template-columns: 1fr 1fr; gap: 28px; }
+
+  .form-grid { grid-template-columns: 1fr; }
+
+  .promo-banner { padding: 28px 22px; flex-direction: column; align-items: flex-start; }
+
+  .category-grid { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); }
+
+  .cart-item { grid-template-columns: 64px 1fr; }
+  .cart-item img { width: 64px; height: 64px; }
+  .cart-item-controls {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+/* ---------- Small mobile (<= 480px) ---------- */
+@media (max-width: 480px) {
+  .hero-stats { gap: 20px; }
+  .hero-stat strong { font-size: 1.3rem; }
+
+  .footer-grid { grid-template-columns: 1fr; }
+  .footer-bottom { flex-direction: column; align-items: flex-start; }
+
+  .product-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+
+  .toolbar { flex-direction: column; align-items: stretch; }
+  .toolbar .field-select { width: 100%; }
+
+  .confirmation-card { padding: 36px 20px; }
+}
