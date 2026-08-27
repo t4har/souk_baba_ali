@@ -5,8 +5,7 @@
    1. Deploy the Apps Script (see /google-apps-script/Code.gs and README.md).
    2. Copy the Web App URL you get after deployment (ends with /exec).
    3. Paste it below as SCRIPT_URL.
-   That's the ONLY change needed to connect the site to your Google Sheet
-   and Telegram notifications. No other code needs to be touched.
+   That's the ONLY change needed to connect the site to your Google Sheet.
    ========================================================================== */
 
 window.SBA = window.SBA || {};
@@ -14,7 +13,8 @@ window.SBA = window.SBA || {};
 (function (SBA) {
   "use strict";
 
-  var SCRIPT_URL = "https://script.google.com/macros/s/REPLACE_WITH_YOUR_DEPLOYMENT_ID/exec";
+  var SCRIPT_URL =
+    "https://script.google.com/macros/s/AKfycbzKXavlYrZKOYocgaawXo7xbOe7qdPWl_lpAF2jtPLZfE79LXATIW_jggXa0qEnJgo/exec";
 
   SBA.api = {
     /**
@@ -25,14 +25,14 @@ window.SBA = window.SBA || {};
      * the raw body and JSON.parse()s it itself (see Code.gs).
      */
     submitOrder: function (orderPayload) {
-      if (!SCRIPT_URL || SCRIPT_URL.indexOf("REPLACE_WITH_YOUR_DEPLOYMENT_ID") !== -1) {
+      if (!SCRIPT_URL) {
         return Promise.reject(new Error("CONFIG_MISSING"));
       }
 
       return fetch(SCRIPT_URL, {
         method: "POST",
         headers: { "Content-Type": "text/plain;charset=utf-8" },
-        body: JSON.stringify(orderPayload)
+        body: JSON.stringify(orderPayload),
       })
         .then(function (res) {
           if (!res.ok) throw new Error("HTTP_" + res.status);
@@ -44,6 +44,6 @@ window.SBA = window.SBA || {};
           }
           return data; // { status: 'success', orderId: '...' }
         });
-    }
+    },
   };
 })(window.SBA);
