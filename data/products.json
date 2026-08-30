@@ -54,7 +54,7 @@
     "price": 320.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/DJA0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -74,7 +74,7 @@
     "price": 240.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/AL0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -194,7 +194,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/AZR0001.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -214,7 +214,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/AZR0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -234,7 +234,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/AZR0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -254,7 +254,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/AZR0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -274,7 +274,7 @@
     "price": 125.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/AZR0005.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -574,7 +574,7 @@
     "price": 320.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -594,7 +594,7 @@
     "price": 300.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -694,7 +694,7 @@
     "price": 900.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -714,7 +714,7 @@
     "price": 500.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0008.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -754,7 +754,7 @@
     "price": 180.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0010.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -774,7 +774,7 @@
     "price": 180.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0011.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -834,7 +834,7 @@
     "price": 1000.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0014.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -854,7 +854,7 @@
     "price": 410.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0015.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -874,7 +874,7 @@
     "price": 500.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0016.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -934,7 +934,7 @@
     "price": 950.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0019.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1194,7 +1194,7 @@
     "price": 370.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0031.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1214,7 +1214,7 @@
     "price": 500.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0032.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1234,7 +1234,7 @@
     "price": 900.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0033.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1254,7 +1254,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0034.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1274,7 +1274,7 @@
     "price": 1050.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEL0035.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1283,8 +1283,8 @@
     "id": "BEU0001",
     "barcode": "6131544000059",
     "name": {
-      "fr": "Beure Edough 250 g",
-      "ar": "Beure Edough 250 g"
+      "fr": "Beurre Edough 250 g",
+      "ar": "Beurre Edough 250 g"
     },
     "category": "epicerie",
     "description": {
@@ -1334,7 +1334,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEU0003.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -1394,7 +1394,7 @@
     "price": 700.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BEU0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1534,7 +1534,7 @@
     "price": 700.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEU0013.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1554,7 +1554,7 @@
     "price": null,
     "pricePerKg": 1450.0,
     "soldByWeight": true,
-    "image": "images/products/BEU0014.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1614,7 +1614,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BEU0017.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -1654,7 +1654,7 @@
     "price": 350.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEU0019.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1674,7 +1674,7 @@
     "price": 600.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEU0020.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1734,7 +1734,7 @@
     "price": 750.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BEU0023.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -1743,8 +1743,8 @@
     "id": "BEU0024",
     "barcode": "6131325000117",
     "name": {
-      "fr": "Beuure Numidia 500 g",
-      "ar": "Beuure Numidia 500 g"
+      "fr": "Beurre Numidia 500 g",
+      "ar": "Beurre Numidia 500 g"
     },
     "category": "epicerie",
     "description": {
@@ -1854,7 +1854,7 @@
     "price": 280.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BON0001.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -1874,7 +1874,7 @@
     "price": 380.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BOR0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2003,8 +2003,8 @@
     "id": "BOU0006",
     "barcode": "6138890500066",
     "name": {
-      "fr": "BOUROUROU Fromage de Vache120 g Nature/ail/cumin",
-      "ar": "BOUROUROU Fromage de Vache120 g Nature/ail/cumin — جبن"
+      "fr": "BOUROUROU Fromage de Vache 120 g Nature",
+      "ar": "BOUROUROU Fromage de Vache 120 g Nature — جبن"
     },
     "category": "fromage-fondu",
     "description": {
@@ -2014,7 +2014,47 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BOU0006.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "BOU0097",
+    "barcode": "6138890500066",
+    "name": {
+      "fr": "BOUROUROU Fromage de Vache 120 g à l'ail",
+      "ar": "BOUROUROU Fromage de Vache 120 g à l'ail — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BOU0097.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "BOU0096",
+    "barcode": "6138890500066",
+    "name": {
+      "fr": "BOUROUROU Fromage de Vache 120 g au Cumin",
+      "ar": "BOUROUROU Fromage de Vache 120 g au Cumin — جبن"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BOU0096.webp",
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -2063,8 +2103,8 @@
     "id": "BOU0009",
     "barcode": "722",
     "name": {
-      "fr": "BOUROUROU Fromage chevre 100 g Ail/cumin/Nature",
-      "ar": "BOUROUROU Fromage chevre 100 g Ail/cumin/Nature — جبن"
+      "fr": "Bourourou Fromage de chèvre 120 g Nature",
+      "ar": "BOUROUROU Fromage de chèvre 120 g Nature — جبن"
     },
     "category": "pate-dure",
     "description": {
@@ -2075,6 +2115,46 @@
     "pricePerKg": null,
     "soldByWeight": false,
     "image": "images/products/BOU0009.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "BOU0099",
+    "barcode": "722",
+    "name": {
+      "fr": "Bourourou Fromage de chèvre 120 g au Cumin",
+      "ar": "BOUROUROU Fromage de chèvre 120 g au Cumin — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BOU0099.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "BOU0098",
+    "barcode": "722",
+    "name": {
+      "fr": "Bourourou Fromage de chèvre 120 g à l'Ail",
+      "ar": "BOUROUROU Fromage de chèvre 120 g à l'Ail — جبن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BOU0098.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2454,7 +2534,7 @@
     "price": 510.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0010.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2514,7 +2594,7 @@
     "price": 510.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0013.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2714,7 +2794,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0023.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2834,7 +2914,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0029.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2854,7 +2934,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0030.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2914,7 +2994,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0033.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -2934,7 +3014,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/BRI0034.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3154,7 +3234,7 @@
     "price": 360.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAM0008.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3294,7 +3374,7 @@
     "price": 240.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/CAM0015.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3414,7 +3494,7 @@
     "price": 0,
     "pricePerKg": 400.0,
     "soldByWeight": true,
-    "image": null,
+    "image": "images/products/CAM0021.webp",
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -3494,7 +3574,7 @@
     "price": 0,
     "pricePerKg": 415.0,
     "soldByWeight": true,
-    "image": "images/products/CAM0025.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -3514,7 +3594,7 @@
     "price": 270.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3534,7 +3614,7 @@
     "price": 220.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3554,7 +3634,7 @@
     "price": 1030.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3574,7 +3654,7 @@
     "price": 95.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3594,7 +3674,7 @@
     "price": 280.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0005.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3614,7 +3694,7 @@
     "price": 210.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3634,7 +3714,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CAN0007.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3854,7 +3934,7 @@
     "price": 210.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CES0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3874,7 +3954,7 @@
     "price": 340.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CES0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3934,7 +4014,7 @@
     "price": 205.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CEV0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3954,7 +4034,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CEV0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -3994,7 +4074,7 @@
     "price": 190.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CEV0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -4034,7 +4114,7 @@
     "price": 170.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CEV0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -4114,7 +4194,7 @@
     "price": 190.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CEV0010.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -4134,7 +4214,7 @@
     "price": 480.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CEV0011.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -4194,7 +4274,7 @@
     "price": 160.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CHA0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -4274,7 +4354,7 @@
     "price": 85.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CHA0005.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -4494,7 +4574,7 @@
     "price": 275.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CON0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -4554,7 +4634,7 @@
     "price": 165.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CON0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5134,7 +5214,7 @@
     "price": 350.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/COR0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -5163,8 +5243,8 @@
     "id": "CRA0001",
     "barcode": "6132950124186",
     "name": {
-      "fr": "Cracker Sale H'uile D'olive,oignon",
-      "ar": "Cracker Sale H'uile D'olive,oignon — بسكويت مالح"
+      "fr": "Cracker Salé H'uile D'olive,oignon",
+      "ar": "Cracker Salé H'uile D'olive,oignon — بسكويت مالح"
     },
     "category": "biscuit",
     "description": {
@@ -5203,8 +5283,8 @@
     "id": "CRA0003",
     "barcode": "6132950124179",
     "name": {
-      "fr": "Cracker Sale H'uile D'olive,tomate,origan",
-      "ar": "Cracker Sale H'uile D'olive,tomate,origan — بسكويت مالح"
+      "fr": "Hiltho Cracker Sale H'uile D'olive,tomate,origan",
+      "ar": "Hiltho Cracker Sale H'uile D'olive,tomate,origan — بسكويت مالح"
     },
     "category": "biscuit",
     "description": {
@@ -5214,7 +5294,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/CRA0003.webp",
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -5434,7 +5514,7 @@
     "price": 250.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/CRE0010.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -5494,7 +5574,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/CRE0013.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5534,7 +5614,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/CRE0015.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -5543,8 +5623,8 @@
     "id": "DEG0001",
     "barcode": "6135053002054",
     "name": {
-      "fr": "Degraissant Professionnel 500 ml",
-      "ar": "Degraissant Professionnel 500 ml"
+      "fr": "BRILEX Degraissant Professionnel 500 ml",
+      "ar": "BRILEX Degraissant Professionnel 500 ml"
     },
     "category": "nettoyage",
     "description": {
@@ -5554,7 +5634,7 @@
     "price": 210.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/DEG0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5563,8 +5643,8 @@
     "id": "DEG0002",
     "barcode": "6135053000203",
     "name": {
-      "fr": "Degraissant Professionnel 950 ml",
-      "ar": "Degraissant Professionnel 950 ml"
+      "fr": "BRILEX Degraissant Professionnel 950 ml",
+      "ar": "BRILEX Degraissant Professionnel 950 ml"
     },
     "category": "nettoyage",
     "description": {
@@ -5574,7 +5654,7 @@
     "price": 340.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/DEG0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5674,7 +5754,7 @@
     "price": 0,
     "pricePerKg": 1725.0,
     "soldByWeight": true,
-    "image": "images/products/DEM0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5694,7 +5774,7 @@
     "price": 0,
     "pricePerKg": 1725.0,
     "soldByWeight": true,
-    "image": "images/products/DEM0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5734,9 +5814,29 @@
     "price": 80.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/DIO0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "DIO0003",
+    "barcode": "6132549660071",
+    "name": {
+      "fr": "Tortillas Oum Assil Extra Moelleuse 920 g",
+      "ar": "خبز تورتيلا أم أصيل طري للغاية 920 غ"
+    },
+    "category": "pain",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 320.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/DIO0003.webp",
+    "stock": 999,
+    "featured": true,
     "bestSeller": false
   },
   {
@@ -5794,7 +5894,7 @@
     "price": 40.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/EAU0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -5920,6 +6020,66 @@
     "bestSeller": false
   },
   {
+    "id": "PLX0001",
+    "barcode": "6132565000110",
+    "name": {
+      "fr": "Prodlux Edam fumé au bois de hetre",
+      "ar": "جبن إيدام مدخن"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 400.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/PLX0001.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "PLX0002",
+    "barcode": "6132565000158",
+    "name": {
+      "fr": "Prodlux Blanc de poulet fumé bio",
+      "ar": "صدر دجاج مدخن عضوي"
+    },
+    "category": "charcuterie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 390.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/PLX0002.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "PLX0003",
+    "barcode": "6132565000103",
+    "name": {
+      "fr": "Prodlux Gouda fumé au bois de hetre",
+      "ar": "جبن جودة مدخن عضوي"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 400.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/PLX0003.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
     "id": "EDA0002",
     "barcode": "6134180221062",
     "name": {
@@ -5934,7 +6094,7 @@
     "price": 0,
     "pricePerKg": 1600.0,
     "soldByWeight": true,
-    "image": "images/products/EDA0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6003,8 +6163,8 @@
     "id": "EL0001",
     "barcode": "1000481259927",
     "name": {
-      "fr": "El Djaouhara Brie 400 g",
-      "ar": "El Djaouhara Brie 400 g — جبن البري"
+      "fr": "Al Djaouhara Mini Brie 400 g",
+      "ar": "Al Djaouhara Mini Brie 400 g — جبن البري"
     },
     "category": "camembert",
     "description": {
@@ -6014,7 +6174,7 @@
     "price": 470.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/EL0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6023,8 +6183,8 @@
     "id": "EL0002",
     "barcode": "1009719513657",
     "name": {
-      "fr": "El Djaouhara Edam",
-      "ar": "El Djaouhara Edam — إيدام"
+      "fr": "Al Djaouhara Edam",
+      "ar": "Al Djaouhara Edam — إيدام"
     },
     "category": "pate-dure",
     "description": {
@@ -6043,8 +6203,8 @@
     "id": "EL0003",
     "barcode": "1008692696630",
     "name": {
-      "fr": "El Djaouhara Gouda",
-      "ar": "El Djaouhara Gouda — غودا"
+      "fr": "Al Djaouhara Gouda",
+      "ar": "Al Djaouhara Gouda — غودا"
     },
     "category": "pate-dure",
     "description": {
@@ -6063,8 +6223,8 @@
     "id": "EL0004",
     "barcode": "6132168900190",
     "name": {
-      "fr": "El Djawhara Camembrt 220 g",
-      "ar": "El Djawhara Camembrt 220 g"
+      "fr": "Al Djaouhara Camembrt 220 g",
+      "ar": "Al Djaouhara Camembrt 220 g"
     },
     "category": "epicerie",
     "description": {
@@ -6074,7 +6234,7 @@
     "price": 285.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/EL0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6363,8 +6523,8 @@
     "id": "ELI0001",
     "barcode": "6130234001024",
     "name": {
-      "fr": "Elio 2 L",
-      "ar": "Elio 2 L"
+      "fr": "CEVITAL Elio 2 L",
+      "ar": "CEVITAL Elio 2 L"
     },
     "category": "epicerie",
     "description": {
@@ -6374,7 +6534,7 @@
     "price": 250.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/ELI0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6394,7 +6554,7 @@
     "price": 650.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/ELI0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6403,8 +6563,8 @@
     "id": "FAL0001",
     "barcode": "6132108100468",
     "name": {
-      "fr": "Falcon Davoine (grand)",
-      "ar": "Falcon Davoine (grand)"
+      "fr": "Coeur de Céréales Flocons d'avoine Grand Modèle",
+      "ar": "Coeur de Céréales Flocons d'avoine Grand Modèle"
     },
     "category": "epicerie",
     "description": {
@@ -6414,7 +6574,7 @@
     "price": 220.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FAL0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6483,8 +6643,8 @@
     "id": "FAR0002",
     "barcode": "6132108100215",
     "name": {
-      "fr": "Farine D Avoine",
-      "ar": "Farine D Avoine"
+      "fr": "Coeur de Céréales Farine D'Avoine",
+      "ar": "Coeur de Céréales Farine D'Avoine"
     },
     "category": "epicerie",
     "description": {
@@ -6494,7 +6654,7 @@
     "price": 245.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FAR0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6514,7 +6674,7 @@
     "price": 330.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FAS0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6643,8 +6803,8 @@
     "id": "FLO0002",
     "barcode": "6132108100086",
     "name": {
-      "fr": "Flocons Davoine Petit Modele 500 g",
-      "ar": "Flocons Davoine Petit Modele 500 g"
+      "fr": "Coeur de Céréales Flocons D'avoine Petit Modele 500 g",
+      "ar": "Coeur de Céréales Flocons D'avoine Petit Modele 500 g"
     },
     "category": "epicerie",
     "description": {
@@ -6654,7 +6814,7 @@
     "price": 220.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FLO0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6683,8 +6843,8 @@
     "id": "FOR0001",
     "barcode": "6130216052150",
     "name": {
-      "fr": "Force Express Adoucissant",
-      "ar": "Force Express Adoucissant — منعم ملابس"
+      "fr": "Force Express Adoucissant Lavande",
+      "ar": "Force Express Adoucissant Lavande — منعم ملابس"
     },
     "category": "nettoyage",
     "description": {
@@ -6694,7 +6854,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6714,7 +6874,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6734,7 +6894,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6754,7 +6914,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6774,7 +6934,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0005.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6794,7 +6954,7 @@
     "price": 205.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6874,7 +7034,7 @@
     "price": 355.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0010.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6954,7 +7114,7 @@
     "price": 900.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0014.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -6974,7 +7134,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0015.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7083,8 +7243,8 @@
     "id": "FOR0021",
     "barcode": "6130216050811",
     "name": {
-      "fr": "Force Express Lave Main",
-      "ar": "Force Express Lave Main"
+      "fr": "Force Express Lave Main Noix de Coco",
+      "ar": "Force Express Lave Main Noix de Coco"
     },
     "category": "nettoyage",
     "description": {
@@ -7094,7 +7254,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0021.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7106,7 +7266,7 @@
       "fr": "Force Express Lave Main Chocolat & Fraise",
       "ar": "Force Express Lave Main Chocolat & Fraise — شوكولاطة"
     },
-    "category": "confiserie",
+    "category": "nettoyage",
     "description": {
       "fr": "",
       "ar": ""
@@ -7114,7 +7274,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0022.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7134,7 +7294,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0023.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7154,7 +7314,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0024.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7183,8 +7343,8 @@
     "id": "FOR0026",
     "barcode": "6130216050705",
     "name": {
-      "fr": "Force Express Lave Mainrose & Framboise",
-      "ar": "Force Express Lave Mainrose & Framboise"
+      "fr": "Force Express Lave Main Rose & Framboise",
+      "ar": "Force Express Lave Main Rose & Framboise"
     },
     "category": "nettoyage",
     "description": {
@@ -7194,7 +7354,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0026.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7274,7 +7434,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0030.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7294,7 +7454,7 @@
     "price": 280.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0031.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7334,7 +7494,7 @@
     "price": 280.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0033.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7354,7 +7514,7 @@
     "price": 1300.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0034.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7374,7 +7534,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0035.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7394,7 +7554,7 @@
     "price": 260.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0036.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7414,7 +7574,7 @@
     "price": 235.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0037.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7523,8 +7683,8 @@
     "id": "FOR0043",
     "barcode": "6130216050835",
     "name": {
-      "fr": "Force Express Savon Main",
-      "ar": "Force Express Savon Main — صابون"
+      "fr": "Force Express Savon Main Sensation Soie",
+      "ar": "Force Express Savon Main Sensation Soie — صابون"
     },
     "category": "nettoyage",
     "description": {
@@ -7534,7 +7694,7 @@
     "price": 250.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FOR0043.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7574,7 +7734,7 @@
     "price": 170.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRA0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7703,8 +7863,8 @@
     "id": "FRO0004",
     "barcode": "6130791000034",
     "name": {
-      "fr": "Fromage Boudouaou Metalique 100 g",
-      "ar": "Fromage Boudouaou Metalique 100 g — جبن"
+      "fr": "Fromage Boudouaou boite métallique 100 g",
+      "ar": "Fromage Boudouaou boite métallique 100 g — جبن"
     },
     "category": "fromage-fondu",
     "description": {
@@ -7714,7 +7874,7 @@
     "price": 160.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FRO0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7794,7 +7954,7 @@
     "price": 0,
     "pricePerKg": 1725.0,
     "soldByWeight": true,
-    "image": "images/products/FRO0008.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7834,7 +7994,7 @@
     "price": 190.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRO0010.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7934,7 +8094,7 @@
     "price": 430.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRO0015.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -7954,7 +8114,7 @@
     "price": 65.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FRO0016.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -7974,7 +8134,7 @@
     "price": 800.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRO0017.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8054,7 +8214,7 @@
     "price": 85.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRO0021.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -8123,8 +8283,8 @@
     "id": "FRO0025",
     "barcode": "6130791001239",
     "name": {
-      "fr": "Fromage GIPLAIT 200 g Metalique",
-      "ar": "Fromage GIPLAIT 200 g Metalique — جبن"
+      "fr": "Fromage Boudouaou GIPLAIT 200 g boite métallique",
+      "ar": "Fromage Boudouaou GIPLAIT 200 g boite métallique — جبن"
     },
     "category": "lait",
     "description": {
@@ -8134,7 +8294,7 @@
     "price": 265.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/FRO0025.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8154,7 +8314,7 @@
     "price": 0,
     "pricePerKg": 1650.0,
     "soldByWeight": true,
-    "image": "images/products/FRO0026.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8274,7 +8434,7 @@
     "price": 180.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRO0032.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8474,7 +8634,7 @@
     "price": null,
     "pricePerKg": 1370.0,
     "soldByWeight": true,
-    "image": "images/products/GAL0008.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8534,7 +8694,7 @@
     "price": 0,
     "pricePerKg": 1600.0,
     "soldByWeight": true,
-    "image": "images/products/GIP0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8574,7 +8734,7 @@
     "price": 360.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/GIP0005.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8594,7 +8754,7 @@
     "price": 550.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/GIP0006.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8614,7 +8774,7 @@
     "price": 730.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/GIP0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8634,7 +8794,7 @@
     "price": 0,
     "pricePerKg": 1600.0,
     "soldByWeight": true,
-    "image": "images/products/GIP0008.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8814,7 +8974,7 @@
     "price": 255.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/HAR0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8834,7 +8994,7 @@
     "price": 660.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIC0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8854,7 +9014,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8874,7 +9034,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8894,7 +9054,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8914,7 +9074,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8934,7 +9094,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0005.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8954,7 +9114,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0006.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8974,7 +9134,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -8994,7 +9154,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0008.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9014,7 +9174,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0009.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9034,7 +9194,7 @@
     "price": 170.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0010.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9054,7 +9214,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0011.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9074,7 +9234,7 @@
     "price": 170.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HIL0012.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9094,7 +9254,7 @@
     "price": 90.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/HOT0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9334,7 +9494,7 @@
     "price": 330.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/JNA0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9394,7 +9554,7 @@
     "price": 10.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/JUS0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9654,7 +9814,7 @@
     "price": 20.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/KID0005.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9694,7 +9854,7 @@
     "price": 20.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/KID0007.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -9914,7 +10074,7 @@
     "price": 115.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/LAI0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10074,7 +10234,7 @@
     "price": 145.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/LAV0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10094,7 +10254,7 @@
     "price": 70.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LBE0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10234,7 +10394,7 @@
     "price": 380.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/BAR0017.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10274,7 +10434,7 @@
     "price": 0,
     "pricePerKg": 315.0,
     "soldByWeight": true,
-    "image": "images/products/BAR0019.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -10434,7 +10594,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/FRI0053.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -10474,7 +10634,7 @@
     "price": 250.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/SEN0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10494,7 +10654,7 @@
     "price": 330.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/SEN0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10514,7 +10674,7 @@
     "price": 430.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/SEN0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10574,7 +10734,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LEB0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10623,8 +10783,8 @@
     "id": "LES0001",
     "barcode": "6130216050880",
     "name": {
-      "fr": "Lessive Pour Machine A Laver Champs de Fleurs",
-      "ar": "Lessive Pour Machine A Laver Champs de Fleurs — مسحوق غسيل"
+      "fr": "Force Exoress Lessive Pour Machine A Laver Champs de Fleurs",
+      "ar": "Force Exoress Lessive Pour Machine A Laver Champs de Fleurs — مسحوق غسيل"
     },
     "category": "nettoyage",
     "description": {
@@ -10634,7 +10794,7 @@
     "price": 1300.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/LES0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10674,7 +10834,7 @@
     "price": 80.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LLE0001.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -10694,7 +10854,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LLE0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -10714,7 +10874,7 @@
     "price": 220.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LOR0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -10734,7 +10894,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LOR0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10754,7 +10914,7 @@
     "price": 1400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/LOR0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10854,7 +11014,7 @@
     "price": 65.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MAR0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -10874,7 +11034,7 @@
     "price": 90.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MAR0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11074,7 +11234,7 @@
     "price": 150.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MET0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11094,7 +11254,7 @@
     "price": 245.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MET0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11114,7 +11274,7 @@
     "price": 85.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MET0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11154,7 +11314,7 @@
     "price": 80.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MIL0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11174,7 +11334,7 @@
     "price": 80.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MIL0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11194,7 +11354,7 @@
     "price": 80.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MIL0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11214,7 +11374,7 @@
     "price": 95.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MIL0005.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11234,7 +11394,7 @@
     "price": 95.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MIL0006.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11254,7 +11414,7 @@
     "price": 95.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/MIL0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11334,7 +11494,7 @@
     "price": 105.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/MOU0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11354,7 +11514,7 @@
     "price": 0,
     "pricePerKg": 360.0,
     "soldByWeight": true,
-    "image": "images/products/MOZ0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11374,7 +11534,7 @@
     "price": 0,
     "pricePerKg": 1300.0,
     "soldByWeight": true,
-    "image": "images/products/MOZ0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -11394,7 +11554,7 @@
     "price": 0,
     "pricePerKg": 410.0,
     "soldByWeight": true,
-    "image": "images/products/MOZ0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11414,7 +11574,7 @@
     "price": 0,
     "pricePerKg": 780.0,
     "soldByWeight": true,
-    "image": "images/products/MOZ0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11434,7 +11594,7 @@
     "price": 0,
     "pricePerKg": 1400.0,
     "soldByWeight": true,
-    "image": "images/products/MOZ0005.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11454,7 +11614,7 @@
     "price": 0,
     "pricePerKg": 1250.0,
     "soldByWeight": true,
-    "image": "images/products/MOZ0006.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11483,8 +11643,8 @@
     "id": "NET0001",
     "barcode": "6135053001569",
     "name": {
-      "fr": "Nettoyant Multi Surfaces 750 ml",
-      "ar": "Nettoyant Multi Surfaces 750 ml — منظف"
+      "fr": "BRILEX Nettoyant Multi Surfaces 750 ml",
+      "ar": "BRILEX Nettoyant Multi Surfaces 750 ml — منظف"
     },
     "category": "nettoyage",
     "description": {
@@ -11494,7 +11654,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/NET0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11503,8 +11663,8 @@
     "id": "NET0002",
     "barcode": "6135053002061",
     "name": {
-      "fr": "Nettoyant Salle de Bain 500 ml",
-      "ar": "Nettoyant Salle de Bain 500 ml — منظف"
+      "fr": "BRILEX Nettoyant Salle de Bain 500 ml",
+      "ar": "BRILEX Nettoyant Salle de Bain 500 ml — منظف"
     },
     "category": "nettoyage",
     "description": {
@@ -11514,7 +11674,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/NET0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -11523,8 +11683,8 @@
     "id": "NET0003",
     "barcode": "6135053000920",
     "name": {
-      "fr": "Nettoyant Salle de Bain 950 ml",
-      "ar": "Nettoyant Salle de Bain 950 ml — منظف"
+      "fr": "BRILEX Nettoyant Salle de Bain 950 ml",
+      "ar": "BRILEX Nettoyant Salle de Bain 950 ml — منظف"
     },
     "category": "nettoyage",
     "description": {
@@ -11534,7 +11694,7 @@
     "price": 375.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/NET0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12034,7 +12194,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OKI0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12054,7 +12214,7 @@
     "price": 450.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OKI0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12074,7 +12234,7 @@
     "price": 800.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OKI0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12094,7 +12254,7 @@
     "price": 250.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OKI0005.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12134,7 +12294,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OKI0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12194,7 +12354,7 @@
     "price": 225.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OLE0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12214,7 +12374,7 @@
     "price": 390.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OLE0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12234,7 +12394,7 @@
     "price": 670.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/OLE0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12334,7 +12494,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PAI0001.webp",
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -12374,7 +12534,7 @@
     "price": 90.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PAI0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12394,7 +12554,7 @@
     "price": 120.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PAI0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12414,7 +12574,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PAI0005.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -12443,8 +12603,8 @@
     "id": "PAI0007",
     "barcode": "6133467000338",
     "name": {
-      "fr": "Pain Demie Nature",
-      "ar": "Pain Demie Nature — خبز"
+      "fr": "Pain De mie Nature",
+      "ar": "Pain De mie Nature — خبز"
     },
     "category": "pain",
     "description": {
@@ -12454,7 +12614,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PAI0007.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12514,7 +12674,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/PAR0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12583,8 +12743,8 @@
     "id": "PNC0001",
     "barcode": "6136677000167",
     "name": {
-      "fr": "Pncake Healthy Mix",
-      "ar": "Pncake Healthy Mix"
+      "fr": "Pancake Healthy Mix",
+      "ar": "Pancake Healthy Mix"
     },
     "category": "epicerie",
     "description": {
@@ -12594,7 +12754,7 @@
     "price": 230.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PNC0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12674,7 +12834,7 @@
     "price": 0,
     "pricePerKg": 120.0,
     "soldByWeight": true,
-    "image": "images/products/POI0004.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12734,7 +12894,7 @@
     "price": 15.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/POR0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12834,7 +12994,7 @@
     "price": 700.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/POR0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12894,7 +13054,7 @@
     "price": 180.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/POR0009.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -12914,7 +13074,7 @@
     "price": 60.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/POR0010.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13034,7 +13194,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/POU0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -13094,7 +13254,7 @@
     "price": 390.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/PRE0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13114,7 +13274,7 @@
     "price": 340.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/PRO0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13123,8 +13283,8 @@
     "id": "PRO0002",
     "barcode": "1000966174691",
     "name": {
-      "fr": "Promo Camembert le Friand Pm 120 g",
-      "ar": "Promo Camembert le Friand Pm 120 g — كامامبير"
+      "fr": "Camembert le Friand Pm 130 g",
+      "ar": "Camembert le Friand Pm 130 g — كامامبير"
     },
     "category": "camembert",
     "description": {
@@ -13134,7 +13294,7 @@
     "price": 120.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PRO0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13158,6 +13318,26 @@
     "stock": 999,
     "featured": false,
     "bestSeller": true
+  },
+  {
+    "id": "FRC0001",
+    "barcode": "6130761002037",
+    "name": {
+      "fr": "Fromage frais de chèvre 150 g",
+      "ar": "جبن طازج من حليب الماعز 150 غ"
+    },
+    "category": "pate-dure",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 115.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/FRC0001.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
   },
   {
     "id": "PRO0004",
@@ -13234,7 +13414,7 @@
     "price": 240.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/PRO0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13354,7 +13534,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/PRO0013.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13463,10 +13643,10 @@
     "id": "PRO0019",
     "barcode": "1012044794486",
     "name": {
-      "fr": "Promotion Supreme Cheddar Plus 600 g",
-      "ar": "Promotion Supreme Cheddar Plus 600 g"
+      "fr": "WALID Supreme Cheddar Plus 600 g",
+      "ar": "WALID Supreme Cheddar Plus 600 g"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -13474,7 +13654,7 @@
     "price": 0,
     "pricePerKg": 390.0,
     "soldByWeight": true,
-    "image": null,
+    "image": "images/products/PRO0019.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13494,7 +13674,7 @@
     "price": 200.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/PUR0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13554,7 +13734,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RAI0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13614,7 +13794,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/RAI0006.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13734,7 +13914,7 @@
     "price": 280.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13754,7 +13934,7 @@
     "price": 340.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13774,7 +13954,7 @@
     "price": 1320.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13794,7 +13974,7 @@
     "price": 620.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13814,7 +13994,7 @@
     "price": 115.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0005.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13834,7 +14014,7 @@
     "price": 420.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13854,7 +14034,7 @@
     "price": 140.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0007.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13874,7 +14054,7 @@
     "price": 340.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0008.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13894,7 +14074,7 @@
     "price": 120.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0009.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13934,7 +14114,7 @@
     "price": 340.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0011.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13954,7 +14134,7 @@
     "price": 120.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0012.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -13974,7 +14154,7 @@
     "price": 280.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/RIC0013.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -14054,7 +14234,7 @@
     "price": 170.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/RIZ0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -14494,7 +14674,7 @@
     "price": 185.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/SAU0012.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -14714,7 +14894,7 @@
     "price": 1600.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/SME0001.webp",
+    "image": null,
     "stock": 999,
     "featured": true,
     "bestSeller": false
@@ -14814,7 +14994,7 @@
     "price": 320.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/SMO0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -14994,7 +15174,7 @@
     "price": 90.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15014,7 +15194,7 @@
     "price": 220.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15094,7 +15274,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0006.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15114,7 +15294,7 @@
     "price": 160.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0007.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15134,7 +15314,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0008.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15154,7 +15334,7 @@
     "price": 160.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0009.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15174,7 +15354,7 @@
     "price": 70.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0010.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15194,7 +15374,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0011.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15214,7 +15394,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0012.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15234,7 +15414,7 @@
     "price": 100.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0013.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15254,7 +15434,7 @@
     "price": 240.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/STA0014.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15303,8 +15483,8 @@
     "id": "SUC0001",
     "barcode": "6130234002366",
     "name": {
-      "fr": "Sucre 1 kg",
-      "ar": "Sucre 1 kg"
+      "fr": "CEVITAL Sucre 1 kg",
+      "ar": "CEVITAL Sucre 1 kg"
     },
     "category": "epicerie",
     "description": {
@@ -15314,7 +15494,7 @@
     "price": 95.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/SUC0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15343,18 +15523,18 @@
     "id": "SUP0002",
     "barcode": "1011788274537",
     "name": {
-      "fr": "Supreme Gouda 600 g Promotion",
-      "ar": "Supreme Gouda 600 g Promotion — غودا"
+      "fr": "WALID Supreme Gouda 600 g",
+      "ar": "WALID Supreme Gouda 600 g — غودا"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 240.0,
-    "soldByWeight": true,
-    "image": null,
+    "price": 240.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/SUP0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15463,8 +15643,8 @@
     "id": "TCH0001",
     "barcode": "6130234009013",
     "name": {
-      "fr": "TCHINA Carotte Oranfe",
-      "ar": "TCHINA Carotte Oranfe"
+      "fr": "TCHINA Carotte Orange",
+      "ar": "TCHINA Carotte Orange"
     },
     "category": "jus",
     "description": {
@@ -15494,7 +15674,7 @@
     "price": 60.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15514,7 +15694,7 @@
     "price": 60.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15534,7 +15714,7 @@
     "price": 190.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0004.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15543,8 +15723,8 @@
     "id": "TCH0005",
     "barcode": "6130234004162",
     "name": {
-      "fr": "TCHINA Cocktaile 1 L",
-      "ar": "TCHINA Cocktaile 1 L"
+      "fr": "TCHINA Cocktail 1 L",
+      "ar": "TCHINA Cocktail 1 L"
     },
     "category": "jus",
     "description": {
@@ -15574,7 +15754,7 @@
     "price": 110.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15594,7 +15774,7 @@
     "price": 60.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0007.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15643,8 +15823,8 @@
     "id": "TCH0010",
     "barcode": "6130234004148",
     "name": {
-      "fr": "TCHINA Orange Mange 1 L",
-      "ar": "TCHINA Orange Mange 1 L"
+      "fr": "TCHINA Orange Mangue 1 L",
+      "ar": "TCHINA Orange Mangue 1 L"
     },
     "category": "jus",
     "description": {
@@ -15674,7 +15854,7 @@
     "price": 60.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0011.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15734,7 +15914,7 @@
     "price": 60.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TCH0014.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15754,7 +15934,7 @@
     "price": 180.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TIN0001.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15803,8 +15983,8 @@
     "id": "TIS0002",
     "barcode": "6132950124223",
     "name": {
-      "fr": "Tisane Relaxante Menthe Camomille Lavande Sauge",
-      "ar": "Tisane Relaxante Menthe Camomille Lavande Sauge — أعشاب"
+      "fr": "Hiltho Tisane Relaxante Menthe Camomille Lavande Sauge",
+      "ar": "Hiltho Tisane Relaxante Menthe Camomille Lavande Sauge — أعشاب"
     },
     "category": "tisane",
     "description": {
@@ -15814,7 +15994,7 @@
     "price": 275.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TIS0002.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15823,8 +16003,8 @@
     "id": "TIS0003",
     "barcode": "6132950124209",
     "name": {
-      "fr": "Tisane Relaxante Menthe Verveine Orange Clou de Gi",
-      "ar": "Tisane Relaxante Menthe Verveine Orange Clou de Gi — أعشاب"
+      "fr": "Hiltho Tisane Relaxante Menthe Verveine Orange Clou de Gi",
+      "ar": "Hiltho Tisane Relaxante Menthe Verveine Orange Clou de Gi — أعشاب"
     },
     "category": "tisane",
     "description": {
@@ -15834,7 +16014,7 @@
     "price": 275.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TIS0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -15914,7 +16094,7 @@
     "price": 20.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/TOP0003.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16014,7 +16194,7 @@
     "price": 0,
     "pricePerKg": 3800.0,
     "soldByWeight": true,
-    "image": "images/products/TRA0001.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16034,7 +16214,7 @@
     "price": 0,
     "pricePerKg": 2500.0,
     "soldByWeight": true,
-    "image": "images/products/TRA0002.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16234,7 +16414,7 @@
     "price": 0,
     "pricePerKg": 1150.0,
     "soldByWeight": true,
-    "image": "images/products/WAL0003.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16374,7 +16554,7 @@
     "price": 550.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/WAL0010.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16394,7 +16574,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/WAL0011.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16403,8 +16583,8 @@
     "id": "WAL0012",
     "barcode": "6135499000096",
     "name": {
-      "fr": "WALID Fromage Supréme À Gouda 400 g",
-      "ar": "WALID Fromage Supréme À Gouda 400 g — جبن"
+      "fr": "WALID Fromage Supréme au Gouda 400 g",
+      "ar": "WALID Fromage Supréme au Gouda 400 g — جبن"
     },
     "category": "pate-dure",
     "description": {
@@ -16414,7 +16594,7 @@
     "price": 0,
     "pricePerKg": 400.0,
     "soldByWeight": true,
-    "image": "images/products/WAL0012.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16426,7 +16606,7 @@
       "fr": "WALID Fromage Supréme À L'edam 600 g",
       "ar": "WALID Fromage Supréme À L'edam 600 g — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -16454,7 +16634,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/WAL0014.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16474,7 +16654,7 @@
     "price": 0,
     "pricePerKg": 550.0,
     "soldByWeight": true,
-    "image": "images/products/WAL0015.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16494,7 +16674,7 @@
     "price": 0,
     "pricePerKg": 550.0,
     "soldByWeight": true,
-    "image": "images/products/WAL0016.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16514,7 +16694,7 @@
     "price": 550.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/WAL0017.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16526,7 +16706,7 @@
       "fr": "WALID Fromage Supréme Maasdam 400 g",
       "ar": "WALID Fromage Supréme Maasdam 400 g — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -16534,7 +16714,7 @@
     "price": 400.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/WAL0018.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16566,7 +16746,7 @@
       "fr": "WALID Préparation 450 g",
       "ar": "WALID Préparation 450 g"
     },
-    "category": "epicerie",
+    "category": "preparation-fromagere",
     "description": {
       "fr": "",
       "ar": ""
@@ -16586,7 +16766,7 @@
       "fr": "WALID Préparation Goût Cheddar 800 g",
       "ar": "WALID Préparation Goût Cheddar 800 g"
     },
-    "category": "pate-dure",
+    "category": "preparation-fromagere",
     "description": {
       "fr": "",
       "ar": ""
@@ -16604,9 +16784,9 @@
     "barcode": "1003931920965",
     "name": {
       "fr": "WALID Préparation Seau 1.7",
-      "ar": "WALID Préparation Seau 1.7 — ماء"
+      "ar": "WALID Préparation Seau 1.7"
     },
-    "category": "eau",
+    "category": "preparation-fromagere",
     "description": {
       "fr": "",
       "ar": ""
@@ -16624,9 +16804,9 @@
     "barcode": "6132320900013",
     "name": {
       "fr": "WALID Préparation Seau 1.8 kg",
-      "ar": "WALID Préparation Seau 1.8 kg — ماء"
+      "ar": "WALID Préparation Seau 1.8 kg"
     },
-    "category": "eau",
+    "category": "preparation-fromagere",
     "description": {
       "fr": "",
       "ar": ""
@@ -16634,7 +16814,7 @@
     "price": 750.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/WAL0023.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -16646,7 +16826,7 @@
       "fr": "Walide Barre 250 g",
       "ar": "Walide Barre 250 g"
     },
-    "category": "epicerie",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -16774,7 +16954,7 @@
     "price": 130.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": null,
+    "image": "images/products/YAO0006.webp",
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17034,7 +17214,7 @@
     "price": 20.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0019.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17054,7 +17234,7 @@
     "price": 20.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0020.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17074,7 +17254,7 @@
     "price": 20.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0021.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": true
@@ -17534,7 +17714,7 @@
     "price": 50.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0044.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17554,7 +17734,7 @@
     "price": 50.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0045.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17574,7 +17754,7 @@
     "price": 50.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0046.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17674,7 +17854,7 @@
     "price": 120.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0051.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17754,7 +17934,7 @@
     "price": 65.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0055.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -17774,7 +17954,7 @@
     "price": 65.0,
     "pricePerKg": null,
     "soldByWeight": false,
-    "image": "images/products/YAO0056.webp",
+    "image": null,
     "stock": 999,
     "featured": false,
     "bestSeller": false
@@ -18017,6 +18197,726 @@
     "image": null,
     "stock": 999,
     "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0001",
+    "barcode": "6130093055077",
+    "name": {
+      "fr": "Ifri Eau Minérale Fardeau 1.5 L",
+      "ar": "إفري مياه معدنية 1.5 لتر"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 240.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0001.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0002",
+    "barcode": "6130093055053",
+    "name": {
+      "fr": "Ifri Eau Minérale 0.5 L Fardeau",
+      "ar": "إفري مياه معدنية 0.5 لتر"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 270.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0002.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0098",
+    "barcode": "6130093068183",
+    "name": {
+      "fr": "Ifri Eau minérale gazeuse au citron 1 L",
+      "ar": "مياه معدنية غازية بالليمون 1 لتر"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 70.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0098.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0099",
+    "barcode": "6130093068190",
+    "name": {
+      "fr": "Ifri Eau minérale gazeuse à la menthe 33 cl",
+      "ar": "مياه معدنية غازية بالنعناع 33 سل"
+    },
+    "category": "eau",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 35.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0099.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0003",
+    "barcode": "6130093064406",
+    "name": {
+      "fr": "Ifruit Aux Ananas et Orange 1 L",
+      "ar": "إيفرويت بالأناناس والبرتقال 1 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 120.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0003.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0004",
+    "barcode": "6130093067933",
+    "name": {
+      "fr": "Ifruit Carotte et Orange 0.3 L",
+      "ar": "إيفرويت بالجزر والبرتقال 0.3 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 60.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0004.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0005",
+    "barcode": "6130093067957",
+    "name": {
+      "fr": "Ifruit Citronade 0.3 L",
+      "ar": "إيفرويت ليمونادة 0.3 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 60.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0005.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0006",
+    "barcode": "6130093059211",
+    "name": {
+      "fr": "Ifruit Citronade 2 L",
+      "ar": "إيفرويت ليمونادة 2 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0006.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0007",
+    "barcode": "6130093068022",
+    "name": {
+      "fr": "Ifruit Jus de Pomme Raisin Frais au Lait 0.3 L",
+      "ar": "إيفرويت عصير التفاح والعنب الطازج بالحليب 0.3 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 60.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0007.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0008",
+    "barcode": "6130093069265",
+    "name": {
+      "fr": "Ifruit Jus Orange Ananas au Lait Carton 0.2 L",
+      "ar": "إيفرويت عصير البرتقال والأناناس بالحليب 0.2 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 50.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0008.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0009",
+    "barcode": "6130093067223",
+    "name": {
+      "fr": "Ifruit Mangue et Pomme 1 L",
+      "ar": "إيفرويت مانجو وتفاح 1 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 120.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0009.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0010",
+    "barcode": "6130093067230",
+    "name": {
+      "fr": "Ifruit Mangue et Pomme 2 L",
+      "ar": "إيفرويت مانجو وتفاح 2 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0010.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0011",
+    "barcode": "6130093067926",
+    "name": {
+      "fr": "Ifruit Orange 0.3 L",
+      "ar": "إيفرويت برتقال 0.3 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 60.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0011.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0012",
+    "barcode": "6130093057040",
+    "name": {
+      "fr": "Ifruit Orange 2 L",
+      "ar": "إيفرويت برتقال 2 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0012.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0013",
+    "barcode": "6130093057002",
+    "name": {
+      "fr": "Ifruit Orange Citron Carotte 1 L",
+      "ar": "إيفرويت برتقال وليمون وجزر 1 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 120.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0013.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0014",
+    "barcode": "6130093059044",
+    "name": {
+      "fr": "Ifruit Pêche Abricot 1 L",
+      "ar": "إيفرويت خوخ ومشمش 1 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 120.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0014.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "IFR0015",
+    "barcode": "6130093057057",
+    "name": {
+      "fr": "Ifruit Raisin 2 L",
+      "ar": "إيفرويت عنب 2 لتر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/IFR0015.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "JEL0001",
+    "barcode": "6134731000054",
+    "name": {
+      "fr": "Jelly Fruits Bonbons 250 g",
+      "ar": "جيلي فروتس حلوى 250 غ"
+    },
+    "category": "confiserie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "TCH0099",
+    "barcode": "6130234008993",
+    "name": {
+      "fr": "Tchina 2 L Carotte",
+      "ar": "تشنـا 2 لتر بالجزر"
+    },
+    "category": "jus",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/TCH0099.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0001",
+    "barcode": "6135712001329",
+    "name": {
+      "fr": "Good Day Banadas Noisette",
+      "ar": "غود داي باناداس بالبندق"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0001.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0002",
+    "barcode": "6135712001022",
+    "name": {
+      "fr": "Good Day Banadas Pistache",
+      "ar": "غود داي باناداس بالفستق"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0002.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0003",
+    "barcode": "6135712000872",
+    "name": {
+      "fr": "Good Day Biscuit au chocolat noir",
+      "ar": "غود داي بسكويت بالشوكولاتة الداكنة"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 170.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0003.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0004",
+    "barcode": "6135712001527",
+    "name": {
+      "fr": "Good Day Biscuit fourré à la crème de pistache",
+      "ar": "غود داي بسكويت محشو بكريمة الفستق"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 170.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0004.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0005",
+    "barcode": "6135712001268",
+    "name": {
+      "fr": "Good Day Biscuit Pocket",
+      "ar": "غود داي بسكويت بوكيت"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0005.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0006",
+    "barcode": "6135712000858",
+    "name": {
+      "fr": "Good Day Chocolat",
+      "ar": "غود داي شوكولاتة"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 170.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0007",
+    "barcode": "6135712001039",
+    "name": {
+      "fr": "Good Day Oreo PM",
+      "ar": "غود داي أوريو"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0008",
+    "barcode": "6135712001435",
+    "name": {
+      "fr": "Good Day Petit déjeuner à la noix de coco",
+      "ar": "غود داي فطور بجوز الهند"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 130.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0008.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0009",
+    "barcode": "6135712001428",
+    "name": {
+      "fr": "Good Day Petit déjeuner à l'orange",
+      "ar": "غود داي فطور بالبرتقال"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 130.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0009.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0010",
+    "barcode": "6135712000988",
+    "name": {
+      "fr": "Good Day PM Banane",
+      "ar": "غود داي بي إم بالموز"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0011",
+    "barcode": "6135712000964",
+    "name": {
+      "fr": "Good Day PM Chocolat",
+      "ar": "غود داي بي إم بالشوكولاتة"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0012",
+    "barcode": "6135712000971",
+    "name": {
+      "fr": "Good Day PM Fraise",
+      "ar": "غود داي بي إم بالفراولة"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0013",
+    "barcode": "6135712001350",
+    "name": {
+      "fr": "Good Day Banadas aux cacahuètes",
+      "ar": "غود داي باناداس بالفول السوداني"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": null,
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0014",
+    "barcode": "6135712001381",
+    "name": {
+      "fr": "Good Day Banadas au caramel",
+      "ar": "غود داي باناداس بالكراميل"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0014.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GOO0015",
+    "barcode": "6135712001251",
+    "name": {
+      "fr": "Good Day Petit déjeuner au cacao",
+      "ar": "غود داي فطور بالكاكاو"
+    },
+    "category": "biscuits",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 130.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GOO0015.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GIP0099",
+    "barcode": "6130560002047",
+    "name": {
+      "fr": "Giplait Lait goût banane 1 L",
+      "ar": "جيبلات حليب بنكهة الموز 1 لتر"
+    },
+    "category": "lait",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIP0099.webp",
+    "stock": 999,
+    "featured": true,
+    "bestSeller": false
+  },
+  {
+    "id": "GIP0098",
+    "barcode": "6130560002048",
+    "name": {
+      "fr": "Giplait Lait goût fruit des bois 1 L",
+      "ar": "جيبلات حليب بنكهة فاكهة الغابة 1 لتر"
+    },
+    "category": "lait",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 190.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIP0098.webp",
+    "stock": 999,
+    "featured": true,
     "bestSeller": false
   }
 ]
