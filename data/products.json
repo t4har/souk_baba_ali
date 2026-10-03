@@ -1286,7 +1286,7 @@
       "fr": "Beurre Edough 250 g",
       "ar": "Beurre Edough 250 g"
     },
-    "category": "epicerie",
+    "category": "beurre",
     "description": {
       "fr": "",
       "ar": ""
@@ -2006,7 +2006,7 @@
       "fr": "BOUROUROU Fromage de Vache 120 g Nature",
       "ar": "BOUROUROU Fromage de Vache 120 g Nature — جبن"
     },
-    "category": "fromage-fondu",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -2026,7 +2026,7 @@
       "fr": "BOUROUROU Fromage de Vache 120 g à l'ail",
       "ar": "BOUROUROU Fromage de Vache 120 g à l'ail — جبن"
     },
-    "category": "fromage-fondu",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -2046,7 +2046,7 @@
       "fr": "BOUROUROU Fromage de Vache 120 g au Cumin",
       "ar": "BOUROUROU Fromage de Vache 120 g au Cumin — جبن"
     },
-    "category": "fromage-fondu",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -2106,7 +2106,7 @@
       "fr": "Bourourou Fromage de chèvre 120 g Nature",
       "ar": "BOUROUROU Fromage de chèvre 120 g Nature — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -2126,7 +2126,7 @@
       "fr": "Bourourou Fromage de chèvre 120 g au Cumin",
       "ar": "BOUROUROU Fromage de chèvre 120 g au Cumin — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -2146,7 +2146,7 @@
       "fr": "Bourourou Fromage de chèvre 120 g à l'Ail",
       "ar": "BOUROUROU Fromage de chèvre 120 g à l'Ail — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -2283,10 +2283,10 @@
     "id": "BRA0001",
     "barcode": "6130783001247",
     "name": {
-      "fr": "Bravo 32P",
+      "fr": "Bravo fromage à tartiner 32P",
       "ar": "Bravo 32P"
     },
-    "category": "epicerie",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -2303,8 +2303,8 @@
     "id": "BRA0002",
     "barcode": "6130783001063",
     "name": {
-      "fr": "Bravo Portion 8",
-      "ar": "Bravo Portion 8"
+      "fr": "Bravo fromage à tartiner 8P",
+      "ar": "Bravo fromage à tartiner 8P"
     },
     "category": "fromage-fondu",
     "description": {
@@ -2323,10 +2323,10 @@
     "id": "BRA0003",
     "barcode": "5336",
     "name": {
-      "fr": "Bravo Unite",
-      "ar": "Bravo Unite"
+      "fr": "Bravo fromage à tartiner une unité",
+      "ar": "Bravo fromage à tartiner une unité"
     },
-    "category": "epicerie",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -3491,9 +3491,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 400.0,
-    "soldByWeight": true,
+    "price": 400.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/CAM0021.webp",
     "stock": 999,
     "featured": true,
@@ -3511,9 +3511,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 360.0,
-    "soldByWeight": true,
+    "price": 360.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/CAM0022.webp",
     "stock": 999,
     "featured": false,
@@ -3531,9 +3531,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 390.0,
-    "soldByWeight": true,
+    "price": 390.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/CAM0023.webp",
     "stock": 999,
     "featured": true,
@@ -3551,9 +3551,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 195.0,
-    "soldByWeight": true,
+    "price": 195.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/CAM0024.webp",
     "stock": 999,
     "featured": true,
@@ -3903,8 +3903,8 @@
     "id": "CES0001",
     "barcode": "6132685700075",
     "name": {
-      "fr": "Cesar Cheddar Barre 2 kg",
-      "ar": "Cesar Cheddar Barre 2 kg"
+      "fr": "César Cheddar Barre 2 kg",
+      "ar": "César Cheddar Barre 2 kg"
     },
     "category": "pate-dure",
     "description": {
@@ -3923,10 +3923,10 @@
     "id": "CES0002",
     "barcode": "6135650000682",
     "name": {
-      "fr": "Cesar Froage Fondu 180",
-      "ar": "Cesar Froage Fondu 180"
+      "fr": "César Fromage Fondu 180g",
+      "ar": "César Frmoage Fondu 180g"
     },
-    "category": "epicerie",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
@@ -3943,8 +3943,8 @@
     "id": "CES0003",
     "barcode": "6135650000699",
     "name": {
-      "fr": "Cesar Fromage Fondu 360 g",
-      "ar": "Cesar Fromage Fondu 360 g — جبن"
+      "fr": "César Fromage Fondu 360g",
+      "ar": "César Fromage Fondu 360g — جبن"
     },
     "category": "fromage-fondu",
     "description": {
@@ -4263,8 +4263,8 @@
     "id": "CHA0001",
     "barcode": "6935897626443",
     "name": {
-      "fr": "Champignons 160 g",
-      "ar": "Champignons 160 g"
+      "fr": "Golden Land Champignons 160 g",
+      "ar": "Golden Land Champignons 160 g"
     },
     "category": "epicerie",
     "description": {
@@ -6223,10 +6223,10 @@
     "id": "EL0004",
     "barcode": "6132168900190",
     "name": {
-      "fr": "Al Djaouhara Camembrt 220 g",
-      "ar": "Al Djaouhara Camembrt 220 g"
+      "fr": "Al Djaouhara Camembert 220 g",
+      "ar": "Al Djaouhara Camembert 220 g"
     },
-    "category": "epicerie",
+    "category": "camembert",
     "description": {
       "fr": "",
       "ar": ""
@@ -8666,7 +8666,7 @@
       "fr": "GIPLAIT Crème Dessert Caroube",
       "ar": "GIPLAIT Crème Dessert Caroube — حليب"
     },
-    "category": "lait",
+    "category": "yaourt",
     "description": {
       "fr": "",
       "ar": ""
@@ -10411,9 +10411,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 180.0,
-    "soldByWeight": true,
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/BAR0018.webp",
     "stock": 999,
     "featured": true,
@@ -10451,9 +10451,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 470.0,
-    "soldByWeight": true,
+    "price": 470.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/BAR0020.webp",
     "stock": 999,
     "featured": false,
@@ -12983,10 +12983,10 @@
     "id": "POR0006",
     "barcode": "6130816007550",
     "name": {
-      "fr": "PORTOMAR A Lhuile 1 kg",
-      "ar": "PORTOMAR A Lhuile 1 kg — زيت"
+      "fr": "PORTOMAR A L'huile 1 kg",
+      "ar": "PORTOMAR A L'huile 1 kg — زيت"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -13223,10 +13223,10 @@
     "id": "PRE0002",
     "barcode": "6132320900037",
     "name": {
-      "fr": "Préparation WALID 3.8",
-      "ar": "Préparation WALID 3.8"
+      "fr": "Préparation WALID 3.8kg",
+      "ar": "Préparation WALID 3.8kg"
     },
-    "category": "epicerie",
+    "category": "preparation-fromagere",
     "description": {
       "fr": "",
       "ar": ""
@@ -13326,7 +13326,7 @@
       "fr": "Fromage frais de chèvre 150 g",
       "ar": "جبن طازج من حليب الماعز 150 غ"
     },
-    "category": "pate-dure",
+    "category": "fromage-frais",
     "description": {
       "fr": "",
       "ar": ""
@@ -13651,9 +13651,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 390.0,
-    "soldByWeight": true,
+    "price": 390.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/PRO0019.webp",
     "stock": 999,
     "featured": false,
@@ -13903,10 +13903,10 @@
     "id": "RIC0001",
     "barcode": "6130816010147",
     "name": {
-      "fr": "RICAMAR Huil 160 g",
-      "ar": "RICAMAR Huil 160 g"
+      "fr": "RICAMAR Thon à l'Huile végétale 160 g",
+      "ar": "RICAMAR Thon à l'Huile végétale 160 g"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -13923,10 +13923,10 @@
     "id": "RIC0002",
     "barcode": "6130816010048",
     "name": {
-      "fr": "RICAMAR Huile",
-      "ar": "RICAMAR Huile — زيت"
+      "fr": "RICAMAR Thon à l'Huile végétale",
+      "ar": "RICAMAR Thon à l'Huile végétale — زيت"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -13943,10 +13943,10 @@
     "id": "RIC0003",
     "barcode": "6130816010185",
     "name": {
-      "fr": "RICAMAR Huile 1 kg",
-      "ar": "RICAMAR Huile 1 kg — زيت"
+      "fr": "RICAMAR Thon à l'Huile végétale 1 kg",
+      "ar": "RICAMAR Thon à l'Huile végétale 1 kg — زيت"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -13963,10 +13963,10 @@
     "id": "RIC0004",
     "barcode": "6130816010468",
     "name": {
-      "fr": "RICAMAR Huile 400 g",
-      "ar": "RICAMAR Huile 400 g — زيت"
+      "fr": "RICAMAR Thon à l'Huile végétale  400 g",
+      "ar": "RICAMAR Thon à l'Huile végétale  400 g — زيت"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -13983,10 +13983,10 @@
     "id": "RIC0005",
     "barcode": "6130816010055",
     "name": {
-      "fr": "RICAMAR Huile Unite",
-      "ar": "RICAMAR Huile Unite — زيت"
+      "fr": "RICAMAR Thon à l'Huile végétale à l'unité",
+      "ar": "RICAMAR Thon à l'Huile végétale à l'unité — زيت"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14003,10 +14003,10 @@
     "id": "RIC0006",
     "barcode": "6130816010932",
     "name": {
-      "fr": "RICAMAR Nature",
-      "ar": "RICAMAR Nature"
+      "fr": "RICAMAR Thon Nature",
+      "ar": "RICAMAR Thon Nature"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14023,10 +14023,10 @@
     "id": "RIC0007",
     "barcode": "6130816010949",
     "name": {
-      "fr": "RICAMAR Nature Unite",
-      "ar": "RICAMAR Nature Unite"
+      "fr": "RICAMAR Thon Nature à l'unité",
+      "ar": "RICAMAR Thon Nature à l'unité"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14043,10 +14043,10 @@
     "id": "RIC0008",
     "barcode": "6130816011502",
     "name": {
-      "fr": "RICAMAR Piquant",
-      "ar": "RICAMAR Piquant"
+      "fr": "RICAMAR Thon à la Sauce Piquante",
+      "ar": "RICAMAR Thon à la Sauce Piquante"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14063,10 +14063,10 @@
     "id": "RIC0009",
     "barcode": "6130816011526",
     "name": {
-      "fr": "RICAMAR Piquant 1 Unite",
-      "ar": "RICAMAR Piquant 1 Unite"
+      "fr": "RICAMAR Thon à la Sauce Piquante une unité",
+      "ar": "RICAMAR Thon à la Sauce Piquante une unité"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14103,10 +14103,10 @@
     "id": "RIC0011",
     "barcode": "6130816010031",
     "name": {
-      "fr": "RICAMAR Tomate",
-      "ar": "RICAMAR Tomate"
+      "fr": "RICAMAR Thon à la Sauce Tomate",
+      "ar": "RICAMAR Thon à la Sauce Tomate"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14123,10 +14123,10 @@
     "id": "RIC0012",
     "barcode": "6130816010062",
     "name": {
-      "fr": "RICAMAR Tomate Unite",
-      "ar": "RICAMAR Tomate Unite"
+      "fr": "RICAMAR Thon à la Sauce Tomate à l'unité",
+      "ar": "RICAMAR Thon à la Sauce Tomate à l'unité"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14143,10 +14143,10 @@
     "id": "RIC0013",
     "barcode": "6130816010154",
     "name": {
-      "fr": "Ricamare Tomate 160 g",
-      "ar": "Ricamare Tomate 160 g"
+      "fr": "Ricamare Thon à la Sauce Tomate 160 g",
+      "ar": "Ricamare Thon à la Sauce Tomate 160 g"
     },
-    "category": "sauce",
+    "category": "epicerie",
     "description": {
       "fr": "",
       "ar": ""
@@ -14203,8 +14203,8 @@
     "id": "RIZ0001",
     "barcode": "6132557880010",
     "name": {
-      "fr": "Riz Basmati 1 kg",
-      "ar": "Riz Basmati 1 kg"
+      "fr": "Rizélla Riz Basmati 1 kg",
+      "ar": "Rizélla Riz Basmati 1 kg"
     },
     "category": "riz",
     "description": {
@@ -14663,8 +14663,8 @@
     "id": "SAU0012",
     "barcode": "6134718000596",
     "name": {
-      "fr": "Sauce Salade Ciboulettes et Percil 500 ml",
-      "ar": "Sauce Salade Ciboulettes et Percil 500 ml — صلصة"
+      "fr": "Fleurial Sauce Salade Ciboulettes et Percil 500 ml",
+      "ar": "Fleurial Sauce Salade Ciboulettes et Percil 500 ml — صلصة"
     },
     "category": "sauce",
     "description": {
@@ -15923,8 +15923,8 @@
     "id": "TIN0001",
     "barcode": "6132108100505",
     "name": {
-      "fr": "Tinfo Boules de Cèréales Goût de Miel",
-      "ar": "Tinfo Boules de Cèréales Goût de Miel"
+      "fr": "Tinfo Boules de Cèréales Goût Miel",
+      "ar": "Tinfo Boules de Cèréales Goût Miel"
     },
     "category": "epicerie",
     "description": {
@@ -16003,8 +16003,8 @@
     "id": "TIS0003",
     "barcode": "6132950124209",
     "name": {
-      "fr": "Hiltho Tisane Relaxante Menthe Verveine Orange Clou de Gi",
-      "ar": "Hiltho Tisane Relaxante Menthe Verveine Orange Clou de Gi — أعشاب"
+      "fr": "Hiltho Tisane Relaxante Menthe Verveine Orange Clou de Girofle",
+      "ar": "Hiltho Tisane Relaxante Menthe Verveine Orange Clou de Girofle — أعشاب"
     },
     "category": "tisane",
     "description": {
@@ -16431,9 +16431,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 450.0,
-    "soldByWeight": true,
+    "price": 450.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0004.webp",
     "stock": 999,
     "featured": false,
@@ -16451,9 +16451,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 650.0,
-    "soldByWeight": true,
+    "price": 650.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0005.webp",
     "stock": 999,
     "featured": false,
@@ -16486,14 +16486,14 @@
       "fr": "WALID Fromage Chezzo Cheddar Plus 180 g",
       "ar": "WALID Fromage Chezzo Cheddar Plus 180 g — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 180.0,
-    "soldByWeight": true,
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0007.webp",
     "stock": 999,
     "featured": false,
@@ -16506,14 +16506,14 @@
       "fr": "WALID Fromage Chezzo Edam 180 g",
       "ar": "WALID Fromage Chezzo Edam 180 g — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 180.0,
-    "soldByWeight": true,
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0008.webp",
     "stock": 999,
     "featured": false,
@@ -16526,14 +16526,14 @@
       "fr": "WALID Fromage Chezzo Gouda 180 g",
       "ar": "WALID Fromage Chezzo Gouda 180 g — جبن"
     },
-    "category": "pate-dure",
+    "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 180.0,
-    "soldByWeight": true,
+    "price": 180.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0009.webp",
     "stock": 999,
     "featured": false,
@@ -16611,9 +16611,9 @@
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 550.0,
-    "soldByWeight": true,
+    "price": 550.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0013.webp",
     "stock": 999,
     "featured": false,
@@ -16823,17 +16823,17 @@
     "id": "WAL0024",
     "barcode": "6131575000011",
     "name": {
-      "fr": "Walide Barre 250 g",
-      "ar": "Walide Barre 250 g"
+      "fr": "Walid Barre 250 g",
+      "ar": "Walid Barre 250 g"
     },
     "category": "fromage-fondu",
     "description": {
       "fr": "",
       "ar": ""
     },
-    "price": 0,
-    "pricePerKg": 230.0,
-    "soldByWeight": true,
+    "price": 230.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
     "image": "images/products/WAL0024.webp",
     "stock": 999,
     "featured": false,
@@ -18918,5 +18918,808 @@
     "stock": 999,
     "featured": true,
     "bestSeller": false
+  },
+  {
+    "id": "FRO9999",
+    "barcode": "6132406000163",
+    "name": {
+      "fr": "FROMAGGIO PREPARATION 3.8Kg",
+      "ar": "FROMAGGIO PREPARATION 3.8Kg"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1400.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/FRO9999.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "GIO9998",
+    "barcode": "6132406000316",
+    "name": {
+      "fr": "GIO FROMAGE FONDU 1.6Kg",
+      "ar": "GIO FROMAGE FONDU 1.6Kg"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1150.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIO9998.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "GIO9997",
+    "barcode": "6132406000309",
+    "name": {
+      "fr": "GIO FROMAGE FONDU 250Gr",
+      "ar": "GIO FROMAGE FONDU 250Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 225.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIO9997.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "GIO9996",
+    "barcode": "6132406000279",
+    "name": {
+      "fr": "GIO FROMAGE FONDU 400Gr",
+      "ar": "GIO FROMAGE FONDU 400Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 320.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIO9996.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "GIO9995",
+    "barcode": "6132406000354",
+    "name": {
+      "fr": "GIO FROMAGGIO 1.5Kg",
+      "ar": "GIO FROMAGGIO 1.5Kg"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 780.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIO9995.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "GIO9994",
+    "barcode": "6132406000040",
+    "name": {
+      "fr": "GIOFROMAGGIO PREPARATION 1.8Kg",
+      "ar": "GIOFROMAGGIO PREPARATION 1.8Kg"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 730.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIO9994.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+
+{
+  "id": "MAS9993",
+  "barcode": "6448500412321",
+  "name": {
+    "fr": "TIRAMISU MASSI DELICE OREO FRAISE",
+    "ar": "تيراميسو ماسي ديليس أوريو فراولة"
+  },
+  "category": "dessert",
+  "description": {
+    "fr": "",
+    "ar": ""
+  },
+  "price": 200.0,
+  "pricePerKg": null,
+  "soldByWeight": false,
+  "image": "images/products/MAS9993.webp",
+  "stock": 999,
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "MAS9992",
+  "barcode": "6448500412321",
+  "name": {
+    "fr": "TIRAMISU MASSI DELICE CHOCOLAT DUBAI",
+    "ar": "تيراميسو ماسي ديليس شوكولاتة دبي"
+  },
+  "category": "dessert",
+  "description": {
+    "fr": "",
+    "ar": ""
+  },
+  "price": 200.0,
+  "pricePerKg": null,
+  "soldByWeight": false,
+  "image": "images/products/MAS9992.webp",
+  "stock": 999,
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "MAS9991",
+  "barcode": "6448500412321",
+  "name": {
+    "fr": "TIRAMISU MASSI DELICE OREO",
+    "ar": "تيراميسو ماسي ديليس أوريو"
+  },
+  "category": "dessert",
+  "description": {
+    "fr": "",
+    "ar": ""
+  },
+  "price": 200.0,
+  "pricePerKg": null,
+  "soldByWeight": false,
+  "image": "images/products/MAS9991.webp",
+  "stock": 999,
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "MAS9990",
+  "barcode": "6448500412321",
+  "name": {
+    "fr": "TIRAMISU MASSI DELICE BUENO",
+    "ar": "تيراميسو ماسي ديليس بوينو"
+  },
+  "category": "dessert",
+  "description": {
+    "fr": "",
+    "ar": ""
+  },
+  "price": 200.0,
+  "pricePerKg": null,
+  "soldByWeight": false,
+  "image": "images/products/MAS9990.webp",
+  "stock": 999,
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "MAS9989",
+  "barcode": "6448500412321",
+  "name": {
+    "fr": "TIRAMISU MASSI DELICE SNICKERS",
+    "ar": "تيراميسو ماسي ديليس سنيكرز"
+  },
+  "category": "dessert",
+  "description": {
+    "fr": "",
+    "ar": ""
+  },
+  "price": 200.0,
+  "pricePerKg": null,
+  "soldByWeight": false,
+  "image": "images/products/MAS9989.webp",
+  "stock": 999,
+  "featured": false,
+  "bestSeller": false
+},
+{
+  "id": "MAS9988",
+  "barcode": "6448500412321",
+  "name": {
+    "fr": "TIRAMISU MASSI DELICE NUTELLA",
+    "ar": "تيراميسو ماسي ديليس نوتيلا"
+  },
+  "category": "dessert",
+  "description": {
+    "fr": "",
+    "ar": ""
+  },
+  "price": 200.0,
+  "pricePerKg": null,
+  "soldByWeight": false,
+  "image": "images/products/MAS9988.webp",
+  "stock": 999,
+  "featured": false,
+  "bestSeller": false
+},
+
+  {
+    "id": "FUL9992",
+    "barcode": "6132950124278",
+    "name": {
+      "fr": "FULLY MINI COOKIES BIRTHDAY",
+      "ar": "FULLY MINI COOKIES BIRTHDAY"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 160.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/FUL9992.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9991",
+    "barcode": "1005348093102",
+    "name": {
+      "fr": "MINI CONES 50 GR CHOCOLAT AU LAIT",
+      "ar": "MINI CONES 50 GR CHOCOLAT AU LAIT"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9991.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9990",
+    "barcode": "6132521470018",
+    "name": {
+      "fr": "MINI CONES 50 GR CHOCOLAT BLANC",
+      "ar": "MINI CONES 50 GR CHOCOLAT BLANC<"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9990.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9989",
+    "barcode": "6132521470087",
+    "name": {
+      "fr": "MINI CONES 50 GR PISTACHE",
+      "ar": "MINI CONES 50 GR PISTACHE"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9989.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9988",
+    "barcode": "6132521470032",
+    "name": {
+      "fr": "MINI CONES NOISETTE 70 GR",
+      "ar": "MINI CONES NIOSETTE 70 GR"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 130.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9988.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9987",
+    "barcode": "6132950124261",
+    "name": {
+      "fr": "MINI COOKIES GOUT CACAO ET CACAHUET",
+      "ar": "MINI COOKIES GOUT CACAO ET CACAHUET"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9987.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9986",
+    "barcode": "6132950124254",
+    "name": {
+      "fr": "MINI COOKIES GOUT CACAO ET CHOCOLA",
+      "ar": "MINI COOKIES GOUT CACAO ET CHOCOLA"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9986.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "MIN9985",
+    "barcode": "6132950124247",
+    "name": {
+      "fr": "MINI COOKIES GOUT VANILLE ET CHOCOL",
+      "ar": "MINI COOKIES GOUT VANILLE ET CHOCOL"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 150.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/MIN9985.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "CRE9984",
+    "barcode": "6131010001122",
+    "name": {
+      "fr": "CREME CAROUBE 90G",
+      "ar": "CREME CAROUBE 90G"
+    },
+    "category": "dessert",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/CRE9984.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "GIP9983",
+    "barcode": "6131010001139",
+    "name": {
+      "fr": "GIPLAIT CREME DESSERT CAROUBE",
+      "ar": "GIPLAIT CREME DESSERT CAROUBE"
+    },
+    "category": "yaourt",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 25.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/GIP9983.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "POU9982",
+    "barcode": "6135691000153",
+    "name": {
+      "fr": "POUDRE DE CAROUBE 250Gr",
+      "ar": "POUDRE DE CAROUBE 250Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 110.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/POU9982.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "JNA9981",
+    "barcode": "6132500821848",
+    "name": {
+      "fr": "CONFITURE JNAN PATATE DOUCE ET 4 EP",
+      "ar": "CONFITURE JNAN PATATE DOUCE ET 4 EP"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 310.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/JNA9981.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "PAT9980",
+    "barcode": "6139993355737",
+    "name": {
+      "fr": "PATATE SOUFFLEE",
+      "ar": "PATATE SOUFFLEE"
+    },
+    "category": "epicerie",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 100.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/PAT9980.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "BRA9979",
+    "barcode": "6130783001247",
+    "name": {
+      "fr": "BRAVO 32P",
+      "ar": "BRAVO 32P"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 300.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BRA9979.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "BRA9978",
+    "barcode": "6130783004002",
+    "name": {
+      "fr": "BRAVO OKIDS",
+      "ar": "BRAVO OKIDS"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BRA9978.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "BRA9977",
+    "barcode": "6130783001063",
+    "name": {
+      "fr": "BRAVO PORTION 8",
+      "ar": "BRAVO PORTION 8"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 90.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BRA9977.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "BRA9976",
+    "barcode": "5336",
+    "name": {
+      "fr": "BRAVO UNITE",
+      "ar": "BRAVO UNITE"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 10.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/BRA9976.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9975",
+    "barcode": "6130783003951",
+    "name": {
+      "fr": "FROMAGE FONDUE OKIDS 500G",
+      "ar": "FROMAGE FONDUE OKIDS 500G"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 390.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9975.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9974",
+    "barcode": "6130783003401",
+    "name": {
+      "fr": "OKIDS FROMAGE FONDU 1.2Kg",
+      "ar": "OKIDS FROMAGE FONDU 1.2Kg"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 1100.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9974.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9973",
+    "barcode": "6130783003388",
+    "name": {
+      "fr": "OKIDS FROMAGE FONDU 200Gr",
+      "ar": "OKIDS FROMAGE FONDU 200Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 200.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9973.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9972",
+    "barcode": "6130783003715",
+    "name": {
+      "fr": "OKIDS FROMAGE FONDU 480Gr",
+      "ar": "OKIDS FROMAGE FONDU 480Gr"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 450.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9972.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9971",
+    "barcode": "6130783003081",
+    "name": {
+      "fr": "OKIDS FROMAGE PREPARATION 4 FROMAG",
+      "ar": "OKIDS FROMAGE PREPARATION 4 FROMAG"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 800.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9971.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9970",
+    "barcode": "6130783003098",
+    "name": {
+      "fr": "OKIDS FROMAGE PREPARATION 4 FROMAC",
+      "ar": "OKIDS FROMAGE PREPARATION 4 FROMAC"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 250.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9970.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9969",
+    "barcode": "6130783000462",
+    "name": {
+      "fr": "OKIDS PORTION 16 FROMAGE FONDU",
+      "ar": "OKIDS PORTION 16 FROMAGE FONDU"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 275.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9969.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9968",
+    "barcode": "6130783000486",
+    "name": {
+      "fr": "OKIDS PORTION 24 FROMAGE FONDU",
+      "ar": "OKIDS PORTION 24 FROMAGE FONDU"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 400.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9968.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9967",
+    "barcode": "6130783001230",
+    "name": {
+      "fr": "OKIDS PORTION 32 FROMAGE FONDU",
+      "ar": "OKIDS PORTION 32 FROMAGE FONDU"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 520.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9967.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9966",
+    "barcode": "6130783000479",
+    "name": {
+      "fr": "OKIDS PORTION 8 FROMAGE FONDU",
+      "ar": "OKIDS PORTION 8 FROMAGE FONDU"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 145.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9966.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
+  },
+  {
+    "id": "OKI9965",
+    "barcode": "4554545",
+    "name": {
+      "fr": "PORTION OKIDS UNITE",
+      "ar": "PORTION OKIDS UNITE"
+    },
+    "category": "fromage-fondu",
+    "description": {
+      "fr": "",
+      "ar": ""
+    },
+    "price": 20.0,
+    "pricePerKg": null,
+    "soldByWeight": false,
+    "image": "images/products/OKI9965.webp",
+    "stock": 999,
+    "featured": false,
+    "bestSeller": false
   }
 ]
+
